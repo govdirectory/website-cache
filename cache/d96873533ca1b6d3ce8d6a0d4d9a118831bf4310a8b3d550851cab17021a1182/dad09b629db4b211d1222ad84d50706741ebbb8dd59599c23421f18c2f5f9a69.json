@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/National_Library_of_Scotland"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.nls.uk/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:manuscripts@nls.uk"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+44-131-623-3700"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Swedish_Dental_and_Pharmaceutical_Benefits_Agency"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.tlv.se/in-english-old/in-english/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:registrator@tlv.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-8-568-420-50"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/_sfs-2007-1206"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Förordning (2007:1206) med instruktion för Tandvårds- och läkemedelsförmånsverket"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Agneta Karlsson"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2611987"
+      }
+    } ]
+  }
+}

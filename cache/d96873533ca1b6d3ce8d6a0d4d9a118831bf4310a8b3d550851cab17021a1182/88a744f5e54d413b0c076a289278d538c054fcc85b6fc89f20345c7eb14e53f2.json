@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Helgeland_District_Court"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.domstol.no/enkelt-domstol/helgeland-tingrett/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:helgeland.tingrett@domstol.no"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+47-75-43-17-40"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4249367"
+      }
+    } ]
+  }
+}

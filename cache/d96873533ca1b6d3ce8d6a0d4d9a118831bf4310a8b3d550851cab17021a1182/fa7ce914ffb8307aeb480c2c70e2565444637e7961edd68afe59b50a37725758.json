@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Beernem"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.beernem.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gemeentehuis@beernem.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32 50 28 91 20"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jos Sypré"
+      }
+    } ]
+  }
+}

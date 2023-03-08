@@ -1,0 +1,43 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/%C3%96stra_G%C3%B6inge_Municipality"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.ostragoinge.se"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:kommun@ostragoinge.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-44-775-60-00"
+      },
+      "foiUrl" : {
+        "type" : "uri",
+        "value" : "https://handlingar.se/en/new/ostra_goinge_municipality"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/kommunallag-2017725_sfs-2017-725"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Kommunallag (2017:725)"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Patric Åberg"
+      }
+    } ]
+  }
+}

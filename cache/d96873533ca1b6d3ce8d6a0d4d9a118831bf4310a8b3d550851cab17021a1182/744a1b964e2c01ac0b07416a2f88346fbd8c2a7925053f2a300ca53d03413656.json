@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.police.be/5312/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:zp.hautemeuse@police.belgium.eu"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32 82 67 68 10"
+      }
+    } ]
+  }
+}

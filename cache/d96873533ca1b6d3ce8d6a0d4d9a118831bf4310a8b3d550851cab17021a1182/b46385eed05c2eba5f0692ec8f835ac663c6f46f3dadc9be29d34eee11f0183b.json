@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Rijswijk"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.rijswijk.nl"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:stadhuis@rijswijk.nl"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+31070"
+      }
+    } ]
+  }
+}

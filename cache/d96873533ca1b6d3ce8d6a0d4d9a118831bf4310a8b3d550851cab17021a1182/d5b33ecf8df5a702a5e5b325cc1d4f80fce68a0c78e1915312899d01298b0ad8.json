@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Lebbeke"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.lebbeke.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gemeentebestuur@lebbeke.be"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Swedish_Polar_Research_Secretariat"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.polar.se"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:office@polar.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-70-550-23-93"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/_sfs-2007-1072"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Förordning (2007:1072) med instruktion för Polarforskningssekretariatet"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Katarina Gårdfeldt"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4294535"
+      }
+    } ]
+  }
+}

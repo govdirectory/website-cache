@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ministry_of_Manpower_(Singapore)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.mom.gov.sg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+65 6438 5122"
+      }
+    } ]
+  }
+}

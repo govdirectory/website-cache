@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.politie.be/5437/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:pz.lebbeke@police.belgium.eu"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32 52 46 83 83"
+      }
+    } ]
+  }
+}

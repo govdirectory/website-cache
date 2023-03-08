@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Alphen-Chaam"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.alphen-chaam.nl"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@alphen-chaam.nl"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+31135086666"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.swedenabroad.se/sv/utlandsmyndigheter/estland-tallinn/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:ambassaden.tallinn@gov.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+372-640-56-00"
+      }
+    } ]
+  }
+}

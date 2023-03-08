@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Indre_og_%C3%98stre_Finnmark_District_Court"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.domstol.no/enkelt-domstol/indre-og-ostre-finnmark-tingrett/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:indre.og.ostre.finnmark.tingrett@domstol.no"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+47-78-01-17-00"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4249367"
+      }
+    } ]
+  }
+}

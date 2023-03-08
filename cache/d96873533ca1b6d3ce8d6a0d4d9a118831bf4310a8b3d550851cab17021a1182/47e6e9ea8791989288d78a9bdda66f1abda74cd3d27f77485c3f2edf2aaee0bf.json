@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Katwijk"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.katwijk.nl"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@katwijk.nl"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+31714065000"
+      }
+    } ]
+  }
+}

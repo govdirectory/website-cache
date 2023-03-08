@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/G%C3%A1ivuotna_%E2%80%93_K%C3%A5fjord_%E2%80%93_Kaivuono"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.kafjord.kommune.no/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:post@kafjord.kommune.no"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bernt Eirik Isaksen Lyngstad"
+      }
+    } ]
+  }
+}

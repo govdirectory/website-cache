@@ -1,0 +1,39 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.bolagsverket.se/om/oss/fler/patentombud"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:patentombudsnamnden@patentombudsnamnden.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-77-167-06-70"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/_sfs-2010-1054"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Förordning (2010:1054) med instruktion för Patentombudsnämnden"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marcus Isgren"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1780898"
+      }
+    } ]
+  }
+}

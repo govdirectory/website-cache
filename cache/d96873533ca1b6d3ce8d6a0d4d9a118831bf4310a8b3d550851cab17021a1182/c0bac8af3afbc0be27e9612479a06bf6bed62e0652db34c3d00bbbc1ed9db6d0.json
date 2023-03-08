@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Puurs-Sint-Amands"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.puurs-sint-amands.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@puursam.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32 3 203 27 00"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Koen Van den Heuvel"
+      }
+    } ]
+  }
+}

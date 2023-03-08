@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/S%C3%B8ndre_%C3%98stfold_District_Court"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.domstol.no/enkelt-domstol/sondre-ostfold-tingrett/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:sondre.ostfold.tingrett@domstol.no"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+47-69-79-77-00"
+      }
+    } ]
+  }
+}

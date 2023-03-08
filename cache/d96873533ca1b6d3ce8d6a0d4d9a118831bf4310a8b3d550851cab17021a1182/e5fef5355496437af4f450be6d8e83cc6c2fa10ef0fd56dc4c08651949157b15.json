@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.vallei-veluwe.nl"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@vallei-veluwe.nl"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+31555272911"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Co Verdaas"
+      }
+    } ]
+  }
+}

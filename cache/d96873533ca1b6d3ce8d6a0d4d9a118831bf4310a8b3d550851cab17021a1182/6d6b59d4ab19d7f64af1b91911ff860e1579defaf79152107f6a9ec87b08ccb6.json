@@ -1,0 +1,47 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Nykvarn_Municipality"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.nykvarn.se"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:kommun@nykvarn.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-8-555-01000"
+      },
+      "citizensInitiatives" : {
+        "type" : "uri",
+        "value" : "https://www.nykvarn.se/kontaktochdialog/synpunkterfelanmalanochdialog/medborgarforslag.4.303bc5d51768421ffcb2c756.html"
+      },
+      "foiUrl" : {
+        "type" : "uri",
+        "value" : "https://handlingar.se/en/new/nykvarns_municipality"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/kommunallag-2017725_sfs-2017-725"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Kommunallag (2017:725)"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gunilla Lindstedt"
+      }
+    } ]
+  }
+}

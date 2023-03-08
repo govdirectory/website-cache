@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.arroieper.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:PZ.Arroieper@police.belgium.eu"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-57-23-05-00"
+      }
+    } ]
+  }
+}

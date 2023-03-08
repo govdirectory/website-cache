@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Echt-Susteren"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.echt-susteren.nl"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@echt-susteren.nl"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+31475478478"
+      }
+    } ]
+  }
+}

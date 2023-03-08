@@ -1,0 +1,47 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Br%C3%A4cke_Municipality"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.bracke.se"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:bracke@bracke.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-693-16100"
+      },
+      "citizensInitiatives" : {
+        "type" : "uri",
+        "value" : "https://www.bracke.se/kommunochpolitik/kommunensorganisation/paverka/medborgarforslag.4.73773db514ee2ab085a1e431.html"
+      },
+      "foiUrl" : {
+        "type" : "uri",
+        "value" : "https://handlingar.se/en/new/bracke_municipality"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/kommunallag-2017725_sfs-2017-725"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Kommunallag (2017:725)"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jörgen Persson"
+      }
+    } ]
+  }
+}

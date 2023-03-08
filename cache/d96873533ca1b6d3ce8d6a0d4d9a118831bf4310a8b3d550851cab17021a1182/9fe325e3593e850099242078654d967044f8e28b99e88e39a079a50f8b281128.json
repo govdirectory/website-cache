@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.wdodelta.nl"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@wdodelta.nl"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+31882331200"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/National_Archives_of_Sweden"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://riksarkivet.se/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:riksarkivet@riksarkivet.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-10-476-70-00"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/_sfs-2009-1593"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Förordning (2009:1593) med instruktion för Riksarkivet"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karin Åström Iko"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2611994"
+      }
+    } ]
+  }
+}

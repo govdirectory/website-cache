@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kuurne"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.kuurne.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@kuurne.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32 56 73 71 11"
+      }
+    } ]
+  }
+}

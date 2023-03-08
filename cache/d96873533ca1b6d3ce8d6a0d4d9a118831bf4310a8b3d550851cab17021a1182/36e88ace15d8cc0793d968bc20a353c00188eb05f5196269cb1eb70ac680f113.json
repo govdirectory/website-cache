@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Malle"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.malle.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@malle.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32 3 310 05 11"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sanne Van Looy"
+      }
+    } ]
+  }
+}

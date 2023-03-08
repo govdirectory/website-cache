@@ -1,0 +1,43 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Trollh%C3%A4ttan_Municipality"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.trollhattan.se/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:trollhattans.stad@trollhattan.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-520-495000"
+      },
+      "citizensInitiatives" : {
+        "type" : "uri",
+        "value" : "https://www.trollhattan.se/startsida/kommun-och-politik/dialog-och-synpunkter/?vv_hit=true"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/kommunallag-2017725_sfs-2017-725"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Kommunallag (2017:725)"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Paul Åkerlund"
+      }
+    } ]
+  }
+}

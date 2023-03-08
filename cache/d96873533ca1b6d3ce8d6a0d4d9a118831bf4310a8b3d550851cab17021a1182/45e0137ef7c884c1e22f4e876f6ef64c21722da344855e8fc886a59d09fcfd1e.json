@@ -1,0 +1,47 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/%C3%84lmhult_Municipality"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.almhult.se"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@almhult.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-476-55000"
+      },
+      "citizensInitiatives" : {
+        "type" : "uri",
+        "value" : "https://www.almhult.se/sv/kommunpolitik/sakandupaverka.4.2f2d6d8914b318b6d07c9578.html"
+      },
+      "foiUrl" : {
+        "type" : "uri",
+        "value" : "https://handlingar.se/en/new/almhult_municipality"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/kommunallag-2017725_sfs-2017-725"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Kommunallag (2017:725)"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Elizabeth Peltola"
+      }
+    } ]
+  }
+}

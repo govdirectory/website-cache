@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Sprimont"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.sprimont.be"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@sprimont.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32 4 382 18 91"
+      }
+    } ]
+  }
+}

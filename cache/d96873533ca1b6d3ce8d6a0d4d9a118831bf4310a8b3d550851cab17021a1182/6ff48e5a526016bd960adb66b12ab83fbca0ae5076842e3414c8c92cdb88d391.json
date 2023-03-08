@@ -1,0 +1,47 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Str%C3%B6mstad_Municipality"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.stromstad.se"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:kommun@stromstad.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-526-19000"
+      },
+      "citizensInitiatives" : {
+        "type" : "uri",
+        "value" : "https://www.stromstad.se/kommunochpolitik/synpunkterochdialog/medinflytandelamnamedborgarforslag.4.b5400fe1453b28b6b71e805.html"
+      },
+      "foiUrl" : {
+        "type" : "uri",
+        "value" : "https://handlingar.se/en/new/municipality_of_stromstad"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/kommunallag-2017725_sfs-2017-725"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Kommunallag (2017:725)"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kent Hansson"
+      }
+    } ]
+  }
+}

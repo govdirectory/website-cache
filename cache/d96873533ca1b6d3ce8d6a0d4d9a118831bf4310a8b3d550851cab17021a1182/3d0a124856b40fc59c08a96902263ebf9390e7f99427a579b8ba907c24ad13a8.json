@@ -1,0 +1,17 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.politie.be/5421/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32 9 257 00 10"
+      }
+    } ]
+  }
+}

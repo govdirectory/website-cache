@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.caami-hziv.fgov.be"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@caami-hziv.fgov.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-2229-35-00"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.eastdunbarton.gov.uk/health-and-social-care/health-and-social-care-services/east-dunbartonshire-health-and-social-care"
+      }
+    } ]
+  }
+}

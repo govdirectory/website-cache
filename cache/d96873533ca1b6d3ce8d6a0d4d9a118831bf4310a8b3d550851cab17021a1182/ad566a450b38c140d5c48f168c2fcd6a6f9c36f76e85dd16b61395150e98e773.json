@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Knokke-Heist"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.knokke-heist.be"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:knokke-heist@knokke-heist.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-50-63-01-00"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Piet De Groote"
+      }
+    } ]
+  }
+}

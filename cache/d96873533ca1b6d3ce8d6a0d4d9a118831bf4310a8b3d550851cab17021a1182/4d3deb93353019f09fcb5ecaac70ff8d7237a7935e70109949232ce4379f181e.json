@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Menen"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.menen.be"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@menen.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-56-52-92-00"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eddy Lust"
+      }
+    } ]
+  }
+}

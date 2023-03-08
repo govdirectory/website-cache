@@ -1,0 +1,47 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Finsp%C3%A5ng_Municipality"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.finspang.se"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:kommun@finspang.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-122-85000"
+      },
+      "citizensInitiatives" : {
+        "type" : "uri",
+        "value" : "https://finspang.se/kommunochpolitik/politikochpaverkan/paverka.4.421f7e0816662b0123c7854b.html"
+      },
+      "foiUrl" : {
+        "type" : "uri",
+        "value" : "https://handlingar.se/en/new/finspang_municipality"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/kommunallag-2017725_sfs-2017-725"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Kommunallag (2017:725)"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ulrika Jeansson"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.police.be/5311/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:zp.3vallees@police.belgium.eu"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32 60 31 02 02"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.domstol.se/migrationsdomstolen-vid-forvaltningsratten-i-lulea/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:forvaltningsrattenilulea@dom.se"
+      }
+    } ]
+  }
+}

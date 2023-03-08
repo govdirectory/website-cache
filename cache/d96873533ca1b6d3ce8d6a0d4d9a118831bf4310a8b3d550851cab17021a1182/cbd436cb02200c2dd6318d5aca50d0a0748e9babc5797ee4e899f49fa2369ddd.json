@@ -1,0 +1,47 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/V%C3%A4xj%C3%B6_Municipality"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.vaxjo.se/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:kommunstyrelsen@vaxjo.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-470-41000"
+      },
+      "citizensInitiatives" : {
+        "type" : "uri",
+        "value" : "https://e-tjanster.vaxjo.se/oversikt/overview/59"
+      },
+      "foiUrl" : {
+        "type" : "uri",
+        "value" : "https://handlingar.se/en/new/vaxjo_municipality"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/kommunallag-2017725_sfs-2017-725"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Kommunallag (2017:725)"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Anna Tenje"
+      }
+    } ]
+  }
+}

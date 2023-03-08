@@ -1,0 +1,17 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.nationaleombudsman.nl/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+31-70-356-35-63"
+      }
+    } ]
+  }
+}

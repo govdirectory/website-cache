@@ -1,0 +1,47 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Link%C3%B6ping_Municipality"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.linkoping.se"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:kontakt@linkoping.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-13-20-60-00"
+      },
+      "citizensInitiatives" : {
+        "type" : "uri",
+        "value" : "https://www.linkoping.se/kommun-och-politik/politik-och-demokrati/lamna-forslag--linkopingsforslaget/"
+      },
+      "foiUrl" : {
+        "type" : "uri",
+        "value" : "https://handlingar.se/en/new/the_municipality_of_linkoping"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/kommunallag-2017725_sfs-2017-725"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Kommunallag (2017:725)"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Niklas Borg"
+      }
+    } ]
+  }
+}
