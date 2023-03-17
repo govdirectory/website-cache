@@ -1,0 +1,5690 @@
+{
+  "head" : {
+    "vars" : [ "qid", "orgLabel", "orgDescription", "type", "typeLabel", "country" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1865"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuala Lumpur"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Federal territory and capital city of Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1008803"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "federal territory of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q214504"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Labuan"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Federal Territory of Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1008803"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "federal territory of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q182378"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Putrajaya"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "seat of government of Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1008803"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "federal territory of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q7243278"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malaysian Prime Minister's Department"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "government ministry in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111179247"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ministry of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q22222773"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ministry of Agriculture and Agro Based Industry"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ministry in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111179247"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ministry of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q12689905"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ministry of Communications and Multimedia"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malaysian ministry"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111179247"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ministry of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q4294501"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ministry of Defence"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malaysian government ministry responsible for military and national defense matters"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111179247"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ministry of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q12689906"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ministry of Domestic Trade and Consumer Affairs"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malaysian federal government ministry"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111179247"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ministry of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q3816079"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ministry of Education"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malaysian ministry responsible for education"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111179247"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ministry of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q6867411"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ministry of Energy and Natural Resources"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ministry of the Government of Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111179247"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ministry of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q7361923"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ministry of Entrepreneurship Development and Co-operatives"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malaysian federal government ministry"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111179247"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ministry of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q106594790"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ministry of Environment and Water"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "federal ministry in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111179247"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ministry of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q7361911"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ministry of Finance"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malaysian ministry"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111179247"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ministry of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q3527309"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ministry of Foreign Affairs of Malaysia"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Runs diplomatic relations of Malaysia with other states"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111179247"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ministry of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q4294352"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ministry of Health"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ministry in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111179247"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ministry of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q3893588"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ministry of Higher Education"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ministry in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111179247"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ministry of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q4294304"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ministry of Home Affairs"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "government ministry of Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111179247"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ministry of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q6867161"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ministry of Housing and Local Government"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malaysian government department"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111179247"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ministry of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q6867162"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ministry of Human Resources"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Government ministry"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111179247"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ministry of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q14933204"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ministry of International Trade and Industry"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malaysian trade ministry"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111179247"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ministry of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q110133233"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ministry of National Unity"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malaysian federal government ministry"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111179247"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ministry of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1937202"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ministry of Plantation Industries and Commodities"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kementerian Perusahaan Perladangan dan Komoditi Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111179247"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ministry of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q6867519"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ministry of Rural and Regional Development"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malaysian government department"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111179247"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ministry of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q4294467"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ministry of Science, Technology and Innovation"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ministry in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111179247"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ministry of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q6867583"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ministry of Tourism, Arts and Culture"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malaysian federal government ministry"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111179247"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ministry of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q6867616"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ministry of Transport"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "government agency of Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111179247"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ministry of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q4294580"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ministry of Women, Family and Community Development"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111179247"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ministry of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q6867660"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ministry of Works"
+      },
+      "orgDescription" : {
+        "xml:lang" : "ms",
+        "type" : "literal",
+        "value" : "kementerian di Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111179247"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ministry of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q6867668"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ministry of Youth and Sports"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malaysian government ministry"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111179247"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ministry of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q4294779"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ministry of the Federal Territories"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111179247"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ministry of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q183032"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Johor"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malaysian state in the southern Malay Peninsula, bordering Pahang to the north, Malacca and Negeri Sembilan to the northwest, Singapore to the South, and Indonesia to the west and east"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15063586"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "states of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q188947"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kedah"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malaysian state"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15063586"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "states of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q185944"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kelantan"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malaysian state"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15063586"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "states of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q185221"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malacca"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malaysian state"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15063586"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "states of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q213893"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Negeri Sembilan"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malaysian state"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15063586"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "states of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q191346"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pahang"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malaysian state"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15063586"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "states of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q188096"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Penang"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malaysian state"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15063586"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "states of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q188953"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Perak"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malaysian state"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15063586"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "states of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q213467"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Perlis"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malaysian state"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15063586"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "states of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q179029"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sabah"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malaysian state"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15063586"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "states of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q170462"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sarawak"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "borneo state in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15063586"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "states of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q189710"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Selangor"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malaysian state"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15063586"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "states of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q189701"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Terengganu"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malaysian state"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15063586"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "states of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2251607"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alor Gajah"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q4803410"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Asajaya"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sarawak, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1836486"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bachok"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Kelantan"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q31185912"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bagan Datuk District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Perak"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1884712"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Baling"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1884699"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bandar Baharu"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Kedah"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1938723"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Batang Padang"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Perak"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2306850"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Batu Pahat District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Johor, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q3268524"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bau"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "human settlement in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2526109"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Beaufort"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Sabah, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q4881852"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Belaga, Sarawak"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "human settlement in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1229743"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Beluran District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sabah, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q65074009"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Beluru District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sarawak, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q38112641"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bentong District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Pahang"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1658705"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bera"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Pahang"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1884571"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Besut"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Terengganu, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q61439258"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Betong District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sarawak, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2199855"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bintulu District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Sarawak"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q65074008"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bukit Mabong District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sarawak, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1028741"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cameron Highlands District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1884730"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Central Seberang Perai"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Penang"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q18350003"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dalat District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q5224157"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Daro"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "human settlement in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2328824"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dungun"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Terengganu"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q116917019"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gedong"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2219712"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gombak"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Selangor, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q3096534"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gua Musang District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "human settlement in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2381489"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hilir Perak"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Perak"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q4251470"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hulu Langat"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Selangor, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2416685"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hulu Perak"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Perak"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2741737"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hulu Selangor"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Selangor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2219170"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hulu Terengganu"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Terengganu"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2030149"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jasin District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q933043"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jelebu District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1884709"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jeli"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "District of Malaysia in Kelantan"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2048692"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jempol District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2172999"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jerantut"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "human settlement in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2193190"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Johor Bahru District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Johor, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q108101389"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Julau District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sarawak, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q65074006"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kabong District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sarawak, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q106521606"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kalabakan"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sabah, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q6359147"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kampar District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "town in Perak, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q10900815"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kanowit District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sarawak, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2219731"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kapit"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "human settlement in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1827701"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kemaman"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Terengganu"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1229913"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keningau District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sabah, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2674376"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kerian"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Perak"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q775127"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kinabatangan"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2781356"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kinta District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Perak, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q20466235"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Klang District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Selangor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q12683379"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kluang District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Johor, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1229922"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kota Belud"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q12688353"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kota Bharu District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "A district in Kelantan"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1229926"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kota Kinabalu District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sabah, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1229923"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kota Marudu District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sabah, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2219638"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kota Setar"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Kedah"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q6433828"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kota Tinggi District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Johor, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q20467234"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuala Kangsar District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "human settlement in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2181394"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuala Krai"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2219254"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuala Langat"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Selangor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1884538"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuala Muda District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "A district in Kedah"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q18073135"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuala Nerus"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Terengganu"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1229927"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuala Penyu District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sabah, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2929940"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuala Pilah District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2010079"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuala Selangor District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q20451120"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuala Terengganu District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Terengganu"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q20467357"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuantan District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "A district in Pahang"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2219767"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kubang Pasu District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Kedah, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2847649"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuching"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1229932"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kudat District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sabah, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2219755"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kulai District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Johor, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q20467454"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kulim District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Kedah, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1229934"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kunak District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sabah, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1229938"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lahad Datu District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sabah, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q273303"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Langkawi"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "island"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2694747"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Larut, Matang dan Selama"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "A district in Perak"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q15927506"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lawas District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Limbang Division, Sarawak, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q12955993"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Limbang District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q116914173"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lingga"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2330535"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lipis"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q13522735"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lojing"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "autonomous sub-district of Malaysia in Kelantan"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2100988"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lubok Antu"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "human settlement in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q6704167"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lundu, Sarawak"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "town in Sarawak, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q6723423"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Machang District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "District in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2302576"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Manjung"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Perak"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q43990909"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maran District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Pahang"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2362852"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marang"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Terengganu"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q107006969"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marudi District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sarawak, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2207683"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Matu District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Sarawak, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q4398232"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Melaka Tengah"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malacca, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1884553"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Meradong"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2206319"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mersing District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Johor, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q19646293"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Miri District"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q22022339"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Muallim"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Perak"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1941846"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Muar District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Johor, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q11139272"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mukah District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sarawak, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1229992"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nabawan District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sabah, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1884752"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "North Seberang Perai District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Penang"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2111318"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "North-East Penang Island"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Penang"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1858255"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Padang Terap"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Kedah"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q61439287"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakan District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "place"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1230011"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Papar District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sabah, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q20453839"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pasir Mas District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Kelantan"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q7142173"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pasir Puteh"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "A district in Kelantan"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q12685427"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pekan District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Pahang"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1230016"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Penampang District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sabah, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1884545"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pendang"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Kedah"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2165801"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Perak Tengah"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Perak"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2701266"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Petaling District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1230025"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pitas District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sabah, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q7208694"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pokok Sena"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "human settlement in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2452012"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pontian District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Johor, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48724278"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Port Dickson District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Negeri Sembilan"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q108101386"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pusa District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sarawak, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1230032"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Putatan District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1230036"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ranau District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sabah, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q12685431"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Raub District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Pahang"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48730250"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rembau District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Negeri Sembilan"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1884739"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rompin"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Pahang"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2198128"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sabak Bernam"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Selangor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q65074014"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Samarahan District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sarawak, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1230051"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sandakan District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sabah, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q10949568"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Saratok District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sarawak, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q7424083"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sarikei"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "city"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q10949534"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sebauh"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Bintulu"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q110128458"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sebuyau District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "place in Sarawak, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2643141"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Segamat District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Johor, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q33656492"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Selama"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q10955509"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Selangau District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1230071"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Semporna District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sabah, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q911008"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sepang District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2712436"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Seremban District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Negeri Sembilan"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q61082926"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Serian District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sarawak, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q943317"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Setiu"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1048700"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sibu"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "town in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q109973404"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Siburan District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "place in Sarawak, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1884759"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sik"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "town and district in Kedah, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2004362"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Simunjan"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "human settlement in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1230073"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sipitang District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sabah, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q7560959"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Song, Sarawak"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "human settlement in Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1884768"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Seberang Perai"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Penang"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2113918"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South-West Penang Island"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Penang"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2970543"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sri Aman District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sarawak, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q65074010"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Subis District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sarawak, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1230079"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tambunan District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sabah, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q20463750"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tampin District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Negeri Sembilan"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1991996"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tanah Merah"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "A district in Kelantan"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2219630"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tangkak District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Johor, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q65074013"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tanjung Manis District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sarawak, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q648167"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tatau District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Bintulu Division in Sarawak, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1230083"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tawau"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sabah, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q108073282"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tebedu District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sarawak, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q65074012"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Telang Usan District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sarawak, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q55642225"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Telupid District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sabah, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q44032118"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Temerloh District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia in Pahang"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1168510"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tenom District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sabah, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1314522"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tongod District, Malaysia"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sabah, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1230087"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tuaran District"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Sabah, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2180590"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tumpat"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "town and a district (jajahan) in Kelantan, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q605393"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yan"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district in Kedah, Malaysia"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q61088520"
+      },
+      "orgLabel" : {
+        "xml:lang" : "ms",
+        "type" : "literal",
+        "value" : "Pantu"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1994931"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district of Malaysia"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      }
+    } ]
+  }
+}

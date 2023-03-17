@@ -1,0 +1,100 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "verified", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Twitter"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://twitter.com/MPSepang"
+      },
+      "verified" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "MPSepang"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/corporate_mpsepang_official/"
+      },
+      "verified" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "corporate_mpsepang_official"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/MPSepang"
+      },
+      "verified" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "MPSepang"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCeUtttCZl7oXMrUeA4moKxw"
+      },
+      "verified" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCeUtttCZl7oXMrUeA4moKxw"
+      }
+    } ]
+  }
+}

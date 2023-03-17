@@ -1,0 +1,17 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.medac.gov.my/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:korporat@medac.gov.my"
+      }
+    } ]
+  }
+}

@@ -525,6 +525,50 @@
     }, {
       "uri" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Malaysia"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "malaysia"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes federal territories, ministries, states, and districts."
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Anwar Ibrahim"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Abdullah of Pahang"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Malaysia.map"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.malaysia.travel/en/us"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "ms",
+        "type" : "literal",
+        "value" : "Malaysia"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "constitutional monarchy,elective monarchy,federal monarchy,parliamentary monarchy"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q55"
       },
       "name" : {
@@ -828,7 +872,7 @@
       },
       "typeOfGovList" : {
         "type" : "literal",
-        "value" : "representative democracy,parliamentary republic"
+        "value" : "parliamentary republic,representative democracy"
       }
     }, {
       "uri" : {

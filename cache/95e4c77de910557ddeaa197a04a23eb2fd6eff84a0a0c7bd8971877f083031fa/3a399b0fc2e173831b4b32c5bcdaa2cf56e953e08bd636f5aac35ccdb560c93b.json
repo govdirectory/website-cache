@@ -1,0 +1,100 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "verified", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Twitter"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://twitter.com/MINDEFMalaysia"
+      },
+      "verified" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "true"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "MINDEFMalaysia"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/mindefmalaysia/"
+      },
+      "verified" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "true"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "mindefmalaysia"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/KementerianPertahanan"
+      },
+      "verified" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "true"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "KementerianPertahanan"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCai8-jYyg5k4_LFZE7pwMHw"
+      },
+      "verified" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCai8-jYyg5k4_LFZE7pwMHw"
+      }
+    } ]
+  }
+}
