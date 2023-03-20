@@ -11,6 +11,11 @@
       "website" : {
         "type" : "uri",
         "value" : "http://www.fernelmont.be/"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Christelle Plomteux"
       }
     } ]
   }

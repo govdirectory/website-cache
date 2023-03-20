@@ -15,6 +15,11 @@
       "email" : {
         "type" : "uri",
         "value" : "mailto:info@neupre.be"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Virginie Defrang-Firket"
       }
     } ]
   }

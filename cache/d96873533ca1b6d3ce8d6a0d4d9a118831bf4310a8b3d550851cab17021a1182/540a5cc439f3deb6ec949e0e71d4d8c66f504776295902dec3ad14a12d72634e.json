@@ -10,7 +10,20 @@
       },
       "website" : {
         "type" : "uri",
-        "value" : "http://www.mortsel.be/"
+        "value" : "https://www.mortsel.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:onthaal@mortsel.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-3-444-17-17"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Erik Broeckx"
       }
     } ]
   }

@@ -19,6 +19,11 @@
       "phone" : {
         "type" : "literal",
         "value" : "+32 85 61 12 31"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Christophe Gilon"
       }
     } ]
   }

@@ -7,6 +7,29 @@
       "platformLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/lokaalbestuuraffligem/"
+      },
+      "verified" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "lokaalbestuuraffligem"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
         "value" : "Facebook"
       },
       "property" : {
@@ -25,6 +48,52 @@
       "account" : {
         "type" : "literal",
         "value" : "GemeenteAffligem"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCLUNUvClipwnTJYYMXBMOqQ"
+      },
+      "verified" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCLUNUvClipwnTJYYMXBMOqQ"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LinkedIn"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P4264"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.linkedin.com/company/gemeentebestuur-affligem/"
+      },
+      "verified" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "gemeentebestuur-affligem"
       }
     } ]
   }

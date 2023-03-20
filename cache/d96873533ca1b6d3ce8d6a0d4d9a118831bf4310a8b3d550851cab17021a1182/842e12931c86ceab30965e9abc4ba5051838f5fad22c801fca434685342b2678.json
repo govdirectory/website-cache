@@ -12,6 +12,14 @@
         "type" : "uri",
         "value" : "https://www.tongeren.be"
       },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@stadtongeren.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-12-80-00-00"
+      },
       "leadBy" : {
         "xml:lang" : "en",
         "type" : "literal",

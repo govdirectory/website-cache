@@ -19,6 +19,11 @@
       "phone" : {
         "type" : "literal",
         "value" : "+32-87-79-53-60"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sophie Delettre"
       }
     } ]
   }

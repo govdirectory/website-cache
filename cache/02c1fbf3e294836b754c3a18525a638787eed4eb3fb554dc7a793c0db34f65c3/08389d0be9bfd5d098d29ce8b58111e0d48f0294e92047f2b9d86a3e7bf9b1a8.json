@@ -5607,11 +5607,6 @@
         "type" : "literal",
         "value" : "South of Scotland Enterprise"
       },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "non-departmental public body in Scotland"
-      },
       "type" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3343298"
@@ -5624,6 +5619,11 @@
       "country" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "non-departmental public body in Scotland"
       }
     }, {
       "qid" : {
@@ -5635,11 +5635,6 @@
         "type" : "literal",
         "value" : "Sportscotland"
       },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "national agency"
-      },
       "type" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3343298"
@@ -5652,6 +5647,11 @@
       "country" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "national agency"
       }
     }, {
       "qid" : {
@@ -5732,11 +5732,6 @@
         "type" : "literal",
         "value" : "Children and Young People's  Commissioner Scotland"
       },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "UK government agency"
-      },
       "type" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q524778"
@@ -5749,6 +5744,11 @@
       "country" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "UK government agency"
       }
     }, {
       "qid" : {
@@ -5760,11 +5760,6 @@
         "type" : "literal",
         "value" : "Commissioner for Ethical Standards in Public Life in Scotland"
       },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "independent officeholder"
-      },
       "type" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q524778"
@@ -5777,6 +5772,11 @@
       "country" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "independent officeholder"
       }
     }, {
       "qid" : {
@@ -5788,11 +5788,6 @@
         "type" : "literal",
         "value" : "Scottish Veterans Commissioner"
       },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "commissioner appointed by Scottish Government to look after the rights of military veterans"
-      },
       "type" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q524778"
@@ -5805,6 +5800,11 @@
       "country" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "commissioner appointed by Scottish Government to look after the rights of military veterans"
       }
     }, {
       "qid" : {
@@ -5816,11 +5816,6 @@
         "type" : "literal",
         "value" : "Scottish Human Rights Commission"
       },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "national human rights institution for Scotland"
-      },
       "type" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q55657615"
@@ -5833,6 +5828,11 @@
       "country" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "national human rights institution for Scotland"
       }
     }, {
       "qid" : {
@@ -5844,11 +5844,6 @@
         "type" : "literal",
         "value" : "Standards Commission for Scotland"
       },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "UK government agency"
-      },
       "type" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q55657615"
@@ -5861,6 +5856,11 @@
       "country" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "UK government agency"
       }
     }, {
       "qid" : {
@@ -5895,11 +5895,6 @@
         "type" : "literal",
         "value" : "Sheriff Court of Sheriffdom of Glasgow and Strathkelvin"
       },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "court in Scotland"
-      },
       "type" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7494979"
@@ -5912,6 +5907,11 @@
       "country" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "court in Scotland"
       }
     }, {
       "qid" : {
@@ -5923,11 +5923,6 @@
         "type" : "literal",
         "value" : "Sheriff Court of Sheriffdom of Grampian, Highlands and Islands"
       },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "court in Scotland"
-      },
       "type" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7494979"
@@ -5940,6 +5935,11 @@
       "country" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "court in Scotland"
       }
     }, {
       "qid" : {
@@ -5951,11 +5951,6 @@
         "type" : "literal",
         "value" : "Sheriff Court of Sheriffdom of Lothian and Borders"
       },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "court in Scotland"
-      },
       "type" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7494979"
@@ -5968,6 +5963,11 @@
       "country" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "court in Scotland"
       }
     }, {
       "qid" : {
@@ -5979,11 +5979,6 @@
         "type" : "literal",
         "value" : "Sheriff Court of Sheriffdom of North Strathclyde"
       },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "court in Scotland"
-      },
       "type" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7494979"
@@ -5996,6 +5991,11 @@
       "country" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "court in Scotland"
       }
     }, {
       "qid" : {
@@ -6007,11 +6007,6 @@
         "type" : "literal",
         "value" : "Sheriff Court of Sheriffdom of South Strathclyde, Dumfries & Galloway"
       },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "court in Scotland"
-      },
       "type" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7494979"
@@ -6024,6 +6019,11 @@
       "country" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "court in Scotland"
       }
     }, {
       "qid" : {
@@ -6035,11 +6035,6 @@
         "type" : "literal",
         "value" : "Sheriff Court of Sheriffdom of Tayside, Central and Fife"
       },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "court in Scotland"
-      },
       "type" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7494979"
@@ -6052,6 +6047,11 @@
       "country" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "court in Scotland"
       }
     }, {
       "qid" : {
@@ -6062,11 +6062,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "NHS Ayrshire and Arran"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "health system in South Ayrshire, Scotland, UK"
       },
       "type" : {
         "type" : "uri",
@@ -6080,6 +6075,11 @@
       "country" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "health system in South Ayrshire, Scotland, UK"
       }
     }, {
       "qid" : {
@@ -6114,11 +6114,6 @@
         "type" : "literal",
         "value" : "NHS Dumfries and Galloway"
       },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "NHS board in Dumfries and Galloway, Scotland, UK"
-      },
       "type" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q83425186"
@@ -6131,6 +6126,11 @@
       "country" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "NHS board in Dumfries and Galloway, Scotland, UK"
       }
     }, {
       "qid" : {
@@ -6142,11 +6142,6 @@
         "type" : "literal",
         "value" : "NHS Fife"
       },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "NHS board serving Fife, Scotland"
-      },
       "type" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q83425186"
@@ -6159,6 +6154,11 @@
       "country" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "NHS board serving Fife, Scotland"
       }
     }, {
       "qid" : {
@@ -6170,11 +6170,6 @@
         "type" : "literal",
         "value" : "NHS Forth Valley"
       },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "medical organization in Falkirk, Scotland, UK"
-      },
       "type" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q83425186"
@@ -6187,6 +6182,11 @@
       "country" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "medical organization in Falkirk, Scotland, UK"
       }
     }, {
       "qid" : {
@@ -6198,11 +6198,6 @@
         "type" : "literal",
         "value" : "NHS Grampian"
       },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "NHS board based in Aberdeen, Scotland"
-      },
       "type" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q83425186"
@@ -6215,6 +6210,11 @@
       "country" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "NHS board based in Aberdeen, Scotland"
       }
     }, {
       "qid" : {
@@ -6226,11 +6226,6 @@
         "type" : "literal",
         "value" : "NHS Greater Glasgow and Clyde"
       },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "NHS board based in Glasgow, Scotland"
-      },
       "type" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q83425186"
@@ -6243,6 +6238,11 @@
       "country" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "NHS board based in Glasgow, Scotland"
       }
     }, {
       "qid" : {
@@ -6254,11 +6254,6 @@
         "type" : "literal",
         "value" : "NHS Highland"
       },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "NHS board based in Inverness, Scotland"
-      },
       "type" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q83425186"
@@ -6271,6 +6266,11 @@
       "country" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "NHS board based in Inverness, Scotland"
       }
     }, {
       "qid" : {
@@ -6282,11 +6282,6 @@
         "type" : "literal",
         "value" : "NHS Lanarkshire"
       },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "health system in South Lanarkshire, Scotland, UK"
-      },
       "type" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q83425186"
@@ -6299,6 +6294,11 @@
       "country" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "health system in South Lanarkshire, Scotland, UK"
       }
     }, {
       "qid" : {
@@ -6310,11 +6310,6 @@
         "type" : "literal",
         "value" : "NHS Lothian"
       },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "NHS board based in Edinburgh, Scotland"
-      },
       "type" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q83425186"
@@ -6327,6 +6322,11 @@
       "country" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "NHS board based in Edinburgh, Scotland"
       }
     }, {
       "qid" : {
@@ -6384,11 +6384,6 @@
         "type" : "literal",
         "value" : "NHS Tayside"
       },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "NHS board based in Dundee, Scotland"
-      },
       "type" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q83425186"
@@ -6401,6 +6396,11 @@
       "country" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "NHS board based in Dundee, Scotland"
       }
     }, {
       "qid" : {
@@ -6412,11 +6412,6 @@
         "type" : "literal",
         "value" : "NHS Western Isles"
       },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "health board serving the Western Isles of Scotland"
-      },
       "type" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q83425186"
@@ -6429,6 +6424,11 @@
       "country" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "health board serving the Western Isles of Scotland"
       }
     }, {
       "qid" : {
@@ -6440,11 +6440,6 @@
         "type" : "literal",
         "value" : "Court of the Lord Lyon"
       },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "court in City of Edinburgh, Scotland, UK"
-      },
       "type" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q41487"
@@ -6457,6 +6452,11 @@
       "country" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "court in City of Edinburgh, Scotland, UK"
       }
     }, {
       "qid" : {
@@ -6468,11 +6468,6 @@
         "type" : "literal",
         "value" : "High Court of Justiciary"
       },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "supreme criminal court in Scotland"
-      },
       "type" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q41487"
@@ -6485,6 +6480,11 @@
       "country" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "supreme criminal court in Scotland"
       }
     }, {
       "qid" : {
@@ -6496,11 +6496,6 @@
         "type" : "literal",
         "value" : "Scottish Land Court"
       },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Scottish court of law based in Edinburgh"
-      },
       "type" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q41487"
@@ -6513,6 +6508,11 @@
       "country" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Scottish court of law based in Edinburgh"
       }
     } ]
   }

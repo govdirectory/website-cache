@@ -11,6 +11,11 @@
       "website" : {
         "type" : "uri",
         "value" : "https://www.courcelles.eu/"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Caroline Taquin"
       }
     } ]
   }

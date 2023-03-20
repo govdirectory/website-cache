@@ -10,7 +10,15 @@
       },
       "website" : {
         "type" : "uri",
-        "value" : "http://www.meerhout.be/"
+        "value" : "https://www.meerhout.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@meerhout.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-14-24-99-20"
       }
     } ]
   }

@@ -10,7 +10,12 @@
       },
       "website" : {
         "type" : "uri",
-        "value" : "http://www.baarle-hertog.be"
+        "value" : "https://www.baarle-hertog.be/"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Frans De Bont"
       }
     } ]
   }

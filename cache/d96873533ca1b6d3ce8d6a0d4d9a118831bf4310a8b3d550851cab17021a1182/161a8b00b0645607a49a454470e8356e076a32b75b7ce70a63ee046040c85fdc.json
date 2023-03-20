@@ -15,6 +15,11 @@
       "phone" : {
         "type" : "literal",
         "value" : "+32 71 55 90 70"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Philippe Lejeune"
       }
     } ]
   }

@@ -10,7 +10,15 @@
       },
       "website" : {
         "type" : "uri",
-        "value" : "http://www.wommelgem.be/"
+        "value" : "https://www.wommelgem.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@wommelgem.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-3-355-50-50"
       }
     } ]
   }

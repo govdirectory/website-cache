@@ -19,6 +19,11 @@
       "phone" : {
         "type" : "literal",
         "value" : "+32 83 61 52 30"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Valérie Warzée-Caverenne"
       }
     } ]
   }

@@ -2465,34 +2465,6 @@
     }, {
       "qid" : {
         "type" : "literal",
-        "value" : "Q888804"
-      },
-      "orgLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Bobocasse"
-      },
-      "orgDescription" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Suco in Osttimor"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22044663"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "suco of East Timor"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
         "value" : "Q65240325"
       },
       "orgLabel" : {
@@ -2583,6 +2555,34 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "suco of East Timor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22044663"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "suco of East Timor"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q344620"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Acubilitoho"
+      },
+      "orgDescription" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Suco in Osttimor"
       },
       "type" : {
         "type" : "uri",
@@ -3440,6 +3440,34 @@
     }, {
       "qid" : {
         "type" : "literal",
+        "value" : "Q799670"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bado-Ho’o"
+      },
+      "orgDescription" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Suco in Osttimor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22044663"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "suco of East Timor"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
         "value" : "Q799706"
       },
       "orgLabel" : {
@@ -3939,6 +3967,34 @@
     }, {
       "qid" : {
         "type" : "literal",
+        "value" : "Q815340"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Belecasac"
+      },
+      "orgDescription" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Suco in Osttimor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22044663"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "suco of East Timor"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
         "value" : "Q816124"
       },
       "orgLabel" : {
@@ -4225,6 +4281,34 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Biqueli"
+      },
+      "orgDescription" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Suco in Osttimor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22044663"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "suco of East Timor"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q888804"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bobocasse"
       },
       "orgDescription" : {
         "xml:lang" : "de",
@@ -4657,6 +4741,34 @@
     }, {
       "qid" : {
         "type" : "literal",
+        "value" : "Q1025980"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cairui"
+      },
+      "orgDescription" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Suco in Osttimor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22044663"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "suco of East Timor"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
         "value" : "Q1028437"
       },
       "orgLabel" : {
@@ -4719,6 +4831,34 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Caraubalo"
+      },
+      "orgDescription" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Suco in Osttimor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22044663"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "suco of East Timor"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1046595"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Casabauc"
       },
       "orgDescription" : {
         "xml:lang" : "de",
@@ -4999,6 +5139,34 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Costa"
+      },
+      "orgDescription" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Suco in Osttimor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22044663"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "suco of East Timor"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1136560"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cota Bo’ot"
       },
       "orgDescription" : {
         "xml:lang" : "de",
@@ -5693,6 +5861,62 @@
     }, {
       "qid" : {
         "type" : "literal",
+        "value" : "Q1391797"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fadabloco"
+      },
+      "orgDescription" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Suco in Osttimor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22044663"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "suco of East Timor"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1392059"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fahilebo"
+      },
+      "orgDescription" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Suco in Osttimor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22044663"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "suco of East Timor"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
         "value" : "Q1286575"
       },
       "orgLabel" : {
@@ -6225,6 +6449,34 @@
     }, {
       "qid" : {
         "type" : "literal",
+        "value" : "Q1398322"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Faturasa"
+      },
+      "orgDescription" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Suco in Osttimor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22044663"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "suco of East Timor"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
         "value" : "Q1398328"
       },
       "orgLabel" : {
@@ -6287,6 +6539,34 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Foho-Ai-Lico"
+      },
+      "orgDescription" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Suco in Osttimor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22044663"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "suco of East Timor"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1435176"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Foholau"
       },
       "orgDescription" : {
         "xml:lang" : "de",
@@ -6869,6 +7149,34 @@
     }, {
       "qid" : {
         "type" : "literal",
+        "value" : "Q1591413"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hautoho"
+      },
+      "orgDescription" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Suco in Osttimor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22044663"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "suco of East Timor"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
         "value" : "Q1607732"
       },
       "orgLabel" : {
@@ -6992,6 +7300,62 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "human settlement"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22044663"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "suco of East Timor"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1460998"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Holsa"
+      },
+      "orgDescription" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "osttimoresischer Suco im Subdistrikt Maliana, Distrikt Bobonaro"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22044663"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "suco of East Timor"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1625912"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Home"
+      },
+      "orgDescription" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Suco in Osttimor"
       },
       "type" : {
         "type" : "uri",
@@ -7956,6 +8320,34 @@
     }, {
       "qid" : {
         "type" : "literal",
+        "value" : "Q1815190"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Leimea-Craic"
+      },
+      "orgDescription" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Suco in Osttimor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22044663"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "suco of East Timor"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
         "value" : "Q1546031"
       },
       "orgLabel" : {
@@ -8097,6 +8489,34 @@
       "qid" : {
         "type" : "literal",
         "value" : "Q1531416"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Leolima"
+      },
+      "orgDescription" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Suco in Osttimor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22044663"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "suco of East Timor"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1818842"
       },
       "orgLabel" : {
         "xml:lang" : "en",
@@ -8432,6 +8852,34 @@
     }, {
       "qid" : {
         "type" : "literal",
+        "value" : "Q976162"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liho"
+      },
+      "orgDescription" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Suco in Osttimor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22044663"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "suco of East Timor"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
         "value" : "Q1827842"
       },
       "orgLabel" : {
@@ -8684,6 +9132,34 @@
     }, {
       "qid" : {
         "type" : "literal",
+        "value" : "Q1722161"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Loilubo"
+      },
+      "orgDescription" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Suco in Osttimor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22044663"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "suco of East Timor"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
         "value" : "Q1869646"
       },
       "orgLabel" : {
@@ -8824,6 +9300,34 @@
     }, {
       "qid" : {
         "type" : "literal",
+        "value" : "Q1872272"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lourba"
+      },
+      "orgDescription" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Suco in Osttimor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22044663"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "suco of East Timor"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
         "value" : "Q1872941"
       },
       "orgLabel" : {
@@ -8858,6 +9362,34 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Luculai"
+      },
+      "orgDescription" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Suco in Osttimor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22044663"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "suco of East Timor"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1750444"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lupal"
       },
       "orgDescription" : {
         "xml:lang" : "de",
@@ -9216,6 +9748,34 @@
     }, {
       "qid" : {
         "type" : "literal",
+        "value" : "Q2776181"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maliubu"
+      },
+      "orgDescription" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Suco in Osttimor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22044663"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "suco of East Timor"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
         "value" : "Q1150648"
       },
       "orgLabel" : {
@@ -9278,6 +9838,62 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Manehat"
+      },
+      "orgDescription" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Suco in Osttimor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22044663"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "suco of East Timor"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1393058"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Manelima"
+      },
+      "orgDescription" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Suco in Osttimor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22044663"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "suco of East Timor"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1726655"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Manelobas"
       },
       "orgDescription" : {
         "xml:lang" : "de",
@@ -9840,12 +10456,96 @@
     }, {
       "qid" : {
         "type" : "literal",
+        "value" : "Q1910960"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mauchiga"
+      },
+      "orgDescription" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Suco in Osttimor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22044663"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "suco of East Timor"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
         "value" : "Q1672684"
       },
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Maudemo"
+      },
+      "orgDescription" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Suco in Osttimor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22044663"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "suco of East Timor"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1911059"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maulau"
+      },
+      "orgDescription" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Suco in Osttimor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22044663"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "suco of East Timor"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1292888"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maumeta"
       },
       "orgDescription" : {
         "xml:lang" : "de",
@@ -10008,6 +10708,34 @@
     }, {
       "qid" : {
         "type" : "literal",
+        "value" : "Q1924766"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Metagou"
+      },
+      "orgDescription" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Suco in Osttimor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22044663"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "suco of East Timor"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
         "value" : "Q1522695"
       },
       "orgLabel" : {
@@ -10047,6 +10775,34 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "village in Turiscai, East Timor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22044663"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "suco of East Timor"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1943674"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Molop"
+      },
+      "orgDescription" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Suco in Osttimor"
       },
       "type" : {
         "type" : "uri",
@@ -10406,6 +11162,34 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Oeleo"
+      },
+      "orgDescription" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Suco in Osttimor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22044663"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "suco of East Timor"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q1669988"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ogues"
       },
       "orgDescription" : {
         "xml:lang" : "de",
@@ -11156,6 +11940,34 @@
     }, {
       "qid" : {
         "type" : "literal",
+        "value" : "Q1559463"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Saburai"
+      },
+      "orgDescription" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Suco in Osttimor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22044663"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "suco of East Timor"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
         "value" : "Q1410551"
       },
       "orgLabel" : {
@@ -11269,6 +12081,34 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Samalari"
+      },
+      "orgDescription" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Suco in Osttimor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22044663"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "suco of East Timor"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2216724"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Samalete"
       },
       "orgDescription" : {
         "xml:lang" : "de",
@@ -11549,6 +12389,34 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Serelau"
+      },
+      "orgDescription" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Suco in Osttimor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22044663"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "suco of East Timor"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q2280926"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sibuni"
       },
       "orgDescription" : {
         "xml:lang" : "de",
@@ -12518,6 +13386,34 @@
     }, {
       "qid" : {
         "type" : "literal",
+        "value" : "Q2472545"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Uailaha"
+      },
+      "orgDescription" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Suco in Osttimor"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22044663"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "suco of East Timor"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
         "value" : "Q2472549"
       },
       "orgLabel" : {
@@ -13274,34 +14170,6 @@
     }, {
       "qid" : {
         "type" : "literal",
-        "value" : "Q344620"
-      },
-      "orgLabel" : {
-        "xml:lang" : "tet",
-        "type" : "literal",
-        "value" : "Akubilitoho"
-      },
-      "orgDescription" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Suco in Osttimor"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22044663"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "suco of East Timor"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
         "value" : "Q794521"
       },
       "orgLabel" : {
@@ -13336,34 +14204,6 @@
         "xml:lang" : "tet",
         "type" : "literal",
         "value" : "Aubeon"
-      },
-      "orgDescription" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Suco in Osttimor"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22044663"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "suco of East Timor"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q799670"
-      },
-      "orgLabel" : {
-        "xml:lang" : "tet",
-        "type" : "literal",
-        "value" : "Bado Ho'o"
       },
       "orgDescription" : {
         "xml:lang" : "de",
@@ -13448,34 +14288,6 @@
         "xml:lang" : "tet",
         "type" : "literal",
         "value" : "Banafi"
-      },
-      "orgDescription" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Suco in Osttimor"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22044663"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "suco of East Timor"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q815340"
-      },
-      "orgLabel" : {
-        "xml:lang" : "tet",
-        "type" : "literal",
-        "value" : "Belekasak"
       },
       "orgDescription" : {
         "xml:lang" : "de",
@@ -13638,62 +14450,6 @@
     }, {
       "qid" : {
         "type" : "literal",
-        "value" : "Q1391797"
-      },
-      "orgLabel" : {
-        "xml:lang" : "tet",
-        "type" : "literal",
-        "value" : "Fadabloko"
-      },
-      "orgDescription" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Suco in Osttimor"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22044663"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "suco of East Timor"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q1392059"
-      },
-      "orgLabel" : {
-        "xml:lang" : "tet",
-        "type" : "literal",
-        "value" : "Fahilebu"
-      },
-      "orgDescription" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Suco in Osttimor"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22044663"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "suco of East Timor"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
         "value" : "Q1398294"
       },
       "orgLabel" : {
@@ -13778,62 +14534,6 @@
     }, {
       "qid" : {
         "type" : "literal",
-        "value" : "Q1398322"
-      },
-      "orgLabel" : {
-        "xml:lang" : "tet",
-        "type" : "literal",
-        "value" : "Faturasa"
-      },
-      "orgDescription" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Suco in Osttimor"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22044663"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "suco of East Timor"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q1435176"
-      },
-      "orgLabel" : {
-        "xml:lang" : "tet",
-        "type" : "literal",
-        "value" : "Foholau"
-      },
-      "orgDescription" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Suco in Osttimor"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22044663"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "suco of East Timor"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
         "value" : "Q1567654"
       },
       "orgLabel" : {
@@ -13890,90 +14590,6 @@
     }, {
       "qid" : {
         "type" : "literal",
-        "value" : "Q1591413"
-      },
-      "orgLabel" : {
-        "xml:lang" : "tet",
-        "type" : "literal",
-        "value" : "Hautoho"
-      },
-      "orgDescription" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Suco in Osttimor"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22044663"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "suco of East Timor"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q1460998"
-      },
-      "orgLabel" : {
-        "xml:lang" : "tet",
-        "type" : "literal",
-        "value" : "Holsa"
-      },
-      "orgDescription" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "osttimoresischer Suco im Subdistrikt Maliana, Distrikt Bobonaro"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22044663"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "suco of East Timor"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q1625912"
-      },
-      "orgLabel" : {
-        "xml:lang" : "tet",
-        "type" : "literal",
-        "value" : "Home"
-      },
-      "orgDescription" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Suco in Osttimor"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22044663"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "suco of East Timor"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
         "value" : "Q1621566"
       },
       "orgLabel" : {
@@ -14002,96 +14618,12 @@
     }, {
       "qid" : {
         "type" : "literal",
-        "value" : "Q1025980"
-      },
-      "orgLabel" : {
-        "xml:lang" : "tet",
-        "type" : "literal",
-        "value" : "Kairui"
-      },
-      "orgDescription" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Suco in Osttimor"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22044663"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "suco of East Timor"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
         "value" : "Q1035278"
       },
       "orgLabel" : {
         "xml:lang" : "tet",
         "type" : "literal",
         "value" : "Karabau"
-      },
-      "orgDescription" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Suco in Osttimor"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22044663"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "suco of East Timor"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q1046595"
-      },
-      "orgLabel" : {
-        "xml:lang" : "tet",
-        "type" : "literal",
-        "value" : "Kasabauk"
-      },
-      "orgDescription" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Suco in Osttimor"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22044663"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "suco of East Timor"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q1136560"
-      },
-      "orgLabel" : {
-        "xml:lang" : "tet",
-        "type" : "literal",
-        "value" : "Kotabot"
       },
       "orgDescription" : {
         "xml:lang" : "de",
@@ -14198,174 +14730,6 @@
     }, {
       "qid" : {
         "type" : "literal",
-        "value" : "Q1815190"
-      },
-      "orgLabel" : {
-        "xml:lang" : "tet",
-        "type" : "literal",
-        "value" : "Leimea Kraik"
-      },
-      "orgDescription" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Suco in Osttimor"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22044663"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "suco of East Timor"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q1818842"
-      },
-      "orgLabel" : {
-        "xml:lang" : "tet",
-        "type" : "literal",
-        "value" : "Leolima"
-      },
-      "orgDescription" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Suco in Osttimor"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22044663"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "suco of East Timor"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q976162"
-      },
-      "orgLabel" : {
-        "xml:lang" : "tet",
-        "type" : "literal",
-        "value" : "Lihu"
-      },
-      "orgDescription" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Suco in Osttimor"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22044663"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "suco of East Timor"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q1722161"
-      },
-      "orgLabel" : {
-        "xml:lang" : "tet",
-        "type" : "literal",
-        "value" : "Loilubu"
-      },
-      "orgDescription" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Suco in Osttimor"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22044663"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "suco of East Timor"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q1872272"
-      },
-      "orgLabel" : {
-        "xml:lang" : "tet",
-        "type" : "literal",
-        "value" : "Lourba"
-      },
-      "orgDescription" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Suco in Osttimor"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22044663"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "suco of East Timor"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q1750444"
-      },
-      "orgLabel" : {
-        "xml:lang" : "tet",
-        "type" : "literal",
-        "value" : "Lupal"
-      },
-      "orgDescription" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Suco in Osttimor"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22044663"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "suco of East Timor"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
         "value" : "Q1884769"
       },
       "orgLabel" : {
@@ -14394,236 +14758,12 @@
     }, {
       "qid" : {
         "type" : "literal",
-        "value" : "Q2776181"
-      },
-      "orgLabel" : {
-        "xml:lang" : "tet",
-        "type" : "literal",
-        "value" : "Maliubu"
-      },
-      "orgDescription" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Suco in Osttimor"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22044663"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "suco of East Timor"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
         "value" : "Q1728512"
       },
       "orgLabel" : {
         "xml:lang" : "tet",
         "type" : "literal",
         "value" : "Manapa"
-      },
-      "orgDescription" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Suco in Osttimor"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22044663"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "suco of East Timor"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q1393058"
-      },
-      "orgLabel" : {
-        "xml:lang" : "tet",
-        "type" : "literal",
-        "value" : "Manelima"
-      },
-      "orgDescription" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Suco in Osttimor"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22044663"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "suco of East Timor"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q1726655"
-      },
-      "orgLabel" : {
-        "xml:lang" : "tet",
-        "type" : "literal",
-        "value" : "Manelobas"
-      },
-      "orgDescription" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Suco in Osttimor"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22044663"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "suco of East Timor"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q1910960"
-      },
-      "orgLabel" : {
-        "xml:lang" : "tet",
-        "type" : "literal",
-        "value" : "Mauchiga"
-      },
-      "orgDescription" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Suco in Osttimor"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22044663"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "suco of East Timor"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q1911059"
-      },
-      "orgLabel" : {
-        "xml:lang" : "tet",
-        "type" : "literal",
-        "value" : "Maulau"
-      },
-      "orgDescription" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Suco in Osttimor"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22044663"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "suco of East Timor"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q1292888"
-      },
-      "orgLabel" : {
-        "xml:lang" : "tet",
-        "type" : "literal",
-        "value" : "Maumeta"
-      },
-      "orgDescription" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Suco in Osttimor"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22044663"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "suco of East Timor"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q1924766"
-      },
-      "orgLabel" : {
-        "xml:lang" : "tet",
-        "type" : "literal",
-        "value" : "Metagou"
-      },
-      "orgDescription" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Suco in Osttimor"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22044663"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "suco of East Timor"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q1943674"
-      },
-      "orgLabel" : {
-        "xml:lang" : "tet",
-        "type" : "literal",
-        "value" : "Molop"
       },
       "orgDescription" : {
         "xml:lang" : "de",
@@ -14730,124 +14870,12 @@
     }, {
       "qid" : {
         "type" : "literal",
-        "value" : "Q1669988"
-      },
-      "orgLabel" : {
-        "xml:lang" : "tet",
-        "type" : "literal",
-        "value" : "Ogues"
-      },
-      "orgDescription" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Suco in Osttimor"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22044663"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "suco of East Timor"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
         "value" : "Q1385993"
       },
       "orgLabel" : {
         "xml:lang" : "tet",
         "type" : "literal",
         "value" : "Raimerhei"
-      },
-      "orgDescription" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Suco in Osttimor"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22044663"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "suco of East Timor"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q1559463"
-      },
-      "orgLabel" : {
-        "xml:lang" : "tet",
-        "type" : "literal",
-        "value" : "Saburai"
-      },
-      "orgDescription" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Suco in Osttimor"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22044663"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "suco of East Timor"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q2216724"
-      },
-      "orgLabel" : {
-        "xml:lang" : "tet",
-        "type" : "literal",
-        "value" : "Samalete"
-      },
-      "orgDescription" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Suco in Osttimor"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22044663"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "suco of East Timor"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q2280926"
-      },
-      "orgLabel" : {
-        "xml:lang" : "tet",
-        "type" : "literal",
-        "value" : "Sibuni"
       },
       "orgDescription" : {
         "xml:lang" : "de",
@@ -14988,34 +15016,6 @@
         "xml:lang" : "tet",
         "type" : "literal",
         "value" : "Waibubu"
-      },
-      "orgDescription" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Suco in Osttimor"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22044663"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "suco of East Timor"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q574"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q2472545"
-      },
-      "orgLabel" : {
-        "xml:lang" : "tet",
-        "type" : "literal",
-        "value" : "Wailaha"
       },
       "orgDescription" : {
         "xml:lang" : "de",

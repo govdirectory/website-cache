@@ -7,6 +7,10 @@
       "wikipedia" : {
         "type" : "uri",
         "value" : "https://en.wikipedia.org/wiki/Ga_South_Municipal_District"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://gsma.gov.gh/"
       }
     } ]
   }

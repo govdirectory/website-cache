@@ -18,7 +18,7 @@
       },
       "description" : {
         "type" : "literal",
-        "value" : "Current content includes federal scientific institutes, public institutions of social security, federal public sevices, public planning services, language areas, communities, regions, extant provinces, police zones, emergency zones and municipalities."
+        "value" : "Current content includes federal scientific institutes, public institutions of social security, federal public services, public planning services, language areas, communities, regions, extant provinces, police zones, emergency zones and municipalities."
       },
       "headOfGovLabel" : {
         "xml:lang" : "en",
@@ -97,7 +97,7 @@
       },
       "description" : {
         "type" : "literal",
-        "value" : "Current content includes ministerial departments, provinces, and territories."
+        "value" : "Current content includes ministerial departments, provinces and territories."
       },
       "headOfGovLabel" : {
         "xml:lang" : "en",
@@ -273,7 +273,7 @@
       },
       "description" : {
         "type" : "literal",
-        "value" : "Current content only includes ministries, federated states and governmental districts."
+        "value" : "Current content includes ministries, federated states and governmental districts."
       },
       "headOfGovLabel" : {
         "xml:lang" : "en",
@@ -317,7 +317,7 @@
       },
       "description" : {
         "type" : "literal",
-        "value" : "Current content only includes regions and districts."
+        "value" : "Current content includes regions and districts."
       },
       "headOfGovLabel" : {
         "xml:lang" : "en",
@@ -361,7 +361,7 @@
       },
       "description" : {
         "type" : "literal",
-        "value" : "Current content only includes municipalities."
+        "value" : "Current content includes municipalities."
       },
       "headOfGovLabel" : {
         "xml:lang" : "en",
@@ -423,12 +423,12 @@
       },
       "website" : {
         "type" : "uri",
-        "value" : "http://india.gov.in/"
+        "value" : "https://www.इंडिया.सरकार.भारत/"
       },
       "nativeLabel" : {
         "xml:lang" : "ur",
         "type" : "literal",
-        "value" : "جمہوریہ ہندوستان"
+        "value" : "ہندوستان"
       },
       "typeOfGovList" : {
         "type" : "literal",
@@ -537,7 +537,7 @@
       },
       "description" : {
         "type" : "literal",
-        "value" : "Current content includes federal territories, ministries, states, and districts."
+        "value" : "Current content includes federal territories, ministries, states and districts."
       },
       "headOfGovLabel" : {
         "xml:lang" : "en",
@@ -581,7 +581,7 @@
       },
       "description" : {
         "type" : "literal",
-        "value" : "Current content includes ministries, courts, water boards, the Kings cabinet, provincies and municipalities."
+        "value" : "Current content includes ministries, courts, water boards, the Kings cabinet, provinces and municipalities."
       },
       "headOfGovLabel" : {
         "xml:lang" : "en",
@@ -669,7 +669,7 @@
       },
       "description" : {
         "type" : "literal",
-        "value" : "Current content only includes municipalities, district courts, ministries and embassies."
+        "value" : "Current content includes municipalities, district courts, ministries and embassies."
       },
       "headOfGovLabel" : {
         "xml:lang" : "en",
@@ -801,7 +801,7 @@
       },
       "description" : {
         "type" : "literal",
-        "value" : "Current content includes parliament, government, supreme court, ministries, town councils, and community development council districts."
+        "value" : "Current content includes parliament, government, supreme court, ministries, town councils and community development council districts."
       },
       "headOfGovLabel" : {
         "xml:lang" : "en",
@@ -866,9 +866,9 @@
         "value" : "https://www.gov.za/"
       },
       "nativeLabel" : {
-        "xml:lang" : "en",
+        "xml:lang" : "zu",
         "type" : "literal",
-        "value" : "South Africa"
+        "value" : "iNingizimu Afrika"
       },
       "typeOfGovList" : {
         "type" : "literal",
@@ -977,7 +977,7 @@
       },
       "description" : {
         "type" : "literal",
-        "value" : "Current content includes ministerial departments and Scottish exceutive agencies, local authorities, NHS boards, NDPBs, courts, public corporations, tribunals, parole boards, Queen's printer, non-ministerial government departments, commissioners, ombudsmen and Health and social care partnerships."
+        "value" : "Current content includes ministerial departments and Scottish executive agencies, local authorities, NHS boards, NDPBs, courts, public corporations, tribunals, parole boards, Queen's printer, non-ministerial government departments, commissioners, ombudsmen and Health and social care partnerships."
       },
       "headOfGovLabel" : {
         "xml:lang" : "en",

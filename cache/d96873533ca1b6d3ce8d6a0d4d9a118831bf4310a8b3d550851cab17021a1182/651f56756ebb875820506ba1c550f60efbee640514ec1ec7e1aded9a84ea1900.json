@@ -19,6 +19,11 @@
       "phone" : {
         "type" : "literal",
         "value" : "+32 2 366 90 93"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nicolas Tamigniau"
       }
     } ]
   }

@@ -15,6 +15,11 @@
       "email" : {
         "type" : "uri",
         "value" : "mailto:commune@hotton.be"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Martine Schmit"
       }
     } ]
   }

@@ -10,7 +10,7 @@
       },
       "website" : {
         "type" : "uri",
-        "value" : "https://www.1030.be/fr"
+        "value" : "https://www.1030.be/"
       },
       "leadBy" : {
         "xml:lang" : "en",

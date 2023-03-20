@@ -7,6 +7,29 @@
       "platformLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
+        "value" : "Twitter"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://twitter.com/stadSintTruiden"
+      },
+      "verified" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "stadSintTruiden"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
         "value" : "Instagram"
       },
       "property" : {
@@ -48,6 +71,29 @@
       "account" : {
         "type" : "literal",
         "value" : "stadsinttruiden"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LinkedIn"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P4264"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.linkedin.com/company/stad-sint-truiden/"
+      },
+      "verified" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "stad-sint-truiden"
       }
     } ]
   }

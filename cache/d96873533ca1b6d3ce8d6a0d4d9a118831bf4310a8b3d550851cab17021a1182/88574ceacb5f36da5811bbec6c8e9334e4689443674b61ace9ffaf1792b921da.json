@@ -10,7 +10,15 @@
       },
       "website" : {
         "type" : "uri",
-        "value" : "http://www.jabbeke.be/"
+        "value" : "https://www.jabbeke.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gemeentehuis@jabbeke.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-50-81-02-11"
       }
     } ]
   }

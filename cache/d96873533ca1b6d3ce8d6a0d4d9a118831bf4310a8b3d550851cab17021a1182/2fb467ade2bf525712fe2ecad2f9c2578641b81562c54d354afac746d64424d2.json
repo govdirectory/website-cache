@@ -12,6 +12,10 @@
         "type" : "uri",
         "value" : "https://www.zelzate.be/"
       },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:onthaal@zelzate.be"
+      },
       "phone" : {
         "type" : "literal",
         "value" : "+32-9-353-42-00"

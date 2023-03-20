@@ -11,6 +11,11 @@
       "website" : {
         "type" : "uri",
         "value" : "http://www.manage-commune.be"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bruno Pozzoni"
       }
     } ]
   }

@@ -11,6 +11,10 @@
       "website" : {
         "type" : "uri",
         "value" : "https://www.boussu.be"
+      },
+      "leadBy" : {
+        "type" : "literal",
+        "value" : "Q117069854"
       }
     } ]
   }

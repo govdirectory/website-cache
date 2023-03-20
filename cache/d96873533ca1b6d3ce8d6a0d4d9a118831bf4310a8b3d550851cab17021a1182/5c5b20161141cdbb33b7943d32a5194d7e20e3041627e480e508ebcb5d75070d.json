@@ -12,6 +12,10 @@
         "type" : "uri",
         "value" : "https://www.brussel.be/"
       },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-2-279-22-11"
+      },
       "leadBy" : {
         "xml:lang" : "en",
         "type" : "literal",

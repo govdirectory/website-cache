@@ -11,6 +11,11 @@
       "website" : {
         "type" : "uri",
         "value" : "https://www.malmedy.be/"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jean-Paul Bastin"
       }
     } ]
   }

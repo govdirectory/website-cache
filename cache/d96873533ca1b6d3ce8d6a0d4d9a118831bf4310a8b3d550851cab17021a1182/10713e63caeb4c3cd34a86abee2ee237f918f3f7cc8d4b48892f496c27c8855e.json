@@ -10,7 +10,20 @@
       },
       "website" : {
         "type" : "uri",
-        "value" : "http://www.wielsbeke.be/"
+        "value" : "https://www.wielsbeke.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@wielsbeke.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-56-67-32-00"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jan Stevens"
       }
     } ]
   }

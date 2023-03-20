@@ -19,6 +19,11 @@
       "phone" : {
         "type" : "literal",
         "value" : "+32 67 79 43 43"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Christian Fayt"
       }
     } ]
   }

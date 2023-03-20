@@ -11,6 +11,14 @@
       "website" : {
         "type" : "uri",
         "value" : "https://www.tielt-winge.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:secretariaat@tielt-winge.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-16-63-40-08"
       }
     } ]
   }

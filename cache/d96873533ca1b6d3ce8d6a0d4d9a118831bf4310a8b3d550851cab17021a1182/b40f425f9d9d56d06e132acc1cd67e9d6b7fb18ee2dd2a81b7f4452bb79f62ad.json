@@ -19,6 +19,11 @@
       "phone" : {
         "type" : "literal",
         "value" : "+32 4 229 48 00"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Philippe Goffin"
       }
     } ]
   }

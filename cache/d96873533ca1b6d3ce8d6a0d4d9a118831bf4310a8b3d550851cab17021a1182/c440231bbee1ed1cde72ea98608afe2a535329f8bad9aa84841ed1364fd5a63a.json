@@ -11,6 +11,11 @@
       "website" : {
         "type" : "uri",
         "value" : "http://www.chapelle-lez-herlaimont.be/"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karl De Vos"
       }
     } ]
   }

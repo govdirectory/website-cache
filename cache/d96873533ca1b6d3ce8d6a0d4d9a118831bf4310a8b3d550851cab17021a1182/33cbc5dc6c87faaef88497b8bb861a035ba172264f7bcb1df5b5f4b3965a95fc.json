@@ -11,6 +11,11 @@
       "website" : {
         "type" : "uri",
         "value" : "http://www.ans-commune.be"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Grégory Philippin"
       }
     } ]
   }

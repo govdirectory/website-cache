@@ -19,6 +19,11 @@
       "phone" : {
         "type" : "literal",
         "value" : "+32 19 51 93 93"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Manu Douette"
       }
     } ]
   }

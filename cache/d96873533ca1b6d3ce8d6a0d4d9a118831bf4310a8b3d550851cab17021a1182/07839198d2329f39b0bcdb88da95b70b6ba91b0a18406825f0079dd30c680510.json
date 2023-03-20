@@ -15,6 +15,10 @@
       "email" : {
         "type" : "uri",
         "value" : "mailto:administration.communale@houyet.be"
+      },
+      "leadBy" : {
+        "type" : "literal",
+        "value" : "Q117068866"
       }
     } ]
   }

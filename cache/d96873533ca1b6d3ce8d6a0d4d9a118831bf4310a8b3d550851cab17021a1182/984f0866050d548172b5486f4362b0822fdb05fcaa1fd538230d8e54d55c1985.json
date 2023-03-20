@@ -11,6 +11,11 @@
       "website" : {
         "type" : "uri",
         "value" : "http://www.grace-hollogne.be/"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maurice Mottard"
       }
     } ]
   }

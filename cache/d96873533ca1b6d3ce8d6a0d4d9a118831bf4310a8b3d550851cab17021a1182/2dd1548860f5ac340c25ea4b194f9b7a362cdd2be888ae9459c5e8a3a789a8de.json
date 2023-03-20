@@ -11,6 +11,11 @@
       "website" : {
         "type" : "uri",
         "value" : "http://www.aywaille.be"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Thierry Carpentier"
       }
     } ]
   }

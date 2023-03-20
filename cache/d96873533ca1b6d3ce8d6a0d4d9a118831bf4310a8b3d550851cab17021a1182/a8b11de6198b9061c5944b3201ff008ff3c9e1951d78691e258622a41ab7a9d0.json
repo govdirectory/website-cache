@@ -11,6 +11,11 @@
       "website" : {
         "type" : "uri",
         "value" : "https://buellingen.be"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Friedhelm Wirtz"
       }
     } ]
   }

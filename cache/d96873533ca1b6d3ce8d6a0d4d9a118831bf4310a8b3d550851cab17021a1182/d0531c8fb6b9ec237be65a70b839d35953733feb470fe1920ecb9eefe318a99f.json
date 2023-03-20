@@ -10,7 +10,7 @@
       },
       "website" : {
         "type" : "uri",
-        "value" : "https://www.alver.kommune.no/"
+        "value" : "https://alver.kommune.no"
       },
       "leadBy" : {
         "xml:lang" : "en",

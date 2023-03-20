@@ -11,6 +11,11 @@
       "website" : {
         "type" : "uri",
         "value" : "http://www.juprelle.be"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Christine Servaes"
       }
     } ]
   }

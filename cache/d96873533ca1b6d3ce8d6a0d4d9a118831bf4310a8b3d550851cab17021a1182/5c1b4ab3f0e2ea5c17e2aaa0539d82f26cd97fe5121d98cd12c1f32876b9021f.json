@@ -10,7 +10,7 @@
       },
       "website" : {
         "type" : "uri",
-        "value" : "http://www.keerbergen.be/"
+        "value" : "https://www.keerbergen.be/"
       }
     } ]
   }

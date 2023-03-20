@@ -26,6 +26,29 @@
         "type" : "literal",
         "value" : "1040etterbeek"
       }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LinkedIn"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P4264"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.linkedin.com/company/commune-d-etterbeek-gemeente-etterbeek/"
+      },
+      "verified" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "commune-d-etterbeek-gemeente-etterbeek"
+      }
     } ]
   }
 }

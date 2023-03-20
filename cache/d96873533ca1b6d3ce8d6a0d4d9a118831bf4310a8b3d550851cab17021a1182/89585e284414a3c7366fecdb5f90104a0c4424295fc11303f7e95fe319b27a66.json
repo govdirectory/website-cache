@@ -11,6 +11,11 @@
       "website" : {
         "type" : "uri",
         "value" : "http://www.genappe.be"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gérard Couronne"
       }
     } ]
   }

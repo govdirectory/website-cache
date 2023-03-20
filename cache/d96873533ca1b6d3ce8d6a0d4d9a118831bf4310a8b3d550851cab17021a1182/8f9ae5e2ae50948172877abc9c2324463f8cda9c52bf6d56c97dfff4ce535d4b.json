@@ -19,6 +19,11 @@
       "phone" : {
         "type" : "literal",
         "value" : "+32 2 633 18 17"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Laurence Rotthier"
       }
     } ]
   }

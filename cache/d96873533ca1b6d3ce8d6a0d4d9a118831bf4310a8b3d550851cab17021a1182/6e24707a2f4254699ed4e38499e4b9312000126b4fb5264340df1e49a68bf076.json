@@ -7,6 +7,10 @@
       "wikipedia" : {
         "type" : "uri",
         "value" : "https://en.wikipedia.org/wiki/Weija_Gbawe_Municipal_District"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://wgma.gov.gh/"
       }
     } ]
   }

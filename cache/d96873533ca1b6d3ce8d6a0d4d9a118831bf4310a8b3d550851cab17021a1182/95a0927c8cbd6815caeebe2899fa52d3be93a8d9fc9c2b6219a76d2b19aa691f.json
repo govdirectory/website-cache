@@ -19,6 +19,11 @@
       "phone" : {
         "type" : "literal",
         "value" : "+32 4 382 18 91"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luc Delvaux"
       }
     } ]
   }

@@ -19,6 +19,11 @@
       "phone" : {
         "type" : "literal",
         "value" : "+32 60 51 11 11"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eddy Bayard"
       }
     } ]
   }

@@ -11,6 +11,11 @@
       "website" : {
         "type" : "uri",
         "value" : "http://www.saint-ghislain.be"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Daniel Olivier"
       }
     } ]
   }

@@ -7,6 +7,10 @@
       "wikipedia" : {
         "type" : "uri",
         "value" : "https://en.wikipedia.org/wiki/%C7%83Kheis_Local_Municipality"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.kheis.co.za/"
       }
     } ]
   }

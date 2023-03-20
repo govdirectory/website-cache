@@ -7,6 +7,10 @@
       "wikipedia" : {
         "type" : "uri",
         "value" : "https://en.wikipedia.org/wiki/Ayawaso_Central_Municipal_District"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://acma.gov.gh/"
       }
     } ]
   }

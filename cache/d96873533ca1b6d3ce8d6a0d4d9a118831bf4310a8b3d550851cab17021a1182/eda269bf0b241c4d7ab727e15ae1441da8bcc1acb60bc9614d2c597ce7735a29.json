@@ -20,11 +20,6 @@
         "type" : "literal",
         "value" : "+46-8-614-40-00"
       },
-      "leadBy" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sara Arrhenius"
-      },
       "parent" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4294535"

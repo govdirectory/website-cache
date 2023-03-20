@@ -11,6 +11,10 @@
       "website" : {
         "type" : "uri",
         "value" : "https://www.fleurus.be"
+      },
+      "leadBy" : {
+        "type" : "literal",
+        "value" : "Q117069861"
       }
     } ]
   }

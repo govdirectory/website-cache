@@ -195,6 +195,98 @@
     }, {
       "qid" : {
         "type" : "literal",
+        "value" : "Q108058370"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "General Consulate of Sweden Mariehamn"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Consulate General of Sweden"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108058047"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q108058371"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "General Consulate of Sweden Mumbai"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Consulate General of Sweden"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108058047"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q108058368"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "General Consulate of Sweden Jerusalem"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Consulate General of Sweden"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108058047"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q108058375"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "General Consulate of Sweden Shanghai"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Consulate General of Sweden"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108058047"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
         "value" : "Q18747057"
       },
       "orgLabel" : {
@@ -308,98 +400,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "diplomatic mission"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Consulate General of Sweden"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q34"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q108058047"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q108058370"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "General Consulate of Sweden Mariehamn"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Consulate General of Sweden"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q34"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q108058047"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q108058371"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "General Consulate of Sweden Mumbai"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Consulate General of Sweden"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q34"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q108058047"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q108058368"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "General Consulate of Sweden Jerusalem"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Consulate General of Sweden"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q34"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q108058047"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q108058375"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "General Consulate of Sweden Shanghai"
       },
       "typeLabel" : {
         "xml:lang" : "en",
@@ -3729,38 +3729,6 @@
     }, {
       "qid" : {
         "type" : "literal",
-        "value" : "Q6972528"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Swedish Export Credits Guarantee Board"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Swedish authority"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q68295960"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Swedish government agency"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q34"
-      },
-      "cofog" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q108107990"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
         "value" : "Q6972720"
       },
       "orgLabel" : {
@@ -4621,6 +4589,38 @@
       "cofog" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q108107969"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q15209927"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Swedish Competition Authority"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Swedish administrative authority"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q68295960"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Swedish government agency"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34"
+      },
+      "cofog" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108107990"
       }
     }, {
       "qid" : {
@@ -6065,6 +6065,38 @@
     }, {
       "qid" : {
         "type" : "literal",
+        "value" : "Q6972528"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Swedish Export Credits Guarantee Board"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Swedish authority"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q68295960"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Swedish government agency"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34"
+      },
+      "cofog" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108107990"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
         "value" : "Q7654721"
       },
       "orgLabel" : {
@@ -7217,38 +7249,6 @@
     }, {
       "qid" : {
         "type" : "literal",
-        "value" : "Q15209927"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Swedish Competition Authority"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Swedish administrative authority"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q68295960"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Swedish government agency"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q34"
-      },
-      "cofog" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q108107990"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
         "value" : "Q15278226"
       },
       "orgLabel" : {
@@ -7885,34 +7885,6 @@
       "cofog" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q108107990"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q10444871"
-      },
-      "orgLabel" : {
-        "xml:lang" : "sv",
-        "type" : "literal",
-        "value" : "Centrala djurförsöksetiska nämnden"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Swedish government agency"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q68295960"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Swedish government agency"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q34"
       }
     }, {
       "qid" : {
@@ -8620,6 +8592,34 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Swedish agency"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q68295960"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Swedish government agency"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q10444871"
+      },
+      "orgLabel" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Centrala djurförsöksetiska nämnden"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Swedish government agency"
       },
       "type" : {
         "type" : "uri",
@@ -11298,9 +11298,9 @@
         "value" : "http://www.wikidata.org/entity/Q34"
       },
       "orgDescription" : {
-        "xml:lang" : "sv",
+        "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Sveriges diplomatiska beskickning i Nordkorea"
+        "value" : "diplomatic mission of Sweden in North Korea"
       }
     }, {
       "qid" : {
@@ -12957,34 +12957,6 @@
     }, {
       "qid" : {
         "type" : "literal",
-        "value" : "Q60970996"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ministry of Infrastructure"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q10330441"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "ministry of Sweden"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q34"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "government ministry of Sweden"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
         "value" : "Q116035262"
       },
       "orgLabel" : {
@@ -13009,6 +12981,34 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Swedish ministry"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q60970996"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ministry of Infrastructure"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10330441"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ministry of Sweden"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "government ministry of Sweden"
       }
     }, {
       "qid" : {
@@ -21449,52 +21449,6 @@
     }, {
       "qid" : {
         "type" : "literal",
-        "value" : "Q7169246"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Permanent Representative of Sweden to the United Nations"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q108059166"
-      },
-      "typeLabel" : {
-        "xml:lang" : "sv",
-        "type" : "literal",
-        "value" : "Sveriges delegationer"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q34"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q10685886"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Permanent Mission of Sweden to the European Union"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q108059166"
-      },
-      "typeLabel" : {
-        "xml:lang" : "sv",
-        "type" : "literal",
-        "value" : "Sveriges delegationer"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q34"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
         "value" : "Q108059419"
       },
       "orgLabel" : {
@@ -21610,6 +21564,52 @@
     }, {
       "qid" : {
         "type" : "literal",
+        "value" : "Q7169246"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Permanent Representative of Sweden to the United Nations"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108059166"
+      },
+      "typeLabel" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Sveriges delegationer"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q10685886"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Permanent Mission of Sweden to the European Union"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108059166"
+      },
+      "typeLabel" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Sveriges delegationer"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
         "value" : "Q564652"
       },
       "orgLabel" : {
@@ -21621,6 +21621,34 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "central bank of Sweden"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q107407151"
+      },
+      "typeLabel" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "myndighet under riksdagen"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q107157415"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Parliamentary Ombudsman"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Swedish government agency"
       },
       "type" : {
         "type" : "uri",
@@ -21700,34 +21728,6 @@
         "xml:lang" : "sv",
         "type" : "literal",
         "value" : "Riksdagsförvaltningen"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q107407151"
-      },
-      "typeLabel" : {
-        "xml:lang" : "sv",
-        "type" : "literal",
-        "value" : "myndighet under riksdagen"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q34"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q107157415"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Parliamentary Ombudsman"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Swedish government agency"
       },
       "type" : {
         "type" : "uri",

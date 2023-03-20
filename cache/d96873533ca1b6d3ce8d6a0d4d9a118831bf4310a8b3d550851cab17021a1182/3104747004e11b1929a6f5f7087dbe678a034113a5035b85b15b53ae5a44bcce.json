@@ -19,6 +19,11 @@
       "phone" : {
         "type" : "literal",
         "value" : "+32 10 84 83 00"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Paul Vandeleene"
       }
     } ]
   }

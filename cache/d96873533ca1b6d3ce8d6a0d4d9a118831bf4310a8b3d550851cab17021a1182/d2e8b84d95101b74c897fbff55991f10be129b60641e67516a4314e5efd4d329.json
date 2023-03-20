@@ -11,6 +11,11 @@
       "website" : {
         "type" : "uri",
         "value" : "http://www.dmv.mil.za/"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Thandi Modise"
       }
     } ]
   }

@@ -19,6 +19,11 @@
       "phone" : {
         "type" : "literal",
         "value" : "+32 61 26 09 66"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pierre Henneaux"
       }
     } ]
   }

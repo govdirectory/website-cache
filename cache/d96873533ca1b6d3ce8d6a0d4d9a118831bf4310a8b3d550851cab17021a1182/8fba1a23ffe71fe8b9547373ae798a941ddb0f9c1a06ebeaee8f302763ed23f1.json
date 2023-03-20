@@ -19,6 +19,11 @@
       "phone" : {
         "type" : "literal",
         "value" : "+32 19 69 62 80"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pol Guillaume"
       }
     } ]
   }

@@ -11,6 +11,11 @@
       "website" : {
         "type" : "uri",
         "value" : "https://www.ouffet.be/"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Caroline Cassart-Mailleux"
       }
     } ]
   }

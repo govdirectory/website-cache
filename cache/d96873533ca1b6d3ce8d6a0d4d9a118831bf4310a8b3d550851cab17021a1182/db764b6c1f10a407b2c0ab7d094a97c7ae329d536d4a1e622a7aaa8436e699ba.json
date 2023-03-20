@@ -19,6 +19,11 @@
       "phone" : {
         "type" : "literal",
         "value" : "+32 67 44 31 15"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Xavier Dupont"
       }
     } ]
   }

@@ -6,7 +6,7 @@
     "bindings" : [ {
       "website" : {
         "type" : "uri",
-        "value" : "http://www.purmerend.nl"
+        "value" : "https://purmerend.nl/"
       },
       "email" : {
         "type" : "uri",

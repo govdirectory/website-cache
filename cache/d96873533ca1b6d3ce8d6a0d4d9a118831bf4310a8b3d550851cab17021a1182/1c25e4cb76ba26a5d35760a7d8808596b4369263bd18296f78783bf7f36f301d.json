@@ -12,6 +12,14 @@
         "type" : "uri",
         "value" : "https://www.blankenberge.be/"
       },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:stadhuis@blankenberge.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-50-63-64-00"
+      },
       "leadBy" : {
         "xml:lang" : "en",
         "type" : "literal",

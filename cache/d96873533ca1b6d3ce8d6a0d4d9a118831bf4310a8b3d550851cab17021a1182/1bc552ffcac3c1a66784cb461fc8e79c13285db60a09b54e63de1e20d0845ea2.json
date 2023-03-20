@@ -11,11 +11,6 @@
       "website" : {
         "type" : "uri",
         "value" : "https://oblrada.od.gov.ua/"
-      },
-      "leadBy" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Maksym Marchenko"
       }
     } ]
   }

@@ -15,6 +15,11 @@
       "phone" : {
         "type" : "literal",
         "value" : "+32 67 34 73 10"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fabienne Winckel"
       }
     } ]
   }

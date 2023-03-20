@@ -7,6 +7,10 @@
       "wikipedia" : {
         "type" : "uri",
         "value" : "https://en.wikipedia.org/wiki/Ablekuma_Central_Municipal_District"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.abcma.gov.gh/"
       }
     } ]
   }

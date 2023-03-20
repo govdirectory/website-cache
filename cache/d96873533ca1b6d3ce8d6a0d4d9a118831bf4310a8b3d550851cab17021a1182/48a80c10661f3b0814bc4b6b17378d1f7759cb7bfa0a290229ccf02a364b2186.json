@@ -18,7 +18,7 @@
       },
       "phone" : {
         "type" : "literal",
-        "value" : "+32 3 410 16 20"
+        "value" : "+32-3-410-16-20"
       },
       "leadBy" : {
         "xml:lang" : "en",
