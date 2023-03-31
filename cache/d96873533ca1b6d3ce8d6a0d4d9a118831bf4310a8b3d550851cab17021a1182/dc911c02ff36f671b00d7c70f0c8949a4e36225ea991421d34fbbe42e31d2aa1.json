@@ -1,0 +1,47 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Tidaholm_Municipality"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.tidaholm.se"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:tidaholms.kommun@tidaholm.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-502-606000"
+      },
+      "citizensInitiatives" : {
+        "type" : "uri",
+        "value" : "https://www.tidaholm.se/download/18.6b32b8ec162bd970d6bbe/1606377838159/Beredning%20av%20motioner%20och%20medborgarf%C3%B6rslag.pdf"
+      },
+      "foiUrl" : {
+        "type" : "uri",
+        "value" : "https://handlingar.se/en/new/tidaholm_municipality"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/kommunallag-2017725_sfs-2017-725"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Kommunallag (2017:725)"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Anna-Karin Skatt"
+      }
+    } ]
+  }
+}

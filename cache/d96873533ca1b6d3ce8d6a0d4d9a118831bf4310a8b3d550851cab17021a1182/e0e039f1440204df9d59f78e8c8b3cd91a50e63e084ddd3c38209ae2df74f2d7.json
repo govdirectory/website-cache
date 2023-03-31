@@ -1,0 +1,22 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Office_of_the_Secretary_of_State_for_Wales"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gov.uk/government/organisations/office-of-the-secretary-of-state-for-wales"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "David Davies"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:feedback@nstc.org.sg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+65 6758 0129"
+      }
+    } ]
+  }
+}

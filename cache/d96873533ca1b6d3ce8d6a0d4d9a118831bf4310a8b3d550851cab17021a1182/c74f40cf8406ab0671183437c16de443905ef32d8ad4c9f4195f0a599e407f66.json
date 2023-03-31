@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Pekela"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.pekela.nl/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@pekela.nl"
+      }
+    } ]
+  }
+}

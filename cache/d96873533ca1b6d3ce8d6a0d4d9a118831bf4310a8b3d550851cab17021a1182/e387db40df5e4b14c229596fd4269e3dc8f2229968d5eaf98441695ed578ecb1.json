@@ -1,0 +1,43 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Medical_Products_Agency_(Sweden)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.lakemedelsverket.se"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:registrator@lakemedelsverket.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-18-17-46-00"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/_sfs-2007-1205"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Förordning (2007:1205) med instruktion för Läkemedelsverket"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Björn Eriksson"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2611987"
+      }
+    } ]
+  }
+}

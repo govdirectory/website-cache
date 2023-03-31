@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.police.be/5271/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:zp.wavre@police.belgium.eu"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-10-88-52-85"
+      }
+    } ]
+  }
+}

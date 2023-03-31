@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.pzvlas.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:pz.vlas@police.belgium.eu"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-56-29-22-29"
+      }
+    } ]
+  }
+}

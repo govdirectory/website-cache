@@ -1,0 +1,39 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.regionjh.se/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:region@regionjh.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-63-14-75-00"
+      },
+      "citizensInitiatives" : {
+        "type" : "uri",
+        "value" : "https://www.regionjh.se/politikdemokrati/tycktillochpaverka/medborgarforslag.4.6d98166b15ad8ea7d0eaf228.html"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/kommunallag-2017725_sfs-2017-725"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Kommunallag (2017:725)"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Magnus Rönnerfjäll"
+      }
+    } ]
+  }
+}

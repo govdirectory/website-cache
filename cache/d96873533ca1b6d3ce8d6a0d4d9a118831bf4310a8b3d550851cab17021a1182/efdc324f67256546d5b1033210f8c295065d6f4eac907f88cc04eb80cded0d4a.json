@@ -1,0 +1,43 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Swedish_Transport_Administration"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.trafikverket.se"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:trafikverket@trafikverket.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-77-192-19-21"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/_sfs-2010-185"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Förordning (2010:185) med instruktion för Trafikverket"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lena Erixon"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q60970996"
+      }
+    } ]
+  }
+}

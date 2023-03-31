@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Hotton"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.hotton.be"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:commune@hotton.be"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Martine Schmit"
+      }
+    } ]
+  }
+}
