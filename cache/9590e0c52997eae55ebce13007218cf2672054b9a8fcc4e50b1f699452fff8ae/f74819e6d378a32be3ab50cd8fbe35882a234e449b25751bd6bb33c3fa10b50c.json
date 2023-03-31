@@ -1772,29 +1772,6 @@
     }, {
       "qid" : {
         "type" : "literal",
-        "value" : "Q111577932"
-      },
-      "orgLabel" : {
-        "xml:lang" : "nl",
-        "type" : "literal",
-        "value" : "Politiezone Anderlues/Binche"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2621126"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "police zone"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q31"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
         "value" : "Q111552726"
       },
       "orgLabel" : {
@@ -2174,6 +2151,29 @@
         "xml:lang" : "nl",
         "type" : "literal",
         "value" : "Politiezone Bilzen/Hoeselt/Riemst"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2621126"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "police zone"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q117224086"
+      },
+      "orgLabel" : {
+        "xml:lang" : "nl",
+        "type" : "literal",
+        "value" : "Politiezone Binche/Anderlues/Lermes"
       },
       "type" : {
         "type" : "uri",
@@ -3760,29 +3760,6 @@
     }, {
       "qid" : {
         "type" : "literal",
-        "value" : "Q111577602"
-      },
-      "orgLabel" : {
-        "xml:lang" : "nl",
-        "type" : "literal",
-        "value" : "Politiezone Lermes"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2621126"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "police zone"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q31"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
         "value" : "Q111575272"
       },
       "orgLabel" : {
@@ -4858,11 +4835,6 @@
         "type" : "literal",
         "value" : "Politiezone TARL"
       },
-      "orgDescription" : {
-        "xml:lang" : "nl",
-        "type" : "literal",
-        "value" : "politiezone in België"
-      },
       "type" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2621126"
@@ -4875,6 +4847,11 @@
       "country" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q31"
+      },
+      "orgDescription" : {
+        "xml:lang" : "nl",
+        "type" : "literal",
+        "value" : "politiezone in België"
       }
     }, {
       "qid" : {

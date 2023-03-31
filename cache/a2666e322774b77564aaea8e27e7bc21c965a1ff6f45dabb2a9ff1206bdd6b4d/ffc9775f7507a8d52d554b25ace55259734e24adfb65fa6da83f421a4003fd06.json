@@ -423,12 +423,12 @@
       },
       "website" : {
         "type" : "uri",
-        "value" : "https://www.इंडिया.सरकार.भारत/"
+        "value" : "http://india.gov.in/"
       },
       "nativeLabel" : {
-        "xml:lang" : "ur",
+        "xml:lang" : "syl",
         "type" : "literal",
-        "value" : "ہندوستان"
+        "value" : "ꠄꠘ꠆ꠒꠤꠀ"
       },
       "typeOfGovList" : {
         "type" : "literal",
@@ -470,9 +470,9 @@
         "value" : "https://indonesia.go.id"
       },
       "nativeLabel" : {
-        "xml:lang" : "ar",
+        "xml:lang" : "id",
         "type" : "literal",
-        "value" : "إندونيسيا"
+        "value" : "Negara Kesatuan Republik Indonesia"
       },
       "typeOfGovList" : {
         "type" : "literal",
@@ -866,9 +866,9 @@
         "value" : "https://www.gov.za/"
       },
       "nativeLabel" : {
-        "xml:lang" : "zu",
+        "xml:lang" : "en",
         "type" : "literal",
-        "value" : "iNingizimu Afrika"
+        "value" : "South Africa"
       },
       "typeOfGovList" : {
         "type" : "literal",
@@ -954,9 +954,9 @@
         "value" : "https://ukraine.ua"
       },
       "nativeLabel" : {
-        "xml:lang" : "ru",
+        "xml:lang" : "uk",
         "type" : "literal",
-        "value" : "Украина"
+        "value" : "Україна"
       },
       "typeOfGovList" : {
         "type" : "literal",

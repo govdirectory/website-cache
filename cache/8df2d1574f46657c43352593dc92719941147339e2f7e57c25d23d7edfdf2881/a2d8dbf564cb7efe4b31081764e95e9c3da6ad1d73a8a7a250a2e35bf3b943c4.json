@@ -347,7 +347,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Ministry of Finance"
+        "value" : "Ministry of Finance Malaysia"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -2358,7 +2358,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "town in Perak, Malaysia"
+        "value" : "district in Perak, Malaysia"
       },
       "type" : {
         "type" : "uri",
@@ -5003,7 +5003,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "town and district in Kedah, Malaysia"
+        "value" : "district in Kedah, Malaysia"
       },
       "type" : {
         "type" : "uri",

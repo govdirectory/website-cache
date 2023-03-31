@@ -352,7 +352,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "administrative region of Ghana"
+        "value" : "An administrative region in Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -492,7 +492,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "district of Ghana"
+        "value" : "district in the Eastern Region of Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -716,7 +716,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "district of Ghana"
+        "value" : "A Municipal Assembly in the Ahafo Region of Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -856,7 +856,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "district of Ghana"
+        "value" : "district in the Eastern Region of Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -996,7 +996,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "district of Ghana"
+        "value" : "district in the Eastern Region of Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -1192,7 +1192,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "district of Ghana"
+        "value" : "district in Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -1416,7 +1416,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "district of Ghana"
+        "value" : "district in the Eastern Region of Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -1472,7 +1472,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "district of Ghana"
+        "value" : "municipal Assembly in the Ahafo Region of Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -1500,7 +1500,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "district of Ghana"
+        "value" : "municipal Assembly in the Ahafo Region of Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -1859,12 +1859,12 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Techiman Municipal District"
+        "value" : "Techiman Municipal Assembly"
       },
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "district of Ghana"
+        "value" : "A Municipal Assembly in the Bono East of Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -1892,7 +1892,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "district of Ghana"
+        "value" : "A Municipal Assembly in the Ahafo Region of Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -2340,7 +2340,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "district of Ghana"
+        "value" : "A municipal in Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -2363,12 +2363,12 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Jaman South Municipal District"
+        "value" : "Jaman South Municipal Assembly"
       },
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "district of Ghana"
+        "value" : "A municipal assembly in Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -2620,7 +2620,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "district of Ghana"
+        "value" : "A Municipal Assembly in Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -3544,7 +3544,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "district in Eastern Region"
+        "value" : "district in the Eastern Region of Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -3600,7 +3600,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "district in Eastern Region"
+        "value" : "district in the Eastern Region of Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -3656,7 +3656,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "district in Bono Region"
+        "value" : "district in Bono Region, Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -4132,7 +4132,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "district in Brong Ahafo"
+        "value" : "A District Assembly in the Bono Region of Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -4300,7 +4300,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "place in Ordinary, Volta"
+        "value" : "district in Volta Region, Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -4356,7 +4356,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "place in Ordinary, Volta"
+        "value" : "district in Volta Region, Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -4468,7 +4468,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "place in Municipal, Volta"
+        "value" : "Municipal in the Volta Region"
       },
       "type" : {
         "type" : "uri",
@@ -4636,7 +4636,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "district of Ghana"
+        "value" : "district in the Bono Region of Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -4720,7 +4720,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "district in Brong-Ahafo, Ghana"
+        "value" : "A District in the Bono East of Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -5252,7 +5252,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "district in Ahafo, Ghana"
+        "value" : "municipal Assembly in the Ahafo Region of Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -5280,7 +5280,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "district in Ahafo, Ghana"
+        "value" : "municipal Assembly in the Ahafo Region of Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -5308,7 +5308,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipal District in Brong-Ahafo, Ghana"
+        "value" : "municipal District in Bono Region, Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -5336,7 +5336,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "district in Ghana"
+        "value" : "A district in Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -5364,7 +5364,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "district in Ghana"
+        "value" : "A district in the Bono East Region of Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -5392,7 +5392,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "district in Ghana"
+        "value" : "A district in Bono East of Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -5476,7 +5476,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "district in Ghana"
+        "value" : "district in the Eastern Region of Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -6232,7 +6232,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "district in Ghana"
+        "value" : "district in the Eastern Region of Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -6260,7 +6260,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "district in Ghana"
+        "value" : "district in the Eastern Region of Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -6484,7 +6484,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "district in Volta Region, Ghana"
+        "value" : "A district in Volta Region, Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -6512,7 +6512,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "district in Ghana"
+        "value" : "district in the Eastern Region of Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -6540,7 +6540,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "district in Bono"
+        "value" : "A district in the Bono, Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -6680,7 +6680,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "district in Bono East, Ghana"
+        "value" : "A district assembly in the Bono East of Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -6708,7 +6708,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "district in Bono East, Ghana"
+        "value" : "A district Assembly in Bono East of Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -7464,7 +7464,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipal District in Ghana"
+        "value" : "municipal District in the Eastern region of Ghana"
       },
       "type" : {
         "type" : "uri",
@@ -7492,7 +7492,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipal District in Ghana"
+        "value" : "municipal District in the Eastern region of Ghana"
       },
       "type" : {
         "type" : "uri",

@@ -107,7 +107,7 @@
       },
       "url" : {
         "type" : "uri",
-        "value" : "https://www.flickr.com/people/peigov"
+        "value" : "https://www.flickr.com/people/55216729@N06"
       },
       "verified" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
@@ -116,7 +116,7 @@
       },
       "account" : {
         "type" : "literal",
-        "value" : "peigov"
+        "value" : "55216729@N06"
       }
     }, {
       "platformLabel" : {

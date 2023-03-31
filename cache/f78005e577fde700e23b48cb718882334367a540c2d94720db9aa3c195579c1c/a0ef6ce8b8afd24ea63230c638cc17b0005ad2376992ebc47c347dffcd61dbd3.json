@@ -678,34 +678,6 @@
     }, {
       "qid" : {
         "type" : "literal",
-        "value" : "Q895269"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Bous"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "commune in Remich, Luxembourg"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2919801"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Luxembourg"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q32"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
         "value" : "Q836075"
       },
       "orgLabel" : {
@@ -1295,34 +1267,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Grevenmacher"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "commune in Luxembourg"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2919801"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Luxembourg"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q32"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q986417"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Grosbous"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -2913,34 +2857,6 @@
     }, {
       "qid" : {
         "type" : "literal",
-        "value" : "Q166320"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Wahl"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "commune and small village in western Luxembourg"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2919801"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Luxembourg"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q32"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
         "value" : "Q1017412"
       },
       "orgLabel" : {
@@ -2952,34 +2868,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "commune in Echternach, Luxembourg"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2919801"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Luxembourg"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q32"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q1017407"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Waldbredimus"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "commune in Remich, Luxembourg"
       },
       "type" : {
         "type" : "uri",

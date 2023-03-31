@@ -9763,34 +9763,6 @@
     }, {
       "qid" : {
         "type" : "literal",
-        "value" : "Q5757"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Simeulue"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "regency in Aceh Province, Indonesia"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3191695"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "regency of Indonesia"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q252"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
         "value" : "Q14622"
       },
       "orgLabel" : {

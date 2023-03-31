@@ -1399,7 +1399,7 @@
     }, {
       "qid" : {
         "type" : "literal",
-        "value" : "Q9901"
+        "value" : "Q9804"
       },
       "orgLabel" : {
         "xml:lang" : "en",
@@ -1409,7 +1409,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in North Holland, the Netherlands"
+        "value" : "municipality in Limburg, the Netherlands"
       },
       "typeLabel" : {
         "xml:lang" : "en",
@@ -1427,7 +1427,7 @@
     }, {
       "qid" : {
         "type" : "literal",
-        "value" : "Q9804"
+        "value" : "Q9901"
       },
       "orgLabel" : {
         "xml:lang" : "en",
@@ -1437,7 +1437,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Limburg, the Netherlands"
+        "value" : "municipality in North Holland, the Netherlands"
       },
       "typeLabel" : {
         "xml:lang" : "en",

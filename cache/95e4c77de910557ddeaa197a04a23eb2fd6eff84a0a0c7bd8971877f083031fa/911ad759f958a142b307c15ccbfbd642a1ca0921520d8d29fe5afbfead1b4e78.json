@@ -61,7 +61,7 @@
       },
       "url" : {
         "type" : "uri",
-        "value" : "https://www.facebook.com/KementerianKewanganMalaysia"
+        "value" : "https://www.facebook.com/KemKewangan"
       },
       "verified" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
@@ -70,7 +70,30 @@
       },
       "account" : {
         "type" : "literal",
-        "value" : "KementerianKewanganMalaysia"
+        "value" : "KemKewangan"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCeLnUwdIofzewZ-V4JgjKzA"
+      },
+      "verified" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCeLnUwdIofzewZ-V4JgjKzA"
       }
     }, {
       "platformLabel" : {

@@ -3,6 +3,52 @@
     "vars" : [ "platformLabel", "property", "url", "verified", "account" ]
   },
   "results" : {
-    "bindings" : [ ]
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/people/Administration-Communale-dAns/100070196304255"
+      },
+      "verified" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "people/Administration-Communale-dAns/100070196304255"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCymalu1r9HyEky1-Vu1qzcQ"
+      },
+      "verified" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCymalu1r9HyEky1-Vu1qzcQ"
+      }
+    } ]
   }
 }

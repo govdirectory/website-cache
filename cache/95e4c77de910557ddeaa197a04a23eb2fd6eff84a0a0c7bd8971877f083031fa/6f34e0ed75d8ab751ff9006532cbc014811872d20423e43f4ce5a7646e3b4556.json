@@ -107,7 +107,7 @@
       },
       "url" : {
         "type" : "uri",
-        "value" : "https://www.flickr.com/people/gnbca"
+        "value" : "https://www.flickr.com/people/148091582@N07"
       },
       "verified" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
@@ -116,7 +116,7 @@
       },
       "account" : {
         "type" : "literal",
-        "value" : "gnbca"
+        "value" : "148091582@N07"
       }
     } ]
   }

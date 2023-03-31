@@ -561,510 +561,6 @@
     }, {
       "qid" : {
         "type" : "literal",
-        "value" : "Q21101"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kolding Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Denmark"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2177636"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Denmark"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q35"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q21104"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ærø Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Denmark"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2177636"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Denmark"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q35"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q21108"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sønderborg Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Denmark"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2177636"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Denmark"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q35"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q21142"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Varde Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Denmark"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2177636"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Denmark"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q35"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q21143"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Haderslev Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Denmark"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2177636"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Denmark"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q35"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q21140"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Middelfart Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Denmark"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2177636"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Denmark"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q35"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q21146"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Odense Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Denmark"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2177636"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Denmark"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q35"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q21145"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Fredericia Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Denmark"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2177636"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Denmark"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q35"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q21150"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Vejen Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Denmark"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2177636"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Denmark"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q35"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q21151"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sorø Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Denmark"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2177636"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Denmark"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q35"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q21152"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Aabenraa Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Denmark"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2177636"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Denmark"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q35"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q21182"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Svendborg Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Denmark"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2177636"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Denmark"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q35"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q27875"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Billund Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Denmark"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2177636"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Denmark"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q35"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q27967"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Assens Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Denmark"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2177636"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Denmark"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q35"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q27976"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Faaborg-Midtfyn Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Denmark"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2177636"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Denmark"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q35"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q28150"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Vejle Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Denmark"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2177636"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Denmark"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q35"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q29927"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Slagelse Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Denmark"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2177636"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Denmark"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q35"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q30013"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Nyborg Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Region of Southern Denmark on the east coast of the island of Funen in central Denmark"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2177636"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Denmark"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q35"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
         "value" : "Q164490"
       },
       "orgLabel" : {
@@ -3288,6 +2784,510 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "municipality on the island of Zealand"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2177636"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Denmark"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q21101"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kolding Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Denmark"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2177636"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Denmark"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q21104"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ærø Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Denmark"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2177636"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Denmark"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q21108"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sønderborg Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Denmark"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2177636"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Denmark"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q21142"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Varde Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Denmark"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2177636"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Denmark"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q21143"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Haderslev Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Denmark"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2177636"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Denmark"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q21140"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Middelfart Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Denmark"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2177636"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Denmark"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q21146"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Odense Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Denmark"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2177636"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Denmark"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q21145"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fredericia Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Denmark"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2177636"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Denmark"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q21150"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vejen Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Denmark"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2177636"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Denmark"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q21151"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sorø Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Denmark"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2177636"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Denmark"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q21152"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Aabenraa Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Denmark"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2177636"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Denmark"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q21182"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Svendborg Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Denmark"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2177636"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Denmark"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q27875"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Billund Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Denmark"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2177636"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Denmark"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q27967"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Assens Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Denmark"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2177636"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Denmark"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q27976"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Faaborg-Midtfyn Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Denmark"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2177636"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Denmark"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q28150"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vejle Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Denmark"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2177636"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Denmark"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q29927"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Slagelse Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Denmark"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2177636"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Denmark"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q30013"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nyborg Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Region of Southern Denmark on the east coast of the island of Funen in central Denmark"
       },
       "type" : {
         "type" : "uri",

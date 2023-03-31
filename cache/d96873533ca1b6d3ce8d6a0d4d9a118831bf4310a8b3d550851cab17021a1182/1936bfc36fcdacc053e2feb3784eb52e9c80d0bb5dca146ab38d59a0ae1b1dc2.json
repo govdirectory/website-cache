@@ -1,0 +1,43 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ombudsman_for_Children_in_Sweden"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.barnombudsmannen.se/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@barnombudsmannen.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-8-692-29-50"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/_sfs-2007-1021"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Förordning (2007:1021) med instruktion för Barnombudsmannenr"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Elisabeth Dahlin"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1780908"
+      }
+    } ]
+  }
+}

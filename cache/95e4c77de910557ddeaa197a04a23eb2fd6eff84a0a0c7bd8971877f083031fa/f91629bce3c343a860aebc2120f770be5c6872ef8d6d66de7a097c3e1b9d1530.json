@@ -84,7 +84,7 @@
       },
       "url" : {
         "type" : "uri",
-        "value" : "https://www.flickr.com/people/regierungbw"
+        "value" : "https://www.flickr.com/people/63097749@N08"
       },
       "verified" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
@@ -93,7 +93,7 @@
       },
       "account" : {
         "type" : "literal",
-        "value" : "regierungbw"
+        "value" : "63097749@N08"
       }
     }, {
       "platformLabel" : {

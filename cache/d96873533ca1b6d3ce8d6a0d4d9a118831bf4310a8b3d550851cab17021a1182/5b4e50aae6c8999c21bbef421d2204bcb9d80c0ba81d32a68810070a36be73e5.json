@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.lansstyrelsen.se/stockholm"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:stockholm@lansstyrelsen.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-10-223-10-00"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Anna Kinberg Batra"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1774229"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/%C3%89ghez%C3%A9e"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.eghezee.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@eghezee.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-81-810-120"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rudy Delhaise"
+      }
+    } ]
+  }
+}
