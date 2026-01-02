@@ -1,0 +1,62 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/dargovph"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "dargovph"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/gov.ph.dar"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "gov.ph.dar"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCTakieoa4wOQU_rwMeHxnoA"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCTakieoa4wOQU_rwMeHxnoA"
+      }
+    } ]
+  }
+}

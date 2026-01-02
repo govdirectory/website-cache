@@ -1,0 +1,80 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P11245"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/@националенвоенноисторическимуз"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "националенвоенноисторическимуз"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/WarMuseum1916"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "WarMuseum1916"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/war_museum/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "war_museum"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCCdgyEce51P8jahUfN0sZTw"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCCdgyEce51P8jahUfN0sZTw"
+      }
+    } ]
+  }
+}

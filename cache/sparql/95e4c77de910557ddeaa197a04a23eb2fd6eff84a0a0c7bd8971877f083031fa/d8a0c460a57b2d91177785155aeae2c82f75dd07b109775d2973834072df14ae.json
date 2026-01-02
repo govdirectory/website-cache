@@ -1,0 +1,134 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P11245"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/@ncpublicsafety"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "ncpublicsafety"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/NCPublicSafety"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "NCPublicSafety"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/ncpublicsafety/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "ncpublicsafety"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/NCPublicSafety"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "NCPublicSafety"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCW0xZHhHmRWujnZvSKO5U3A"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCW0xZHhHmRWujnZvSKO5U3A"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Flickr"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P3267"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.flickr.com/people/91078136@N08"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "91078136@N08"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LinkedIn"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P4264"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.linkedin.com/company/north-carolina-department-of-public-safety"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "north-carolina-department-of-public-safety"
+      }
+    } ]
+  }
+}

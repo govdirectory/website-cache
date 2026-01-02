@@ -1,0 +1,62 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P11245"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/@миколаівськаова"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "миколаівськаова"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/mykoda"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "mykoda"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCcxLeZrU3lh1b3xyB73axsA"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCcxLeZrU3lh1b3xyB73axsA"
+      }
+    } ]
+  }
+}

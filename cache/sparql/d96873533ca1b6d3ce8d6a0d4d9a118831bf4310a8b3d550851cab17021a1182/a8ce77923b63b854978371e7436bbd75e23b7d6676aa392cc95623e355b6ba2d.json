@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Brakel,_Belgium"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.brakel.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:secretariaat@brakel.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-55-43-17-50"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alexander De Croo"
+      }
+    } ]
+  }
+}

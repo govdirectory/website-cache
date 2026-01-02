@@ -1,0 +1,98 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P11245"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/@farnorthdistrictcouncil"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "farnorthdistrictcouncil"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/FarNorthDC"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "FarNorthDC"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/FarNorthDistrictCouncil"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "FarNorthDistrictCouncil"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCRbGkKanqRqARw4Beo1kI9Q"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCRbGkKanqRqARw4Beo1kI9Q"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LinkedIn"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P4264"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.linkedin.com/company/far-north-district-council"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "far-north-district-council"
+      }
+    } ]
+  }
+}

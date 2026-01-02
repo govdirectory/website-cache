@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Pirching_am_Traubenberg"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.pirching-traubenberg.gv.at/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gemeinde@pirching-traubenberg.gv.at"
+      }
+    } ]
+  }
+}

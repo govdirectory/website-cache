@@ -1,0 +1,116 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/NCAgriculture"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "NCAgriculture"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/gottobenc/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "gottobenc"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/NCAgriculture"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "NCAgriculture"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCgDN7DohLVzOxUltVtjBcDg"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCgDN7DohLVzOxUltVtjBcDg"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Pinterest"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P3836"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.pinterest.com/GottobeNC/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "GottobeNC"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LinkedIn"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P4264"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.linkedin.com/company/north-carolina-department-of-agriculture-and-consumer-services"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "north-carolina-department-of-agriculture-and-consumer-services"
+      }
+    } ]
+  }
+}

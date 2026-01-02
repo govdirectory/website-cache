@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/New_York_State_Canal_Corporation"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.canals.ny.gov/"
+      },
+      "foiUrl" : {
+        "type" : "uri",
+        "value" : "https://www.canals.ny.gov/About/Contacting-the-Canal#freedom-of-information-law-foil-request-4"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.canals.ny.gov/About/Contacting-the-Canal"
+      }
+    } ]
+  }
+}

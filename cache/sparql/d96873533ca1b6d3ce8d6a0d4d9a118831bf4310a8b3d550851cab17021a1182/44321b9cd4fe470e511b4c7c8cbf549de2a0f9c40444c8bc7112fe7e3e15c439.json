@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kirchberg_ob_der_Donau"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.kirchberg-donau.at/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gemeindeamt@kirchberg-donau.at"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.norway.no/nigeria"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:emb.abuja@mfa.no"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+234 813 989 0050"
+      }
+    } ]
+  }
+}

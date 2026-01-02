@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.rzi-dobrich.org"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:rzi-dobrich@mh.government.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-58-588-614"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12286820"
+      }
+    } ]
+  }
+}

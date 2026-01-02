@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Gouveia,_Portugal"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.cm-gouveia.pt/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:geral@cm-gouveia.pt"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+351-238-490-210"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.cm-gouveia.pt/contactos/"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://saudiarabia.diplomatie.belgium.be"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:riyadh@diplobel.fed.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+966 11 488 2888"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q137670"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P11245"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/@universitemoulayismail2022"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "universitemoulayismail2022"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/umi_meknes"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "umi_meknes"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/universitemoulay/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "universitemoulay"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/umi.meknes"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "umi.meknes"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCS_VXy_yJSz9bi99HVSb_iQ"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCS_VXy_yJSz9bi99HVSb_iQ"
+      }
+    } ]
+  }
+}

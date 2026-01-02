@@ -1,0 +1,80 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/MinFin_Ukraine"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "MinFin_Ukraine"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/minfin.gov.ua"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "minfin.gov.ua"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCENYj0Snc2Xw_lQJbY-SJPg"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCENYj0Snc2Xw_lQJbY-SJPg"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Telegram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P3789"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://t.me/s/MOF_ua"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "MOF_ua"
+      }
+    } ]
+  }
+}

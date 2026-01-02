@@ -1,0 +1,80 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P11245"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/@kerajaannegeripahang6356"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "kerajaannegeripahang6356"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/pahang.gov"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "pahang.gov"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCDV9-sG1F18uT3NORhRv5PA"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCDV9-sG1F18uT3NORhRv5PA"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Flickr"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P3267"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.flickr.com/people/94543155@N02"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "94543155@N02"
+      }
+    } ]
+  }
+}

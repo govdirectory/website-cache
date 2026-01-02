@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://ma.usembassy.gov/embassy-consulate/casablanca/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+212-522-64-20-00"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q105621572"
+      }
+    } ]
+  }
+}

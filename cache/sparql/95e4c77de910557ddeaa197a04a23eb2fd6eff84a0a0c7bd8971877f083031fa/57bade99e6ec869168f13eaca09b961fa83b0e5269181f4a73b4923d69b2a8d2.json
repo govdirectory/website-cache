@@ -1,0 +1,116 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/WarHeritage"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "WarHeritage"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/warheritage/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "warheritage"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/WarHeritage"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "WarHeritage"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCMLqBhLv1hEG6XQe7f16elA"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCMLqBhLv1hEG6XQe7f16elA"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Reddit"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P4265"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.reddit.com/user/WarHeritageInstitute"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "WarHeritageInstitute"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "TikTok"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P7085"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.tiktok.com/@warheritage"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "warheritage"
+      }
+    } ]
+  }
+}

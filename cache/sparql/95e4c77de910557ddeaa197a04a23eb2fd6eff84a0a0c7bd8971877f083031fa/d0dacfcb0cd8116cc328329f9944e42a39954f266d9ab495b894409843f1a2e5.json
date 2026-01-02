@@ -1,0 +1,80 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/finanzministerium"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "finanzministerium"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCCaXD4Bp7m_RXi5FNkhce0A"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCCaXD4Bp7m_RXi5FNkhce0A"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Flickr"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P3267"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.flickr.com/people/159530260@N03"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "159530260@N03"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LinkedIn"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P4264"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.linkedin.com/company/bundesministerium-finanzen"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "bundesministerium-finanzen"
+      }
+    } ]
+  }
+}

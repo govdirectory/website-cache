@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Norwegian_Medical_Products_Agency"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.dmp.no/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:post@dmp.no"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+47-22-89-77-00"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1769397"
+      }
+    } ]
+  }
+}

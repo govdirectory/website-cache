@@ -1,0 +1,22 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.swedenabroad.se/sv/utlandsmyndigheter/turkiet-istanbul/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+90 212 334 06 00"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peter Ericson"
+      }
+    } ]
+  }
+}

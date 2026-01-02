@@ -1,0 +1,43 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/National_Defence_Radio_Establishment"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.fra.se"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:fra@fra.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-8-471-46-00"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/_sfs-2007-937"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Förordning (2007:937) med instruktion för Försvarets radioanstalt"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Björn Lyrvall"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2982160"
+      }
+    } ]
+  }
+}

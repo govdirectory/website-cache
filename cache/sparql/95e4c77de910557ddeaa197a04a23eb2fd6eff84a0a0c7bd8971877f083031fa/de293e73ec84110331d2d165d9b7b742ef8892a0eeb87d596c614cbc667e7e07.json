@@ -1,0 +1,116 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P11245"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/@u.s._embassy_port_moresby"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "u.s._embassy_port_moresby"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/usembassypom"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "usembassypom"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/usembassyportmoresby"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "usembassyportmoresby"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UC_SII8FsUizquG6behyeIww"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UC_SII8FsUizquG6behyeIww"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Flickr"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P3267"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.flickr.com/people/90951198@N06"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "90951198@N06"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LinkedIn"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P4264"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.linkedin.com/company/u-s-embassy-port-moresby"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "u-s-embassy-port-moresby"
+      }
+    } ]
+  }
+}

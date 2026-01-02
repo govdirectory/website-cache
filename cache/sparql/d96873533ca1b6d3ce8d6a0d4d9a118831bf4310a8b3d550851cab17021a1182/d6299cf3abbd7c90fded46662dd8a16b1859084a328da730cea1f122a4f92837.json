@@ -1,0 +1,38 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Department_of_Information_and_Communications_Technology"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://dict.gov.ph/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:information@dict.gov.ph"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+63-8-920-0101"
+      },
+      "foiUrl" : {
+        "type" : "uri",
+        "value" : "https://www.foi.gov.ph/agencies/dict/"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ivan John Uy"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7925797"
+      }
+    } ]
+  }
+}

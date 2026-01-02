@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://unitedarabemirates.diplomatie.belgium.be"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:abudhabi@diplobel.fed.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+971-2-410-02-00"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q137670"
+      }
+    } ]
+  }
+}

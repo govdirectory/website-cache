@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Fronteira,_Portugal"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.cm-fronteira.pt/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:municipio@cm-fronteira.pt"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+351-245-600-070"
+      }
+    } ]
+  }
+}

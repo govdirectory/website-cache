@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Novo_Selo_Municipality,_Bulgaria"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://obshtina-novoselo.com/bg/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:obshtina-novoselo@abv.bg"
+      }
+    } ]
+  }
+}

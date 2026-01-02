@@ -1,0 +1,39 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.domstol.se/Om-Sveriges-Domstolar/Notarienamnden"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:notarienamnden@dom.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-36-15-53-00"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/_sfs-2007-1076"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Förordning (2007:1076) med instruktion för Notarienämnden"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Johan Kvart"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2612011"
+      }
+    } ]
+  }
+}

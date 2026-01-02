@@ -1,0 +1,152 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/NRCan"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "NRCan"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/RNCan"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "RNCan"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/EnvironnementetressourcesnaturellesauCanada"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "EnvironnementetressourcesnaturellesauCanada"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/EnvironmentandNaturalResourcesinCanada"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "EnvironmentandNaturalResourcesinCanada"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "GitHub"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2037"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://github.com/NRCan"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "NRCan"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCv4UAWT20Z4u_cF8CEk2S_A"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCv4UAWT20Z4u_cF8CEk2S_A"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCuClE8gpea2yI4juzlS4ZJQ"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCuClE8gpea2yI4juzlS4ZJQ"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LinkedIn"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P4264"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.linkedin.com/company/natural-resources-canada"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "natural-resources-canada"
+      }
+    } ]
+  }
+}

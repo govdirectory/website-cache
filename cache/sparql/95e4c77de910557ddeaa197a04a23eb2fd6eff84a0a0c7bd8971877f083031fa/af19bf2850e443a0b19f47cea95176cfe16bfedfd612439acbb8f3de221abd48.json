@@ -1,0 +1,116 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/minienw"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "minienw"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/mooinederland/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "mooinederland"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/MinisterieIenW"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "MinisterieIenW"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCabkFgVd5RXUTWuffoaUTRA"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCabkFgVd5RXUTWuffoaUTRA"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mastodon"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P4033"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://fedirect.toolforge.org/?id=minienw@social.overheid.nl"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "minienw@social.overheid.nl"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LinkedIn"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P4264"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.linkedin.com/company/ministerie-van-infrastructuur-en-waterstaat"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "ministerie-van-infrastructuur-en-waterstaat"
+      }
+    } ]
+  }
+}

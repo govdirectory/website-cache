@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Fr%C3%BDdek-M%C3%ADstek"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.frydek-mistek.cz"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:podatelna@frydekmistek.cz"
+      }
+    } ]
+  }
+}

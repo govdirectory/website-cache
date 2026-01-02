@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://its.ny.gov/"
+      },
+      "foiUrl" : {
+        "type" : "uri",
+        "value" : "https://its.ny.gov/foil"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://its.ny.gov/contact-us"
+      }
+    } ]
+  }
+}

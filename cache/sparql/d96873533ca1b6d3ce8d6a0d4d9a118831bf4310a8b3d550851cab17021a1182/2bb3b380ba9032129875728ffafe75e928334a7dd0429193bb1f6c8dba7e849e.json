@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Elmen"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.lechtal.at/ferienregion-lechtal/orte/elmen.html"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gemeinde@elmen.tirol.gv.at"
+      }
+    } ]
+  }
+}

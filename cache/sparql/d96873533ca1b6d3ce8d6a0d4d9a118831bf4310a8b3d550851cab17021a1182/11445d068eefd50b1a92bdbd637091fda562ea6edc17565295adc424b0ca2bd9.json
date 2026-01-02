@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.unioncountyncelections.gov/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:union.boe@unioncountync.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-704-283-3809"
+      }
+    } ]
+  }
+}

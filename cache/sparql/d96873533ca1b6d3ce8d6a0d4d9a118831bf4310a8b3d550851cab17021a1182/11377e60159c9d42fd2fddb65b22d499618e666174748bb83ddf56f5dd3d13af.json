@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.nso.bg"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:nso@nso.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-2-862-9188"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Emil Tonev"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2396053"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/Minist%C3%A9rio-da-Administra%C3%A7%C3%A3o-Estatal-895757820476173"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "Minist%C3%A9rio-da-Administra%C3%A7%C3%A3o-Estatal-895757820476173"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UC8cX5z0b5kzEDv_Th9izKKw"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UC8cX5z0b5kzEDv_Th9izKKw"
+      }
+    } ]
+  }
+}

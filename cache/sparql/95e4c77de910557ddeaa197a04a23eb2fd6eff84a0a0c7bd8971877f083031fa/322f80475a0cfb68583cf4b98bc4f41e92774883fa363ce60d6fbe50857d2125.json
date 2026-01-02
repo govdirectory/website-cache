@@ -1,0 +1,98 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/BMF_Bund"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "BMF_Bund"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/bundesfinanzministerium/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "bundesfinanzministerium"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCvmAmMwLq3eHDUKWSiW-GHA"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCvmAmMwLq3eHDUKWSiW-GHA"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mastodon"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P4033"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://fedirect.toolforge.org/?id=bmf@social.bund.de"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "bmf@social.bund.de"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LinkedIn"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P4264"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.linkedin.com/company/bundesministerium-der-finanzen"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "bundesministerium-der-finanzen"
+      }
+    } ]
+  }
+}

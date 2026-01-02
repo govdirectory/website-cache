@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/New_York_State_Board_of_Elections"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://elections.ny.gov/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:INFO@elections.ny.gov"
+      },
+      "foiUrl" : {
+        "type" : "uri",
+        "value" : "https://elections.ny.gov/freedom-information-law-foil-requests"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://elections.ny.gov/contact-us"
+      }
+    } ]
+  }
+}

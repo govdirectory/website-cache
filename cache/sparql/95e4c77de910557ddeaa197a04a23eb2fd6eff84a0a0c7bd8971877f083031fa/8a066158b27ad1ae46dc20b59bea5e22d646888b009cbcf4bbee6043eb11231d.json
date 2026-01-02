@@ -1,0 +1,62 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/tillgangligamedier"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "tillgangligamedier"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "GitHub"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2037"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://github.com/mtmse"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "mtmse"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UC7kWV9yKQr_s1UBbRpR1xHA"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UC7kWV9yKQr_s1UBbRpR1xHA"
+      }
+    } ]
+  }
+}

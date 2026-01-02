@@ -1,0 +1,44 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/BCGovNews"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "BCGovNews"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "GitHub"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2037"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://github.com/BCGov"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "BCGov"
+      }
+    } ]
+  }
+}

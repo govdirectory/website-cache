@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Dimovo_Municipality"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.dimovo.bg/?page=pages&pid=5"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:obstina_dimovo@abv.bg"
+      }
+    } ]
+  }
+}

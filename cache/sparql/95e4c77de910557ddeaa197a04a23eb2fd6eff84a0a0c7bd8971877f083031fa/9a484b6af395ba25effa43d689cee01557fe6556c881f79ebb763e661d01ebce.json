@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/finnmarkfylkeskommune/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "finnmarkfylkeskommune"
+      }
+    } ]
+  }
+}

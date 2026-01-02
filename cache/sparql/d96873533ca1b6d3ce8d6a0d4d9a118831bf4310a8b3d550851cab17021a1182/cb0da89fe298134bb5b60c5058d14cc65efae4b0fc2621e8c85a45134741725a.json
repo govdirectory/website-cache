@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://cl.usembassy.gov/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+56-2-2330-3000"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://cl.usembassy.gov/contact/"
+      }
+    } ]
+  }
+}

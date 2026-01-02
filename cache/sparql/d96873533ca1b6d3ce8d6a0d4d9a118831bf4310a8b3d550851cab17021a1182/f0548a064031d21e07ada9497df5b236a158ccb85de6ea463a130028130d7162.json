@@ -1,0 +1,17 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://currituckcountync.gov/board-of-elections/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-252-232-2525;ext=4121"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://za.usembassy.gov/cape-town-u-s-consulate/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+27-21-702-7300"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://za.usembassy.gov/contact/#Cape%20Town"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48865121"
+      }
+    } ]
+  }
+}

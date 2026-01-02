@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/Embajada-del-Reino-de-Marruecos-en-Guatemala-1995366854028542"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "Embajada-del-Reino-de-Marruecos-en-Guatemala-1995366854028542"
+      }
+    } ]
+  }
+}

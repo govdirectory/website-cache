@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://td.usembassy.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+235-6885-1065"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://td.usembassy.gov/contact/"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Richard Wayne Bogosian"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q789915"
+      }
+    } ]
+  }
+}

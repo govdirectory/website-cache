@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://scheldestromen.nl"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@scheldestromen.nl"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+31882461000"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Co Verdaas"
+      }
+    } ]
+  }
+}

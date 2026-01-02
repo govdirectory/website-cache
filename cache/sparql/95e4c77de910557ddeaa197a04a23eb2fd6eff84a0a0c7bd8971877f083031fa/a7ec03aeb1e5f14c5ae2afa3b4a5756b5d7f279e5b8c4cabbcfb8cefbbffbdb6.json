@@ -1,0 +1,44 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bluesky"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P12361"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://wikidata-externalid-url.toolforge.org/?p=12361&url_prefix=https://bsky.app/profile/&id=erhvervsmin.bsky.social"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "erhvervsmin.bsky.social"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/Erhvervs_min"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "Erhvervs_min"
+      }
+    } ]
+  }
+}

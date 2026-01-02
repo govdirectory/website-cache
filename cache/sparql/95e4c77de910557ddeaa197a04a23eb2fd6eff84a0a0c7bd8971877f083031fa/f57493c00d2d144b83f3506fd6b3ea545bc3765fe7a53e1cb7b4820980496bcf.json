@@ -1,0 +1,80 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/jakobstadpietarsaari/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "jakobstadpietarsaari"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/stadenjakobstadpietarsaarenkaupunki"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "stadenjakobstadpietarsaarenkaupunki"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCTnK4umFEjYePl6q0aaBj_g"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCTnK4umFEjYePl6q0aaBj_g"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LinkedIn"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P4264"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.linkedin.com/company/staden-jakobstad---pietarsaaren-kaupunki"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "staden-jakobstad---pietarsaaren-kaupunki"
+      }
+    } ]
+  }
+}

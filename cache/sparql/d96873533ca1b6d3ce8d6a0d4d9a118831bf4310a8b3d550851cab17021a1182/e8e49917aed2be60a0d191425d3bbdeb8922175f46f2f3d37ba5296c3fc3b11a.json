@@ -1,0 +1,43 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/S%C3%A1mi_Parliament_of_Sweden"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://sametinget.se"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:kansli@sametinget.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-980-780-30"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/_sfs-2009-1395"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Förordning (2009:1395) med instruktion för Sametinget"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Daniel Lyngdorf Vinka"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2611994"
+      }
+    } ]
+  }
+}

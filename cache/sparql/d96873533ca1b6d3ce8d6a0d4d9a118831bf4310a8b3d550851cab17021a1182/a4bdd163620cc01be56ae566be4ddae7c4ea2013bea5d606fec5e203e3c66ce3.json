@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.rzi-kn.net"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:rzi@rzi-kn.net"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-78-558-201"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12286820"
+      }
+    } ]
+  }
+}

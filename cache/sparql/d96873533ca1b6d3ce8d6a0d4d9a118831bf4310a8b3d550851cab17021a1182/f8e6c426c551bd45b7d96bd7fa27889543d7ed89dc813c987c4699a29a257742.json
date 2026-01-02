@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://diplomatie.belgium.be/en/japan"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:tokyo@diplobel.fed.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+81-3-3262-0191"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Roxane de Bilderling"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q137670"
+      }
+    } ]
+  }
+}

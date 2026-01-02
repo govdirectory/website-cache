@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.dhses.ny.gov/"
+      },
+      "foiUrl" : {
+        "type" : "uri",
+        "value" : "https://www.dhses.ny.gov/request-dhses-records-through-nys-freedom-information-law"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.dhses.ny.gov/contact-us"
+      }
+    } ]
+  }
+}

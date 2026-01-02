@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.government.is/ministries/ministry-of-the-environment-energy-and-climate/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:urn@urn.is"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+354-545-8600"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Guðlaugur Þór Þórðarson"
+      }
+    } ]
+  }
+}

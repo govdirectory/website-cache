@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.ireland.ie/en/kyiv/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+380-67-448-0786"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.ireland.ie/en/kyiv/contact/"
+      }
+    } ]
+  }
+}

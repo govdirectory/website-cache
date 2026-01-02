@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ministry_of_Roads_and_Highways_(Ghana)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://mrh.gov.gh/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+233 20 011 9979"
+      }
+    } ]
+  }
+}

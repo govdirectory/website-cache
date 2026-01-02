@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://hesc.ny.gov/"
+      },
+      "foiUrl" : {
+        "type" : "uri",
+        "value" : "https://hesc.ny.gov/about/policies-processes/freedom-information-act-foil"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://hesc.ny.gov/about/contact-us"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Pettneu_am_Arlberg"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.pettneu.tirol.gv.at/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:buchhaltung@pettneu.tirol.gv.at"
+      }
+    } ]
+  }
+}

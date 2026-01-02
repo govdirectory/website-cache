@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Laakdal"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.laakdal.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@laakdal.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-13-67-01-10"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tine Gielis"
+      }
+    } ]
+  }
+}

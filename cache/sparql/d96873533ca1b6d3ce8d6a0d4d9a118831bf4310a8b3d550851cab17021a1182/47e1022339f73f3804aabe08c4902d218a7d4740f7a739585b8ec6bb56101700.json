@@ -1,0 +1,18 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.senate.be/doc/const_nl.html#mod22ter"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Constitution belge du 7 février 1831"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.norway.no/pt/portugal"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:emb.lisbon@mfa.no"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+351 21 300 9100"
+      }
+    } ]
+  }
+}

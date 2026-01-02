@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://gis.ny.gov/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:nysgis@its.ny.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-518-242-5029"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://gis.ny.gov/about-us"
+      }
+    } ]
+  }
+}

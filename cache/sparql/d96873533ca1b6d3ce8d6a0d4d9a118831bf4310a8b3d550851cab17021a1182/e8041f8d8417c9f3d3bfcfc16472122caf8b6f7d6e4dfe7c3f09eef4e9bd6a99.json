@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.dmsw.gov.cy"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:deputyministry@dmsw.gov.cy"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+357 22406610"
+      }
+    } ]
+  }
+}

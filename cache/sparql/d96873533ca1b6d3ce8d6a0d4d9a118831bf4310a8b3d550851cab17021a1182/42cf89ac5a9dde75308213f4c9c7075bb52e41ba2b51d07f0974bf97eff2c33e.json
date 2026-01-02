@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "http://gemeente.groningen.nl/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+31-50-367-70-00"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://gemeente.groningen.nl/contact"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mirjam van 't Veld"
+      }
+    } ]
+  }
+}

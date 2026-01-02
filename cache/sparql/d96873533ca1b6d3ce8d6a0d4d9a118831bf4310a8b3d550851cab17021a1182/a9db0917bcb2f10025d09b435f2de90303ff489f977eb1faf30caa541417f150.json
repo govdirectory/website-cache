@@ -1,0 +1,22 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.government.is/ministries/ministry-of-infrastructure/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:irn@irn.is"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sigurður Ingi Jóhannsson"
+      }
+    } ]
+  }
+}

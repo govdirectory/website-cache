@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.nfc.bg/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:nfc@nfc.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-2-9150-811"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6866712"
+      }
+    } ]
+  }
+}

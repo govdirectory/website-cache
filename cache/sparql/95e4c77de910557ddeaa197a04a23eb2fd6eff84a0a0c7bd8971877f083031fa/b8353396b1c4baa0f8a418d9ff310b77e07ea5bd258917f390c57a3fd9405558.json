@@ -1,0 +1,134 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Linktree"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P11079"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://linktree.com/provincehainaut"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "provincehainaut"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/provincehainaut"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "provincehainaut"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/province_de_hainaut/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "province_de_hainaut"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/provincedehainaut"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "provincedehainaut"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCBEGbYnaFb4TZ8WVUQiJvKg"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCBEGbYnaFb4TZ8WVUQiJvKg"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LinkedIn"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P4264"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.linkedin.com/company/province-de-hainaut"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "province-de-hainaut"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "TikTok"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P7085"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.tiktok.com/@provincedehainaut"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "provincedehainaut"
+      }
+    } ]
+  }
+}

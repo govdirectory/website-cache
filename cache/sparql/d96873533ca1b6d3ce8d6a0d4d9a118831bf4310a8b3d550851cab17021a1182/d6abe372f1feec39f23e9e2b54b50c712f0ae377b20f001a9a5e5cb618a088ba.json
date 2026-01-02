@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Furth_an_der_Triesting"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.furth-triesting.at"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gemeinde@furth-triesting.at"
+      }
+    } ]
+  }
+}

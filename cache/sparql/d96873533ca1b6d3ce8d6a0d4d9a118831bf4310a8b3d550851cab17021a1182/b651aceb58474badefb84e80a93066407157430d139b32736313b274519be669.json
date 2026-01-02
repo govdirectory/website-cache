@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "http://croatia.diplomatie.belgium.be"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:zagreb@diplobel.fed.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+385 1 457 89 01"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q137670"
+      }
+    } ]
+  }
+}

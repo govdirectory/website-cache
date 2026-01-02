@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.mzh.government.bg/odz-silistra/bg/home.aspx"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:ODZG_Silistra@mzh.government.bg"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4294694"
+      }
+    } ]
+  }
+}

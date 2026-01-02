@@ -1,0 +1,35 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://dakar.diplo.de/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+221-338-894884"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.gesetze-im-internet.de/gad/BJNR018420990.html"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Gesetz über den Auswärtigen Dienst"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sönke Siemon"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56034"
+      }
+    } ]
+  }
+}

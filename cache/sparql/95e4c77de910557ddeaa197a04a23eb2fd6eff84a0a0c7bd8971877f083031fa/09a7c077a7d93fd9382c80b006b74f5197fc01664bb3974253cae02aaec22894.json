@@ -1,0 +1,206 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Threads"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P11892"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.threads.com/@statedept"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "statedept"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rumble"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P11962"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://rumble.com/c/StateDept"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "StateDept"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bluesky"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P12361"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://wikidata-externalid-url.toolforge.org/?p=12361&url_prefix=https://bsky.app/profile/&id=state-department.bsky.social"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "state-department.bsky.social"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "WhatsApp"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P12542"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.whatsapp.com/channel/0029Var8szHInlqREVL5jC0g"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "0029Var8szHInlqREVL5jC0g"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Substack"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P13568"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://substack.com/@statedept"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "statedept"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/StateDept"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "StateDept"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/statedept/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "statedept"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/statedept"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "statedept"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UC6ZhpmNnLxlOYipqh8wbM3A"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UC6ZhpmNnLxlOYipqh8wbM3A"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Flickr"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P3267"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.flickr.com/people/9364837@N06"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "9364837@N06"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LinkedIn"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P4264"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.linkedin.com/company/doscareers"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "doscareers"
+      }
+    } ]
+  }
+}

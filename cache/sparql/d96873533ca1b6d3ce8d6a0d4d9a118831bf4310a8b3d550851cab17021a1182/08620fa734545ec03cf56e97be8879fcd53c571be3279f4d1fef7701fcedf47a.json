@@ -1,0 +1,39 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.kammarkollegiet.se/om-oss/organisation/stod-till-andra-myndigheter/alkoholsortimentsnamnden"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:registratur@kammarkollegiet.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-8-700-08-00"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/_sfs-2007-1216"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Förordning (2007:1216) med instruktion för Alkoholsortimentsnämnden"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Annika Sandström"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2611987"
+      }
+    } ]
+  }
+}

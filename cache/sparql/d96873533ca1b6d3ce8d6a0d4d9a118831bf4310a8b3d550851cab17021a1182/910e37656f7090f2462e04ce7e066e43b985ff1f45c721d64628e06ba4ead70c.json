@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.franklincountync.gov/331/Board-of-Elections"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:Elections@franklincountync.us"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-919-496-3898"
+      }
+    } ]
+  }
+}

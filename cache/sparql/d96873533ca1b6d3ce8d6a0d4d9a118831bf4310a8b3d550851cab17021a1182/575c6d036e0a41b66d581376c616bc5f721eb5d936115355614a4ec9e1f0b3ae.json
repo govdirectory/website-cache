@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/New_York_State_Office_of_Temporary_and_Disability_Assistance"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://otda.ny.gov/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:nyspio@otda.ny.gov"
+      },
+      "foiUrl" : {
+        "type" : "uri",
+        "value" : "https://otda.ny.gov/legal/FOIL/"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://otda.ny.gov/contact.asp"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://france.diplomatie.belgium.be/fr/ambassade-et-consulats/consulat-general-marseille"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:marseille@diplobel.fed.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+33-4-96-11-69-55"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15149872"
+      }
+    } ]
+  }
+}

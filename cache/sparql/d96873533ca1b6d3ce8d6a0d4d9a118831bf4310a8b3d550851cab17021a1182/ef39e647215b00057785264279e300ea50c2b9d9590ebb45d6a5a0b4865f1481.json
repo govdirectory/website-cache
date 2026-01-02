@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/New_York_Public_Service_Commission"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://dps.ny.gov/"
+      },
+      "foiUrl" : {
+        "type" : "uri",
+        "value" : "https://dps.ny.gov/request-department-public-service-records-through-new-york-state-freedom-information-law"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://dps.ny.gov/contact-us"
+      }
+    } ]
+  }
+}

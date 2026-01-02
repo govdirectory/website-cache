@@ -1,0 +1,62 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/ekraf.ri/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "ekraf.ri"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UC8dHRLsScPvS0q0INMZazag"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UC8dHRLsScPvS0q0INMZazag"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "TikTok"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P7085"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.tiktok.com/@ekraf.ri"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "ekraf.ri"
+      }
+    } ]
+  }
+}

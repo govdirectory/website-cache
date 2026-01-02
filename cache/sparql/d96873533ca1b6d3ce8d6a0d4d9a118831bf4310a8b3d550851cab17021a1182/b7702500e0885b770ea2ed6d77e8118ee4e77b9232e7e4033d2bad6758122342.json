@@ -1,0 +1,43 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Moderna_Museet"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.modernamuseet.se"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:registrator@modernamuseet.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-8-520-235-00"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/_sfs-2007-1177"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Förordning (2007:1177) med instruktion för Moderna museet"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gitte Ørskou"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2611994"
+      }
+    } ]
+  }
+}

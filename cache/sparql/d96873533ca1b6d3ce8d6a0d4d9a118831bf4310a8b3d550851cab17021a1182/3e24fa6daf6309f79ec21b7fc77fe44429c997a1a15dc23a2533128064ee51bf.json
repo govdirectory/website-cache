@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.agrotourism.com.cy/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@agrotourism.com.cy"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+357-22340071"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.agrotourism.com.cy/contact-0"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q86689369"
+      }
+    } ]
+  }
+}

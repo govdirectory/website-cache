@@ -1,0 +1,44 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/Commune-de-Flémalle-102397981522959"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "Commune-de-Flémalle-102397981522959"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCqaVHwnTdWv_VV7bg4v0RbQ"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCqaVHwnTdWv_VV7bg4v0RbQ"
+      }
+    } ]
+  }
+}

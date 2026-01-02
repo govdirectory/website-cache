@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/Lokaal-bestuur-Hove-100064495100864"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "Lokaal-bestuur-Hove-100064495100864"
+      }
+    } ]
+  }
+}

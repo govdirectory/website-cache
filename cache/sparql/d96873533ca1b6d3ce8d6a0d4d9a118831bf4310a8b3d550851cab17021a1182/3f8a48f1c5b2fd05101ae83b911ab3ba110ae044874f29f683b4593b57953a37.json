@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.aba.government.bg/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:aba@aba.government.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-2-935-06-50"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.aba.government.bg/contacts"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1813345"
+      }
+    } ]
+  }
+}

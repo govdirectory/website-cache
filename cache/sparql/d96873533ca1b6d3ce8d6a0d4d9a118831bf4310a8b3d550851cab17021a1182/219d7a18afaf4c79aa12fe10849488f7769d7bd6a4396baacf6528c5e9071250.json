@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ganshoren"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.ganshoren.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:ganshoren@ganshoren.brussels"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-2-465-12-77"
+      }
+    } ]
+  }
+}

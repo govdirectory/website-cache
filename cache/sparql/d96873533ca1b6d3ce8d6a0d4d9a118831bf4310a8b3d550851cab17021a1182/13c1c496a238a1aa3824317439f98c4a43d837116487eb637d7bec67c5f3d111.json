@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.caswellcountync.gov/board-of-elections"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:help@caswellelections.com"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-336-694-4010"
+      }
+    } ]
+  }
+}

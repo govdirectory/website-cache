@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Klaus_an_der_Pyhrnbahn"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.gemeinde-klaus.at/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@gemeinde-klaus.at"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Sankt_Gallen,_Styria"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.st-gallen.istsuper.com/index.php?id=321"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gde@st-gallen.gv.at"
+      }
+    } ]
+  }
+}

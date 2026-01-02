@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Renkum"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.renkum.nl/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@renkum.nl"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.renkum.nl/conf/Formulieren/E_formulieren/Algemeen/Contactformulier_gemeente_Renkum"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marcel Fränzel"
+      }
+    } ]
+  }
+}

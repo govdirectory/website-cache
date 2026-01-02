@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://iamn.bg/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:delovodstvo@iamn.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-2-805-04-33"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://iamn.bg/%d0%ba%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d0%b8/"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12286820"
+      }
+    } ]
+  }
+}

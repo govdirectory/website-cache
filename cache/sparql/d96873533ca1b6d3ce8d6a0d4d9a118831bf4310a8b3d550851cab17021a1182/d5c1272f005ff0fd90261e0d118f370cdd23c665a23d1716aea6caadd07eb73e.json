@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.moorecountync.gov/325/Board-of-Elections"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:elections@moorecountync.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-910-947-3868"
+      }
+    } ]
+  }
+}

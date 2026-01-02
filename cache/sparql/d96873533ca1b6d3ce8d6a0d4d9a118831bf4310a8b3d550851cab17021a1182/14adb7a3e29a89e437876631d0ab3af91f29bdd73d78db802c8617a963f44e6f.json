@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.ashecountygov.com/departments/board-of-elections/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:asheelections@ashecountygov.com"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-336-846-5570"
+      }
+    } ]
+  }
+}

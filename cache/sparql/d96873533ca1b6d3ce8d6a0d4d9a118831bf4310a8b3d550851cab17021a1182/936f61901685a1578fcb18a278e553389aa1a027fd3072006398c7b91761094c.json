@@ -1,0 +1,34 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Genappe"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.genappe.be"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@genappe.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-67-79-42-00"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.genappe.be/contact-info"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gérard Couronne"
+      }
+    } ]
+  }
+}

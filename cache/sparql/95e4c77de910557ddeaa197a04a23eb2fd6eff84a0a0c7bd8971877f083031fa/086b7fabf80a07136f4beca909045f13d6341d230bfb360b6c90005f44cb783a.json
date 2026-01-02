@@ -1,0 +1,152 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P11245"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/@kantonsanktgallen"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "kantonsanktgallen"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "WhatsApp"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P12542"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.whatsapp.com/channel/0029VaJ9STa05MUg5AOmh22N"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "0029VaJ9STa05MUg5AOmh22N"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/kantonSG"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "kantonSG"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/kantonsg/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "kantonsg"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/KantonSG"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "KantonSG"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCyMR58kgg4FtEVjvJSInJSQ"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCyMR58kgg4FtEVjvJSInJSQ"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Telegram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P3789"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://t.me/s/kantonsg_offical"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "kantonsg_offical"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LinkedIn"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P4264"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.linkedin.com/company/kanton-st-gallen"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "kanton-st-gallen"
+      }
+    } ]
+  }
+}

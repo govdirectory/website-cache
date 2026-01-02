@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Profondeville"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.profondeville.be"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:administration@profondeville.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-81-42-02-10"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luc Delire"
+      }
+    } ]
+  }
+}

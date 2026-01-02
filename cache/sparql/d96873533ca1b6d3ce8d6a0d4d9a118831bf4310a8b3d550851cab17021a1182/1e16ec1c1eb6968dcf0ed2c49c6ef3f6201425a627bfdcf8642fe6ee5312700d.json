@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://netherlands.diplomatie.belgium.be/nl/ambassade-en-andere-vertegenwoordigingen/andere-vertegenwoordigingen/permanente-vertegenwoordiging"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:int.thehague@diplobel.fed.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+31-70-312-34-30"
+      }
+    } ]
+  }
+}

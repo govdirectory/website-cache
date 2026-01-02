@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ans,_Belgium"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.ans-ville.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:secretariat@ans-ville.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-4-247-72-11"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Grégory Philippin"
+      }
+    } ]
+  }
+}

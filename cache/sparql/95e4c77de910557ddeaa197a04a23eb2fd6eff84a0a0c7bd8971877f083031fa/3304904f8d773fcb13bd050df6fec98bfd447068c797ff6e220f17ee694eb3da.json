@@ -1,0 +1,80 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/cmmangualde"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "cmmangualde"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/municipiomangualde"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "municipiomangualde"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UC74sIkkXZKq3sDyE1XQv_CA"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UC74sIkkXZKq3sDyE1XQv_CA"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Telegram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P3789"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://t.me/s/municipiomangualde"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "municipiomangualde"
+      }
+    } ]
+  }
+}

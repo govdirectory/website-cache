@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Loich"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://loich.gv.at/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gemeindeamt@loich.gv.at"
+      }
+    } ]
+  }
+}

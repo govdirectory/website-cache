@@ -1,0 +1,39 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ministry_of_Culture_(Czech_Republic)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://mk.gov.cz"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:epodatelna@mkcr.cz"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+420-257-085-111"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "http://ftp.aspi.cz/opispdf/1969/001-1969.pdf"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Zákon České národní rady o zřízení ministerstev a jiných ústředních orgánů státní správy České socialistické republiky"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Martin Baxa"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.politie.be/5460/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32 51 51 00 00"
+      }
+    } ]
+  }
+}

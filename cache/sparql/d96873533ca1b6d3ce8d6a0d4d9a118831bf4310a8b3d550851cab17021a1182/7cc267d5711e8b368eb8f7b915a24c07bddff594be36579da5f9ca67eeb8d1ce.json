@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gov.cy/meci/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:perm.sec@meci.gov.cy"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+357 22867100"
+      }
+    } ]
+  }
+}

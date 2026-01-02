@@ -1,0 +1,152 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bluesky"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P12361"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://wikidata-externalid-url.toolforge.org/?p=12361&url_prefix=https://bsky.app/profile/&id=naturalsciences-be.bsky.social"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "naturalsciences-be.bsky.social"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/RBINSmuseum"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "RBINSmuseum"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/rbinsmuseum/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "rbinsmuseum"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/museumdino"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "museumdino"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCDZnxZFihFgOBWnsqu9asmg"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCDZnxZFihFgOBWnsqu9asmg"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Pinterest"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P3836"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.pinterest.com/rbinsmuseum/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "rbinsmuseum"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Tumblr"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P3943"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://rbins.tumblr.com/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "rbins"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LinkedIn"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P4264"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.linkedin.com/company/royal-belgian-institute-of-natural-sciences"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "royal-belgian-institute-of-natural-sciences"
+      }
+    } ]
+  }
+}

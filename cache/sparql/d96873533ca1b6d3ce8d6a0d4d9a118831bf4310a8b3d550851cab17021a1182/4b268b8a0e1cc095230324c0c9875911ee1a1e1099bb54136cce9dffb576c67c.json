@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Beckerich"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://beckerich.lu"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@beckerich.lu"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+352 26 66 9-100"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.beckerich.lu/fr/contact"
+      }
+    } ]
+  }
+}

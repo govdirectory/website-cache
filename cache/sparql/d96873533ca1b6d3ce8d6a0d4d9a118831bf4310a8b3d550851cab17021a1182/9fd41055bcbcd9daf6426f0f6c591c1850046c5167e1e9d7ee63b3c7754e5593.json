@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.ireland.ie/en/sierraleone/freetown/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+232-79-250628"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.ireland.ie/en/sierraleone/freetown/contact/"
+      }
+    } ]
+  }
+}

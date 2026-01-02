@@ -1,0 +1,43 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Motala_Municipality"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.motala.se"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:motala.kommun@motala.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-141-22-50-00"
+      },
+      "foiUrl" : {
+        "type" : "uri",
+        "value" : "https://handlingar.se/en/new/motala_municipality"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/kommunallag-2017725_sfs-2017-725"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Kommunallag (2017:725)"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mark Henriksson"
+      }
+    } ]
+  }
+}

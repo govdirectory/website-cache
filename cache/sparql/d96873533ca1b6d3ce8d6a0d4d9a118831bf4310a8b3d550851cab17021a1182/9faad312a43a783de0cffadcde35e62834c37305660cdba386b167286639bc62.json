@@ -1,0 +1,22 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Chamber_of_Representatives_(Belgium)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.dekamer.be/"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peter De Roover"
+      }
+    } ]
+  }
+}

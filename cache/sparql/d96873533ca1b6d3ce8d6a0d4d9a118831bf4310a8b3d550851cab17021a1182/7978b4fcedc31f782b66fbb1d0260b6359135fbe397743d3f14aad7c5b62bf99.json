@@ -1,0 +1,17 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.warrencountync.com/413/Elections-Board"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-252-257-2114"
+      }
+    } ]
+  }
+}

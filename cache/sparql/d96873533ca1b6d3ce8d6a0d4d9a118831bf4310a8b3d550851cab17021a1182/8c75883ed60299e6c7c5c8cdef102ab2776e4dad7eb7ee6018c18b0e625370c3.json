@@ -1,0 +1,17 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.averycountync.gov/departments/board_elections_office.php"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-828-733-8282"
+      }
+    } ]
+  }
+}

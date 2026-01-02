@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.ireland.ie/en/portugal/lisbon/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+351-213-308-200"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.ireland.ie/en/portugal/lisbon/contact/"
+      }
+    } ]
+  }
+}

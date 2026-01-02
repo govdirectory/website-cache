@@ -1,0 +1,22 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kerteminde_Municipality"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.kerteminde.dk/"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kasper Ejsing Olesen"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ministry_of_Foreign_Affairs_(Cuba)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://cubaminrex.cu/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:cubaminrex@minrex.gob.cu"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bruno Rodríguez Parrilla"
+      }
+    } ]
+  }
+}

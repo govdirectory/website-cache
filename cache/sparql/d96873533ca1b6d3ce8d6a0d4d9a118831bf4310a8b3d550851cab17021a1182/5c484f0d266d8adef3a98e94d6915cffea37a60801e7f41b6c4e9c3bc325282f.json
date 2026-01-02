@@ -1,0 +1,34 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Smallingerland"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.smallingerland.nl/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gemeente@smallingerland.nl"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+31512581234"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.smallingerland.nl/Contact_en_openingstijden"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fred Veenstra"
+      }
+    } ]
+  }
+}

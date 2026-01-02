@@ -1,0 +1,134 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/BMDV"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "BMDV"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/bmdv/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "bmdv"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/bmdv"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "bmdv"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCYkhpF3BjgtQBwk8IncDkRw"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCYkhpF3BjgtQBwk8IncDkRw"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mastodon"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P4033"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://fedirect.toolforge.org/?id=bmdv@social.bund.de"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "bmdv@social.bund.de"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mastodon"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P4033"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://fedirect.toolforge.org/?id=BMWSB_Bund@social.bund.de"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "BMWSB_Bund@social.bund.de"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LinkedIn"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P4264"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.linkedin.com/company/bmdv-bund"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "bmdv-bund"
+      }
+    } ]
+  }
+}

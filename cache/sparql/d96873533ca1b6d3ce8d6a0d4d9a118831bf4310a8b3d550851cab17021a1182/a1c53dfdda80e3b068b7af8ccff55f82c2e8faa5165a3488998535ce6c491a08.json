@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.finlandabroad.fi/coe"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:Sanomat.ENE@gov.fi"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+33-3-881-544-44"
+      }
+    } ]
+  }
+}

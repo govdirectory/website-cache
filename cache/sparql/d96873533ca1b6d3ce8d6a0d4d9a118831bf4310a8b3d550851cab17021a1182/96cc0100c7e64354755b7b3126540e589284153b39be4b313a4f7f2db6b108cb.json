@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.polknc.org/board_of_elections_2.php#.U_tVksVdV1B"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:polkboe@polknc.org"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-828-894-8181"
+      }
+    } ]
+  }
+}

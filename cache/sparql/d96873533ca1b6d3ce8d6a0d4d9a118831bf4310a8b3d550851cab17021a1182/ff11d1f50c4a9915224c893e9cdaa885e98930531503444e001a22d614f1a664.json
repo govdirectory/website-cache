@@ -1,0 +1,13 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.ncdor.gov/taxes-forms/property-tax/property-tax-appeal-process/property-tax-commission-ptc"
+      }
+    } ]
+  }
+}

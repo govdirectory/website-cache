@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.caciaf.bg"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:caciaf@caciaf.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-2-94-01-444"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q639704"
+      }
+    } ]
+  }
+}

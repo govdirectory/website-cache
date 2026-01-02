@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.dagligvaretilsynet.no/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:post@dagligvaretilsynet.no"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+47-400-20-444"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.dagligvaretilsynet.no/kontakt"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18177740"
+      }
+    } ]
+  }
+}

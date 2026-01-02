@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Vichten"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://vichten.lu/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+352-88-80-50-1"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://vichten.lu/contact/contactez-nous/"
+      }
+    } ]
+  }
+}

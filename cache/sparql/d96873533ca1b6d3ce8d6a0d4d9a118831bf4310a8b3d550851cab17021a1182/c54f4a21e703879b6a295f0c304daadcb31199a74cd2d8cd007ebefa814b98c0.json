@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Saint-Gilles,_Belgium"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://stgilles.brussels/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:contact.1060@stgilles.brussels"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-2-536-02-11"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jean Spinette"
+      }
+    } ]
+  }
+}

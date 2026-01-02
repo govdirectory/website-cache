@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Nassogne"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.nassogne.be"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:informations@nassogne.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-84-22-07-50"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marc Quirynen"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Electoral_Commission_(New_Zealand)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://vote.nz/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:enquiries@elections.govt.nz"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://vote.nz/contact-us/"
+      }
+    } ]
+  }
+}

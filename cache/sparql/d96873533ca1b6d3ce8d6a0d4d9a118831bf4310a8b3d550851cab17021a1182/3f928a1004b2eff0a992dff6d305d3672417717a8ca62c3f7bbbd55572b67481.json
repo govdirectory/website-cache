@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.mh.government.bg/bg/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:press@mh.government.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-2-930-14-00"
+      }
+    } ]
+  }
+}

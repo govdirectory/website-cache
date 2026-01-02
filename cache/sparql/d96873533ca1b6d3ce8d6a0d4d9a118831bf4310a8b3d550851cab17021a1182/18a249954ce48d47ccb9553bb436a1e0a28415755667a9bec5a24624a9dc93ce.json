@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Lincent"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://lincent.be"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:administration@lincent.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-19-63-02-40"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yves Kinnard"
+      }
+    } ]
+  }
+}

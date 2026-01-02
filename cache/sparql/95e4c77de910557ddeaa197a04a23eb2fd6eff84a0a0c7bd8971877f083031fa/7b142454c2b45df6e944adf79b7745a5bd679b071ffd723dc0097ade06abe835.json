@@ -1,0 +1,80 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/EntraideMaroc"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "EntraideMaroc"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/entraide_nationale_maroc/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "entraide_nationale_maroc"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/الصفحة-الرسمية-لمؤسسة-التعاون-الوطني/100064920572710/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "الصفحة-الرسمية-لمؤسسة-التعاون-الوطني/100064920572710/"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCEU1Mgf3i3D5TUTamwoQ79w"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCEU1Mgf3i3D5TUTamwoQ79w"
+      }
+    } ]
+  }
+}

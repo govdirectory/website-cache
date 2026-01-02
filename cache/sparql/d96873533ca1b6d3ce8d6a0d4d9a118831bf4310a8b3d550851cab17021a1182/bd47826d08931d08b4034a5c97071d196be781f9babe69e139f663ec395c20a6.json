@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Houten"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.houten.nl/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gemeentehuis@houten.nl"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+31306392611"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karen Heerschop"
+      }
+    } ]
+  }
+}

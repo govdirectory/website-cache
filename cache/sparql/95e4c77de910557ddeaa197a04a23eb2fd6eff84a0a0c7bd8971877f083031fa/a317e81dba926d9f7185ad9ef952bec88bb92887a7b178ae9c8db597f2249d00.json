@@ -1,0 +1,44 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/EtatdeVaud"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "EtatdeVaud"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mastodon"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P4033"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://fedirect.toolforge.org/?id=etatdevaud@tooting.ch"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "etatdevaud@tooting.ch"
+      }
+    } ]
+  }
+}

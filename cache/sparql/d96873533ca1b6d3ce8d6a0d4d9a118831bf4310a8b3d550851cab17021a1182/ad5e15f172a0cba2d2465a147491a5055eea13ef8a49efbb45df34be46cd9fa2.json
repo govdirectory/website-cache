@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://rzi-vidin.egov.bg"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:rzi-vidin@mh.government.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-94-923-185"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12286820"
+      }
+    } ]
+  }
+}

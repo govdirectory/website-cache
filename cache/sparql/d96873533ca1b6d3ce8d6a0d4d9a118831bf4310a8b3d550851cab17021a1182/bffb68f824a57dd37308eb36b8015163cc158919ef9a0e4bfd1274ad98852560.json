@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://gy.usembassy.gov"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:webmastergeorge@state.gov"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://gy.usembassy.gov/contact/"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nicole D. Theriot"
+      }
+    } ]
+  }
+}

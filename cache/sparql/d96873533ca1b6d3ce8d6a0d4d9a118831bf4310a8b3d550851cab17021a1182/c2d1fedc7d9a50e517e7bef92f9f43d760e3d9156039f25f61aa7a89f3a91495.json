@@ -1,0 +1,34 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Federal_Department_of_Home_Affairs"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.edi.admin.ch/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@gs-edi.admin.ch"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+41-584628041"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Arnold Koller"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30917"
+      }
+    } ]
+  }
+}

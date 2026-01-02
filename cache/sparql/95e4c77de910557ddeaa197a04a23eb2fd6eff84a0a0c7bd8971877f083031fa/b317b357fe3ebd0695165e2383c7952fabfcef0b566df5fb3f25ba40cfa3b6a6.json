@@ -1,0 +1,98 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "WhatsApp"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P12542"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.whatsapp.com/channel/0029VbArQ39It5rqiOceke2v"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "0029VbArQ39It5rqiOceke2v"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/StadtWinterthur"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "StadtWinterthur"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/stadt_winterthur/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "stadt_winterthur"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/stadtwinterthur"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "stadtwinterthur"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LinkedIn"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P4264"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.linkedin.com/company/stadt-winterthur"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "stadt-winterthur"
+      }
+    } ]
+  }
+}

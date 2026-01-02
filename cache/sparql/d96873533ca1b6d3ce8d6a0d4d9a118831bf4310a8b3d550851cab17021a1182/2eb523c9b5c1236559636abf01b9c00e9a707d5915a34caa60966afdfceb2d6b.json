@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www2.mfa.gov.lv/paris"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:embassy.france@mfa.gov.lv"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+33-1-53-64-58-10"
+      }
+    } ]
+  }
+}

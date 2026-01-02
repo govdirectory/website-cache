@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.votestanlycountync.gov/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:elections@stanlycountync.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-704-986-3647"
+      }
+    } ]
+  }
+}

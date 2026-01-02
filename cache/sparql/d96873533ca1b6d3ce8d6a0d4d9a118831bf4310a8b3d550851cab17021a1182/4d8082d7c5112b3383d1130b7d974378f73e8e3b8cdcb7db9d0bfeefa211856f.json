@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.ireland.ie/en/slovenia/ljubljana/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+386-1-300-8970"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.ireland.ie/en/slovenia/ljubljana/contact/"
+      }
+    } ]
+  }
+}

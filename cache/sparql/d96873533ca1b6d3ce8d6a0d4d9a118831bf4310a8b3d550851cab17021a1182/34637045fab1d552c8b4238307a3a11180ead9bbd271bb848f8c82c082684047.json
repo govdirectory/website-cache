@@ -1,0 +1,17 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.daviecountync.gov/index.aspx?nid=93"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-336-753-6072"
+      }
+    } ]
+  }
+}

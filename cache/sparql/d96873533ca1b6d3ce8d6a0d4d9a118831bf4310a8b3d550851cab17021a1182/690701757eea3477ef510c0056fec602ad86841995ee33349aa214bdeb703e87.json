@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Obritzberg-Rust"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.obritzberg-rust.gv.at/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gemeinde@obritzberg-rust.gv.at"
+      }
+    } ]
+  }
+}

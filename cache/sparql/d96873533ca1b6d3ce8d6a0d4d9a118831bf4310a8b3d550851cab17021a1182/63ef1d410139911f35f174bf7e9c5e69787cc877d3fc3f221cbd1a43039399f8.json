@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Rila_Municipality"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://grad-rila.bg"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:rilamunicipality@gmail.com"
+      }
+    } ]
+  }
+}

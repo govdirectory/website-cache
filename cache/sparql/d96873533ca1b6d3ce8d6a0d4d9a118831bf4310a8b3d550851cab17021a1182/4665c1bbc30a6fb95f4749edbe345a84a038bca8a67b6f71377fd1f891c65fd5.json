@@ -1,0 +1,22 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Department_for_Work_and_Pensions"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gov.uk/government/organisations/department-for-work-pensions"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pat McFadden"
+      }
+    } ]
+  }
+}

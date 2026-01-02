@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Razgrad_Province"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://razgrad-oblast.egov.bg/wps/portal/district-razgrad/home"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:delovodstvo@rz-government.org"
+      }
+    } ]
+  }
+}

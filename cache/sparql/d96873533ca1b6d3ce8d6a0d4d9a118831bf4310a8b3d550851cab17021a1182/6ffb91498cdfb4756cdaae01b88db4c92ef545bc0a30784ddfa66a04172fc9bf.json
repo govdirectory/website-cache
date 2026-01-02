@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Classification_Office_(New_Zealand)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.classificationoffice.govt.nz/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@classificationoffice.govt.nz"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+64-4-471-6770"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.classificationoffice.govt.nz/about/contact/"
+      }
+    } ]
+  }
+}

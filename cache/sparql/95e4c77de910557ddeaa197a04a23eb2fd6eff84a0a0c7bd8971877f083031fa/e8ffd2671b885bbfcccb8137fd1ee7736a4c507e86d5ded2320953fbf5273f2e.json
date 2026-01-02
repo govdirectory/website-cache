@@ -1,0 +1,80 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P11245"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/@kempanrb"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "kempanrb"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/kemenpanrb/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "kemenpanrb"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UC4Tl2xUO_sjUNs-SfedTmEg"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UC4Tl2xUO_sjUNs-SfedTmEg"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P4003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/pages/Kementerian-PANRB/252032711635152"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "Kementerian-PANRB/252032711635152"
+      }
+    } ]
+  }
+}

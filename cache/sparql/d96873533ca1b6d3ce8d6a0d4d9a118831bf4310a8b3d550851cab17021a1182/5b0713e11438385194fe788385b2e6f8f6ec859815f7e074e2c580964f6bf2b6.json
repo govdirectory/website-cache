@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Markt_Sankt_Martin"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.marktstmartin.at"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:post@markt-st-martin.bgld.gv.at"
+      }
+    } ]
+  }
+}

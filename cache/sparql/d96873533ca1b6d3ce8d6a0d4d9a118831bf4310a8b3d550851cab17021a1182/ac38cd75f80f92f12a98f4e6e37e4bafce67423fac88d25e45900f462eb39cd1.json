@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Etten-Leur"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.etten-leur.nl/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@etten-leur.nl"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+31076"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marina Starmans-Gelijns"
+      }
+    } ]
+  }
+}

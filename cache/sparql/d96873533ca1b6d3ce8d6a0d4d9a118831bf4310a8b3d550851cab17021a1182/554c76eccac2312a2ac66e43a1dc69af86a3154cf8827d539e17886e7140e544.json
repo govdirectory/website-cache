@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ministry_of_Employment_(Sweden)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://regeringen.se/sveriges-regering/arbetsmarknadsdepartementet/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:arbetsmarknadsdepartementet.registrator@regeringskansliet.se"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Johan Britz"
+      }
+    } ]
+  }
+}

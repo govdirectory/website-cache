@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Doische"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.doische.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@doische.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-82-21-47-20"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pascal Jacquiez"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Office_of_Congressional_Workplace_Rights"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.ocwr.gov/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:OCWRinfo@ocwr.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-202-724-9250"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.ocwr.gov/our-office/contact-us/"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11268"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Lens,_Belgium"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.lens.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:secretariat.communal@commune-lens.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-65-22-04-11"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isabelle Galant"
+      }
+    } ]
+  }
+}

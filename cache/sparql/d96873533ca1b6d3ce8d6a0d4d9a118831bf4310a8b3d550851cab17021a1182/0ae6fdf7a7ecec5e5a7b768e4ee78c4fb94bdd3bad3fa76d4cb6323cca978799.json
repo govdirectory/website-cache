@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/%C4%8Cesk%C3%A1_L%C3%ADpa"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.mucl.cz/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:cerny@mucl.cz"
+      }
+    } ]
+  }
+}

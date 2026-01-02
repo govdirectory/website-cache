@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://kosovo.diplomatie.belgium.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:pristina@diplobel.fed.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+383-38-518-918"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://kosovo.diplomatie.belgium.be/en/embassy-pristina/address-and-opening-hours"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q137670"
+      }
+    } ]
+  }
+}

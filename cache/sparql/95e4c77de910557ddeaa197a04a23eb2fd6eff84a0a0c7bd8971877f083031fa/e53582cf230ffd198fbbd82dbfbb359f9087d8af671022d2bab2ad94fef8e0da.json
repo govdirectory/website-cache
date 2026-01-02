@@ -1,0 +1,152 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bluesky"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P12361"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://wikidata-externalid-url.toolforge.org/?p=12361&url_prefix=https://bsky.app/profile/&id=cmmatosinhos.bsky.social"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "cmmatosinhos.bsky.social"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/CM_MATOSINHOS"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "CM_MATOSINHOS"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/camaramunicipaldematosinhos/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "camaramunicipaldematosinhos"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/CamaraMunicipalMatosinhos"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "CamaraMunicipalMatosinhos"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCp0H56bf9eA3YOGERY5QjkA"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCp0H56bf9eA3YOGERY5QjkA"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Pinterest"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P3836"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.pinterest.com/cmmatosinhos/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "cmmatosinhos"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LinkedIn"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P4264"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.linkedin.com/company/camara-municipal-de-matosinhos"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "camara-municipal-de-matosinhos"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "TikTok"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P7085"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.tiktok.com/@cmmatosinhos"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "cmmatosinhos"
+      }
+    } ]
+  }
+}

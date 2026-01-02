@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Arruda_dos_Vinhos"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.cm-arruda.pt/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:cm-arruda@cm-arruda.pt"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+351-263-977-000"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.cm-arruda.pt/municipio/contactos-servicos-municipais"
+      }
+    } ]
+  }
+}

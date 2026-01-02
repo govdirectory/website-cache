@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Amstelveen"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.amstelveen.nl/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gemeente@amstelveen.nl"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+31205404911"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tjapko Poppens"
+      }
+    } ]
+  }
+}

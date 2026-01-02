@@ -1,0 +1,43 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Swedish_Gambling_Authority"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://lotteriinspektionen.se"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:registrator@lotteriinspektionen.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-152-65-01-00"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/_sfs-2007-756"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Förordning (2007:756) med instruktion för Lotteriinspektionen"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Camilla Rosenberg"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1774229"
+      }
+    } ]
+  }
+}

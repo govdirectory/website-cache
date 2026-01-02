@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ruse_Municipality"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.ruse-bg.eu/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:mayor@ruse-bg.eu"
+      }
+    } ]
+  }
+}

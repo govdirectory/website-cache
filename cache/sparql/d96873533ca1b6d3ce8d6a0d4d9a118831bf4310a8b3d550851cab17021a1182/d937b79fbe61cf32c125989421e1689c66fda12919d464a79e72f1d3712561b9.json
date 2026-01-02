@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.bda.bg"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:bda@bda.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-2-890-34-31"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12286820"
+      }
+    } ]
+  }
+}

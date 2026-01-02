@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://canada.diplomatie.belgium.be/en/embassy-consulate-general-and-honorary-consulates/consulate-general-montreal"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:montreal@diplobel.fed.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-514-849-73-94"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5369568"
+      }
+    } ]
+  }
+}

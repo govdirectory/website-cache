@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Chaves,_Portugal"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.chaves.pt/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:municipio@chaves.pt"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.chaves.pt/pages/240"
+      }
+    } ]
+  }
+}

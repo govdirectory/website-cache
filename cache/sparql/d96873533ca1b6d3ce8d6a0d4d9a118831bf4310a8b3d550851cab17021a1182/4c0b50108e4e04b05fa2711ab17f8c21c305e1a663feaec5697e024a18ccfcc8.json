@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.pompiershesbaye.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@pompiershesbaye.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-19-60-54-20"
+      }
+    } ]
+  }
+}

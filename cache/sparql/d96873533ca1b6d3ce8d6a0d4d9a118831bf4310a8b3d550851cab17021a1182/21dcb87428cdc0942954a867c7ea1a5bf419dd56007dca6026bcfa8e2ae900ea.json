@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kraainem"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.kraainem.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@kraainem.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-2-719-20-40"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bertrand Waucquez"
+      }
+    } ]
+  }
+}

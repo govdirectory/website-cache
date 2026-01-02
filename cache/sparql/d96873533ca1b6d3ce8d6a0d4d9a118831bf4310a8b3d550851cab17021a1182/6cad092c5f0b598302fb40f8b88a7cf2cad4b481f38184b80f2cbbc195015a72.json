@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.zuiderzeeland.nl"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:waterschap@zuiderzeeland.nl"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+31-320-274-911"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Co Verdaas"
+      }
+    } ]
+  }
+}

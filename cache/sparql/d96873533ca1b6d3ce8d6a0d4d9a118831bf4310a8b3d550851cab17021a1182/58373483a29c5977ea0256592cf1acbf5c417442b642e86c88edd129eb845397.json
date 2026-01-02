@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/New_York_State_Commission_on_Judicial_Conduct"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://cjc.ny.gov/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:cjc@cjc.ny.gov"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://cjc.ny.gov/General.Information/Gen.Info.Pages/Contact.html"
+      }
+    } ]
+  }
+}

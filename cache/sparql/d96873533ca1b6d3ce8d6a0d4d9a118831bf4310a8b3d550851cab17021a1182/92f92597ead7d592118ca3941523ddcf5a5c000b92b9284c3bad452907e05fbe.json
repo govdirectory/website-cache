@@ -1,0 +1,17 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Gm%C3%BCnd_District"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://noel.gv.at/noe/Gmuend/Bezirkshauptmannschaft_Gmuend.html"
+      }
+    } ]
+  }
+}

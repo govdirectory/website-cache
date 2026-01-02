@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Beerse"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.beerse.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@beerse.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32 14 61 19 71"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bart Craane"
+      }
+    } ]
+  }
+}

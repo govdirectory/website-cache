@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://th.usembassy.gov/chiang-mai/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+66-53-107-700"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://th.usembassy.gov/contact/#consulate"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13021888"
+      }
+    } ]
+  }
+}

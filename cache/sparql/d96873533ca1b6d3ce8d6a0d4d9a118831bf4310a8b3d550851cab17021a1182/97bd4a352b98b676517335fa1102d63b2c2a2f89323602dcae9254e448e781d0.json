@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.nystrs.org/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:communit@nystrs.org"
+      },
+      "foiUrl" : {
+        "type" : "uri",
+        "value" : "https://www.nystrs.org/contact-us/foil-request/"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.nystrs.org/contact-us/"
+      }
+    } ]
+  }
+}

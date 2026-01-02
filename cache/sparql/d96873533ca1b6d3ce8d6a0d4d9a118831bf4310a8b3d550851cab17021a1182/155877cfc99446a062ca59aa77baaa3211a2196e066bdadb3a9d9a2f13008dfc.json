@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Staphorst"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.staphorst.nl/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gemeente@staphorst.nl"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+31522467400"
+      }
+    } ]
+  }
+}

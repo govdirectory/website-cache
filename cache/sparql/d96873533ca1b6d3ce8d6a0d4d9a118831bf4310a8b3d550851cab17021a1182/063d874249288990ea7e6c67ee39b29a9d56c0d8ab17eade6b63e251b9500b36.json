@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://rzi-razgrad.egov.bg/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:rzi_razgrad@rzi-razgrad.egov.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-84-611-165"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12286820"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/G%C3%B6pfritz_an_der_Wild"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.goepfritz-wild.gv.at/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gemeinde.goepfritz@wvnet.at"
+      }
+    } ]
+  }
+}

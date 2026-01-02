@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.cadastre.bg/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:acad@cadastre.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-2-818-83-45"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12286838"
+      }
+    } ]
+  }
+}

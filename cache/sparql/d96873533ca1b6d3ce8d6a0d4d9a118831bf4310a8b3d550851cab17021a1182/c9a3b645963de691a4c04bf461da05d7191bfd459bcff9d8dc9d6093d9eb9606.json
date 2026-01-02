@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/La_Hulpe"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.lahulpe.be"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@lahulpe.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-2-634-30-70"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Christophe Dister"
+      }
+    } ]
+  }
+}

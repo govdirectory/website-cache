@@ -1,0 +1,33 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/New_York_State_Office_for_People_With_Developmental_Disabilities"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://opwdd.ny.gov/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@opwdd.ny.gov"
+      },
+      "foiUrl" : {
+        "type" : "uri",
+        "value" : "https://opwdd.ny.gov/new-york-state-freedom-information-law-foil"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://opwdd.ny.gov/contact-us"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7014081"
+      }
+    } ]
+  }
+}

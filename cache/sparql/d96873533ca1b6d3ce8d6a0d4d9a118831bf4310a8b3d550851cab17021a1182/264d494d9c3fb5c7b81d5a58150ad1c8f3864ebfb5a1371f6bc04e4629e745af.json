@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/State_Intelligence_Agency_(Bulgaria)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.dar.bg/bg"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:office@dar.bg"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2396053"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,2308 @@
+{
+  "head" : {
+    "vars" : [ "uri", "name", "safeName", "description", "parts", "website", "nativeLabel", "typeOfGovList", "headOfStateLabel", "headOfGovLabel", "geoshape", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Austria"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "austria"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes ministries, federated states, districts and municipalities."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Christian Stocker"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alexander Van der Bellen"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Austria.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Austria"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Republik Österreich"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "semi-presidential system,federal parliamentary republic"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Belgium"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "belgium"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes federal scientific institutes, public institutions of social security, public interest organizations, federal public services, public planning services, agencies abroad, language areas, communities, regions, extant provinces, police zones, emergency zones and municipalities."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bart De Wever"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Philippe of Belgium"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Belgium.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Belgium"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "nl",
+        "type" : "literal",
+        "value" : "Koninkrijk België"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "constitutional monarchy,parliamentary monarchy"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.belgium.be/"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23635"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Bermuda"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "bermuda"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes ministries, parishes and municipalities."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "E. David Burt"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "John Rankin"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Bermuda.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Bermuda"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bermuda"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "constitutional monarchy,British overseas territory"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gov.bm/"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q219"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Bulgaria"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "bulgaria"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes ministries, state agencies, executive agencies, administrative structures, oblasts, municipalities, kmetstvos, municipal districts and specialized local administrations."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rossen Jeliazkov"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rumen Radev"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Bulgaria.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Bulgaria"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "bg",
+        "type" : "literal",
+        "value" : "България"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "parliamentary republic"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.government.bg/"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1009"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Cameroon"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "cameroon"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes ministries, regions, senate, lower house and supreme court."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Joseph Ngute"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Paul Biya"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Cameroon.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Cameroon"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "République du Cameroun"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "republic"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.prc.cm/fr/"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Canada"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "canada"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes ministerial departments, provinces and territories."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mark Carney"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Charles III"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Canada.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Canada"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Canada"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "constitutional monarchy,federation,parliamentary system"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.canada.ca"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q298"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Chile"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "chile"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes ministries, undersecreteriats, embassies, regions and legislatures of regions."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gabriel Boric"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gabriel Boric"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Chile.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Chile"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "República de Chile"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "democratic republic"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gob.cl/"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q241"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Cuba"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "cuba"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes ministries, regular provinces."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Manuel Marrero Cruz"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Miguel Díaz-Canel"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Cuba.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Cuba"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "República de Cuba"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "unitary state"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.cuba.cu"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q229"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Cyprus"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "cyprus"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes ministries, deputy ministries, government departments, government agencies, districts and municipalities."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nicos Christodoulides"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nicos Christodoulides"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Cyprus.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Cyprus"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "el",
+        "type" : "literal",
+        "value" : "Κυπριακή Δημοκρατία"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "republic,presidential system"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.cyprus.gov.cy/"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q213"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Czech Republic"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "czech-republic"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes ministries, regions and municipalities with expanded powers."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Petr Fiala"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Petr Pavel"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Czechia.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Czech_Republic"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Česko"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "parliamentary republic"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.czechia.eu/"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Denmark"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "denmark"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes, ministries, regions and municipalities."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mette Frederiksen"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Frederik X of Denmark"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Denmark.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Denmark"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "da",
+        "type" : "literal",
+        "value" : "Kongeriget Danmark"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "constitutional monarchy"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.denmark.dk"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "East Timor"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "east-timor"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes ministries, municipalities, special administrative region, administrative posts and sucos."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Xanana Gusmão"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "José Ramos-Horta"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:East+Timor.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Timor-Leste"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "tet",
+        "type" : "literal",
+        "value" : "Repúblika Demokrátika Timor-Leste"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "republic,semi-presidential system,unitary state"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://timor-leste.gov.tl/?lang=en"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q33"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Finland"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "finland"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes ministries, regions, municipalities and agencies abroad."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Petteri Orpo"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alexander Stubb"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Finland.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Finland"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Finland"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "parliamentary republic"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://finland.fi/"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q183"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Germany"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "germany"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes ministries, agencies abroad, federated states and governmental districts."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Friedrich Merz"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Frank-Walter Steinmeier"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Germany.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Germany"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Bundesrepublik Deutschland"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "republic,federation,parliamentary republic,federal parliamentary republic"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://verwaltung.bund.de"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q117"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Ghana"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "ghana"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes regions and districts."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nana Akufo-Addo"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "John Mahama"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Ghana.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ghana"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "democracy"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.ghana.gov.gh/"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q223"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Greenland"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "greenland"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes municipalities."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jens-Frederik Nielsen"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Frederik X of Denmark"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Greenland.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Greenland"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "kl",
+        "type" : "literal",
+        "value" : "Kalaallit Nunaat"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "parliamentary monarchy"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://naalakkersuisut.gl"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Iceland"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "iceland"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes ministries, courts and municipalities."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kristrún Mjöll Frostadóttir"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Halla Tómasdóttir"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Iceland.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Iceland"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "is",
+        "type" : "literal",
+        "value" : "Ísland"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "parliamentary republic"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.iceland.is/"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q668"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "India"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "india"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes ministries, states and union territories."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Narendra Modi"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Droupadi Murmu"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:India+outline.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/India"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "भारत"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "federal republic,parliamentary democracy"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://india.gov.in/"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q252"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Indonesia"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "indonesia"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes ministries, provinces, cities and regencies."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prabowo Subianto"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prabowo Subianto"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Indonesia.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Indonesia"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "id",
+        "type" : "literal",
+        "value" : "Republik Indonesia"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "republic"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://indonesia.go.id"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Ireland"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "ireland"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes departments of state and embassies."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Micheál Martin"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Catherine Connolly"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Ireland.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Republic_of_Ireland"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Éire"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "republic,unitary state"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.gov.ie/"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Japan"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "japan"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes ministries, prefectures, embassies and permanent missions."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Takaichi Sanae"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Naruhito"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Japan.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Japan"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "日本"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "constitutional monarchy"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q211"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Latvia"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "latvia"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes ministries, municipalities and agencies abroad."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Evika Siliņa"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edgars Rinkēvičs"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Latvia.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Latvia"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "lv",
+        "type" : "literal",
+        "value" : "Latvija"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "republic,parliamentary republic"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.president.lv/"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q32"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Luxembourg"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "luxembourg"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes ministries, ministries departments, cantons and communes."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luc Frieden"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Guillaume V, Grand Duke of Luxembourg"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:LuxembourgCountry.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Luxembourg"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "lb",
+        "type" : "literal",
+        "value" : "Lëtzebuerg"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "constitutional monarchy"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://luxembourg.public.lu"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Malaysia"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "malaysia"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes federal territories, ministries, states and districts."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Anwar Ibrahim"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ibrahim Iskandar of Johor"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Malaysia.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Malaysia"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "ms",
+        "type" : "literal",
+        "value" : "Malaysia"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "constitutional monarchy,elective monarchy,federal monarchy,parliamentary monarchy"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.malaysia.travel/en/us"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q233"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Malta"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "malta"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes ministries and regions."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Robert Abela"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Myriam Spiteri Debono"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Malta.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Malta"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "mt",
+        "type" : "literal",
+        "value" : "Malta"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "parliamentary democracy"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.gov.mt/"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1028"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Morocco"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "morocco"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes ministries, public institutions, embassies, regional councils, provinces and prefectures."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Aziz Akhannouch"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mohammed VI of Morocco"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Morocco.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Morocco"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "zgh",
+        "type" : "literal",
+        "value" : "ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "constitutional monarchy"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.maroc.ma/fr"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q837"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Nepal"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "nepal"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes ministries, provinces, districts and provincial assemblies."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pushpa Kamal Dahal"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ram Chandra Poudel"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Nepal.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Nepal"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "ne",
+        "type" : "literal",
+        "value" : "नेपाल"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "federal republic"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://nepal.gov.np"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Netherlands"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "netherlands"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes ministries, courts, water boards, the Kings cabinet, provinces and municipalities."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dick Schoof"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "William Alexander of the Netherlands"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Nederland.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Netherlands"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "nl",
+        "type" : "literal",
+        "value" : "Nederland"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "constitutional monarchy,parliamentary monarchy"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1384"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "New York"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "united-states/new-york"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "State agencies and counties."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kathy Hochul"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:NewYork.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/New_York_(state)"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "State of New York"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q664"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "New Zealand"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "new-zealand"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes public service departments, departmental agencies, wānangas, state-owned enterprises, regional councils, territorial authorities, autonomous crown entities, independent crown entities and crown research institutes."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Christopher Luxon"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Charles III"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:New+Zealand.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/New_Zealand"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "mi",
+        "type" : "literal",
+        "value" : "Aotearoa"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "parliamentary monarchy"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.govt.nz/"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1454"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "North Carolina"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "united-states/north-carolina"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes the general assembly, cabinet, council of state, counties, county election boards, state agencies, supreme and appellate courts."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Josh Stein"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:NorthCarolina.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/North_Carolina"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "State of North Carolina"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.nc.gov/"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Norway"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "norway"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes municipalities, county municipalities, district courts, land consolidation courts, courts of appeal, ministries, directorates and embassies."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jonas Gahr Støre"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Harald V of Norway"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Norway.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Norway"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "nb",
+        "type" : "literal",
+        "value" : "Kongeriket Norge"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "constitutional monarchy,representative democracy"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://norway.no"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q419"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Peru"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "peru"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes ministries, regions and provinces."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "José Jerí"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "José Jerí"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Peru.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Peru"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "República del Perú"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "presidential system"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gob.pe/"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q928"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Philippines"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "philippines"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes departments, regions, provinces, cities and municipalities."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bongbong Marcos"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bongbong Marcos"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Philippines.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Philippines"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Philippines"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "republic"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gov.ph"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q45"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Portugal"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "portugal"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes ministries, districts, autonomous regions, municipalities and the parliament."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luís Montenegro"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marcelo Rebelo de Sousa"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Portugal.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Portugal"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "República Portuguesa"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "republic"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.portugal.gov.pt/"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q159"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Russia"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "russia"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes the government and ministries."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mikhail Mishustin"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vladimir Putin"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Russia.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Russia"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Российская Федерация"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "super-presidential republic"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://gov.ru/"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Scotland"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "united-kingdom/scotland"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Executive agencies, local authorities, NHS boards, NDPBs, courts, public corporations, tribunals, parole boards, King's printer, non-ministerial government departments, commissioners, ombudsmen and Health and social care partnerships."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "John Swinney"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Charles III"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Scotland.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Scotland"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "sco",
+        "type" : "literal",
+        "value" : "Scotland"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gov.scot/"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q334"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Singapore"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "singapore"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes parliament, government, supreme court, ministries, town councils and community development council districts."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lawrence Wong"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tharman Shanmugaratnam"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Singapore.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Singapore"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "ms",
+        "type" : "literal",
+        "value" : "Republik Singapura"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "parliamentary republic"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gov.sg/"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q258"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "South Africa"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "south-africa"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes departments, independent constitutional bodies, provinces and municipalities."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyril Ramaphosa"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyril Ramaphosa"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:South+Africa.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/South_Africa"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "ts",
+        "type" : "literal",
+        "value" : "Afrika-Dzonga"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "representative democracy,parliamentary republic"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gov.za/"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Sweden"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "sweden"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "All Swedish government agencies are included."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ulf Kristersson"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Carl XVI Gustaf of Sweden"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Sweden.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Sweden"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Sverige"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "constitutional monarchy,representative democracy"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://sweden.se"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Switzerland"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "switzerland"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes federal ministries, cantons and municipalities."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Swiss Federal Council"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Swiss Federal Council"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Switzerland.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Switzerland"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "rm",
+        "type" : "literal",
+        "value" : "Confederaziun svizra"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "federal republic,directorial system"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.admin.ch"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q212"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Ukraine"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "ukraine"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes ministries and first level administrative units."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yulia Svyrydenko"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Volodymyr Zelenskyy"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Ukraine.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ukraine"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "uk",
+        "type" : "literal",
+        "value" : "Україна"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "semi-presidential system"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://ukraine.ua"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "United Kingdom"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "united-kingdom"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes ministerial departments."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : "Scotland|scotland"
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keir Starmer"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Charles III"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:United+Kingdom.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/United_Kingdom"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "constitutional monarchy"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gov.uk/"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "United States"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "united-states"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes departments, Executive Office of the President, legislative branch agencies, representations, consulates, consulate generals and embassies."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : "New York|new-york,North Carolina|north-carolina"
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Donald Trump"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Donald Trump"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:United+States.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/United_States"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "United States of America"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "federal republic,republic,presidential system"
+      }
+    }, {
+      "uri" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q77"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Uruguay"
+      },
+      "safeName" : {
+        "type" : "literal",
+        "value" : "uruguay"
+      },
+      "description" : {
+        "type" : "literal",
+        "value" : "Current content includes ministries and departments."
+      },
+      "parts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "headOfGovLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yamandú Orsi"
+      },
+      "headOfStateLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yamandú Orsi"
+      },
+      "geoshape" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/data/main/Data:Uruguay.map"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Uruguay"
+      },
+      "nativeLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "República Oriental del Uruguay"
+      },
+      "typeOfGovList" : {
+        "type" : "literal",
+        "value" : "republic,presidential system,participatory democracy"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gub.uy/"
+      }
+    } ]
+  }
+}

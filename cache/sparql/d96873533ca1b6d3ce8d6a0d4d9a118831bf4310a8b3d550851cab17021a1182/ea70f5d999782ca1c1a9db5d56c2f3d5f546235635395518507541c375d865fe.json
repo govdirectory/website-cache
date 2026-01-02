@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://brazil.diplomatie.belgium.be/fr/ambassade-et-consulats/consulat-general-rio-de-janeiro"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:riodejaneiro@diplobel.fed.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+55 21 254 388 78"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q104528572"
+      }
+    } ]
+  }
+}

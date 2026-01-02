@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/%C5%BDelezn%C3%BD_Brod"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.zeleznybrod.cz/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:podatelna@zelbrod.cz"
+      }
+    } ]
+  }
+}

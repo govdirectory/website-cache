@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://chile.gob.cl/jordania/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:amman@consulado.gob.cl"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+962-6-592-3360"
+      }
+    } ]
+  }
+}

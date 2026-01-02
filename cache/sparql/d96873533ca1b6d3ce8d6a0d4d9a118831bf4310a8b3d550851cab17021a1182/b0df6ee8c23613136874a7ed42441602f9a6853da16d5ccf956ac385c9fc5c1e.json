@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "http://columbusco.org/board-elections"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:Columbus.BOE@columbusco.org"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-910-640-6609"
+      }
+    } ]
+  }
+}

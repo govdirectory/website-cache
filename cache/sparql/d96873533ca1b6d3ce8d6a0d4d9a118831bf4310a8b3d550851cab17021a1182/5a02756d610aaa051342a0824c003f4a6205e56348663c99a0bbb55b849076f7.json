@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Odder_Municipality"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.odder.dk"
+      },
+      "citizensInitiatives" : {
+        "type" : "uri",
+        "value" : "https://www.odder.dk/politik/borgerforslag/"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lone Jakobi"
+      }
+    } ]
+  }
+}

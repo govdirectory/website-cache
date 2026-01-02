@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://efc.ny.gov/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@efc.ny.gov"
+      },
+      "foiUrl" : {
+        "type" : "uri",
+        "value" : "https://efc.ny.gov/freedom-information-law-foil"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://efc.ny.gov/contact-efc"
+      }
+    } ]
+  }
+}

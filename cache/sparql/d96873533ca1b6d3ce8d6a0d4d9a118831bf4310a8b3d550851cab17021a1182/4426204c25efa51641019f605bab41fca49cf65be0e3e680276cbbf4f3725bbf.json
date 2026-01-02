@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Maarkedal"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.maarkedal.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@maarkedal.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-55-33-46-40"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Joris Nachtergaele"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.ncf.bg"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:office@ncf.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-876-880-992"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6866712"
+      }
+    } ]
+  }
+}

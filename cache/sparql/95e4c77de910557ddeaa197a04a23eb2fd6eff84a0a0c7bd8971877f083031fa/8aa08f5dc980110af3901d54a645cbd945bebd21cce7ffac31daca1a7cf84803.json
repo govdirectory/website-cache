@@ -1,0 +1,188 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rutube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P10152"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://rutube.ru/channel/24675435/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "24675435"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/mod_russia"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "mod_russia"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/mil_ru/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "mil_ru"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/1492252324350852"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "1492252324350852"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "VK"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P3185"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://vk.com/mil"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "mil"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Flickr"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P3267"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.flickr.com/people/mod_russia"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "mod_russia"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Telegram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P3789"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://t.me/s/mod_russia"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "mod_russia"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Telegram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P3789"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://t.me/s/mod_russia_en"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "mod_russia_en"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P4003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/pages/Министерство-обороны-Российской-Федерации/1492252324350852"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "Министерство-обороны-Российской-Федерации/1492252324350852"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Odnoklassniki"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P5163"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://ok.ru/mil"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "mil"
+      }
+    } ]
+  }
+}

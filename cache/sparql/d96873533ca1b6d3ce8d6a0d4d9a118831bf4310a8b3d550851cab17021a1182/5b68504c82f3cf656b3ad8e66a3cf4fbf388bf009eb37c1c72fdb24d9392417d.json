@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Westerwolde_(municipality)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.westerwolde.nl/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gemeente@westerwolde.nl"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+31-599320220"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jaap Velema"
+      }
+    } ]
+  }
+}

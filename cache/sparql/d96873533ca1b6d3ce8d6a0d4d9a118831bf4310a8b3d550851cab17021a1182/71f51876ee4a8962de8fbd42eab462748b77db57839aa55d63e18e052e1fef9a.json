@@ -1,0 +1,22 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.government.is/ministries/ministry-of-culture-and-business-affairs/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:mvf@mvf.is"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lilja Dögg Alfreðsdóttir"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Reguengos_de_Monsaraz"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.cm-reguengos-monsaraz.pt/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:geral@cm-reguengos-monsaraz.pt"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+351-266-508-040"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.cm-reguengos-monsaraz.pt/contacte-nos/"
+      }
+    } ]
+  }
+}

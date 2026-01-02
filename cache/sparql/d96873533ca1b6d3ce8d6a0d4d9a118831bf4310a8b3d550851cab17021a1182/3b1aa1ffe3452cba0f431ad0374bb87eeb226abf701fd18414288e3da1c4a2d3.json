@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Sankt_Martin_am_W%C3%B6llmi%C3%9Fberg"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.st-martin-wöllmissberg.at/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gde@st-martin-woellmissberg.gv.at"
+      }
+    } ]
+  }
+}

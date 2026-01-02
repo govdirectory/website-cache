@@ -1,0 +1,44 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/ZonedePolicedeStavelotMalmedy"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "ZonedePolicedeStavelotMalmedy"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCKHQ1OYDtDTtltkEKl83Oiw"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCKHQ1OYDtDTtltkEKl83Oiw"
+      }
+    } ]
+  }
+}

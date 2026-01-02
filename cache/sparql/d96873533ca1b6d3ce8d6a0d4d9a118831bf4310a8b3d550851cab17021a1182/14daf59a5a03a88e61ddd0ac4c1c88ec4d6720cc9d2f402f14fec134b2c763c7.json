@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://nio.government.bg/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@nio.government.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-2-424-1180"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2396053"
+      }
+    } ]
+  }
+}

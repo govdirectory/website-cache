@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://rzi-yambol.bg/rziwp/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:rzi-yambol@mh.government.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-46-663-170"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12286820"
+      }
+    } ]
+  }
+}

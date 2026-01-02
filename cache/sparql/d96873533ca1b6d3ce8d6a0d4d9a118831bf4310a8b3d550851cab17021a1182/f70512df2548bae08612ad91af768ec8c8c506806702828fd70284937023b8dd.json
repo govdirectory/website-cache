@@ -1,0 +1,34 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Rijswijk"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.rijswijk.nl/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:stadhuis@rijswijk.nl"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+31-703261000"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.rijswijk.nl/contact"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Huri Sahin"
+      }
+    } ]
+  }
+}

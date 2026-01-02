@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gli.government.bg/bg"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@gli.government.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-2-8101-756"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12286841"
+      }
+    } ]
+  }
+}

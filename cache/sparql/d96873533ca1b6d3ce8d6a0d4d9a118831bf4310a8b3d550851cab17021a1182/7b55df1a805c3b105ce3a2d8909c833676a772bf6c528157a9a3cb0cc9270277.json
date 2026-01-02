@@ -1,0 +1,22 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.government.is/ministries/ministry-of-food-agriculture-and-fisheries/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:mar@mar.is"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Svandís Svavarsdóttir"
+      }
+    } ]
+  }
+}

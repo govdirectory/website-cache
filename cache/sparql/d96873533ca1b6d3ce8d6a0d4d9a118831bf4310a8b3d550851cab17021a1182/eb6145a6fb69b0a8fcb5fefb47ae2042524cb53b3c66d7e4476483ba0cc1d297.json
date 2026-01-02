@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.johnstonnc.com/joconcelections/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:elections@johnstonnc.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-919-989-5095"
+      }
+    } ]
+  }
+}

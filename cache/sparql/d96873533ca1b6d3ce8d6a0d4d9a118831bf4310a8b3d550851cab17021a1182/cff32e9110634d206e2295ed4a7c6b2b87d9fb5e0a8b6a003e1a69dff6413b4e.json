@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Geistthal-S%C3%B6dingberg"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.geistthal-soedingberg.at"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gde@geistthal-soedingberg.gv.at"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://iaieu.egov.bg/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:mail@e-gov.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-2-949-2040"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q110094655"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Miranda_do_Corvo"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.cm-mirandadocorvo.pt/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:camara@cm-mirandadocorvo.pt"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://cm-mirandadocorvo.pt/menu/373/contatos-municipais"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Aurach_bei_Kitzb%C3%BChel"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.aurach.tirol.gv.at/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gemeinde@aurach.tirol.gv.at"
+      }
+    } ]
+  }
+}

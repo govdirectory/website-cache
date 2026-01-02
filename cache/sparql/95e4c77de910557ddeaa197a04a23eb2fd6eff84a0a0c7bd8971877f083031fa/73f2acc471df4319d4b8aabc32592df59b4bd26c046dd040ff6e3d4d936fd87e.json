@@ -1,0 +1,152 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rutube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P10152"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://rutube.ru/channel/23645808/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "23645808"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/minsport_rf/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "minsport_rf"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/minsportrf"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "minsportrf"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCaodrLPgAsd2UrWpyKFVNNw"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCaodrLPgAsd2UrWpyKFVNNw"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "VK"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P3185"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://vk.com/minsportrf"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "minsportrf"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Telegram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P3789"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://t.me/s/Minsport_news"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "Minsport_news"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Telegram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P3789"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://t.me/s/minsport_russia"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "minsport_russia"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Odnoklassniki"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P5163"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://ok.ru/group/68856608981036"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "group/68856608981036"
+      }
+    } ]
+  }
+}

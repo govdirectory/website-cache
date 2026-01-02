@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://rzi-blagoevgrad.egov.bg/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:rzibl@rzibl.org"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-73-888-701"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12286820"
+      }
+    } ]
+  }
+}

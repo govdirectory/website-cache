@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/United_States_Senate"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://senate.gov"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.senate.gov/senators/senators-contact.htm"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chuck Schumer"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/dinkellandinfo"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "dinkellandinfo"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/gemeentedinkelland/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "gemeentedinkelland"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/gemeente.dinkelland"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "gemeente.dinkelland"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UC4F0wOXIFEYLOtVgsLfglxA"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UC4F0wOXIFEYLOtVgsLfglxA"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LinkedIn"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P6634"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.linkedin.com/in/gemeente-dinkelland-b6617041/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "gemeente-dinkelland-b6617041"
+      }
+    } ]
+  }
+}

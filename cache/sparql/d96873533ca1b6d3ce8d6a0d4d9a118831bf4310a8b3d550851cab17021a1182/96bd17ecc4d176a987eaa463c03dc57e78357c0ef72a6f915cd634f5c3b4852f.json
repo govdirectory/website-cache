@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://tr.usembassy.gov/adana/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:CA-Adana@state.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+90-322-455-41-00"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://tr.usembassy.gov/contact/#adana"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26780693"
+      }
+    } ]
+  }
+}

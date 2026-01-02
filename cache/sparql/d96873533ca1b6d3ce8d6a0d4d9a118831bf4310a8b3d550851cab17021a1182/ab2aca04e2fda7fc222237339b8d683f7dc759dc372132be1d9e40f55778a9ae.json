@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.swedenabroad.se/sv/utlandsmyndigheter/kenya-nairobi/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:ambassaden.nairobi@gov.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+254-709-96-4000"
+      },
+      "leadBy" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Caroline Vicini"
+      }
+    } ]
+  }
+}

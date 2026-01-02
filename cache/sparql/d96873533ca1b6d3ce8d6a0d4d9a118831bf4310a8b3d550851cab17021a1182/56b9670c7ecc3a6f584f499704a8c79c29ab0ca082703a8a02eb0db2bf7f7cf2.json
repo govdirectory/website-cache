@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Steindorf_am_Ossiacher_See"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.steindorf.at"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:steindorf.direktion@ktn.gde.at"
+      }
+    } ]
+  }
+}

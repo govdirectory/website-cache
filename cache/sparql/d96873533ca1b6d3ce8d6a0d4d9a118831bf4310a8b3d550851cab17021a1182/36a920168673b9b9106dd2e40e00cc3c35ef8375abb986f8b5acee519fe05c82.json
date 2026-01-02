@@ -1,0 +1,34 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Barneveld_(municipality)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.barneveld.nl/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@barneveld.nl"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+31342495902"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.barneveld.nl/service-en-contact"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jacco van der Tak"
+      }
+    } ]
+  }
+}

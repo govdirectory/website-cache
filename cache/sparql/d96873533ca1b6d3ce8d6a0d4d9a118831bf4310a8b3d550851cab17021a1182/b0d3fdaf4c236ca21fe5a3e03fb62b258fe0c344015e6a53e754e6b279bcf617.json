@@ -1,0 +1,34 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ministry_for_Gozo"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://gozo.gov.mt/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:ministryforgozo@gov.mt"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+356-2210-0000"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://gozo.gov.mt/contact/"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Clint Camilleri"
+      }
+    } ]
+  }
+}

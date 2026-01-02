@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/St%C3%B6ssing"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.stoessing.gv.at"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gemeinde@stoessing.gv.at"
+      }
+    } ]
+  }
+}

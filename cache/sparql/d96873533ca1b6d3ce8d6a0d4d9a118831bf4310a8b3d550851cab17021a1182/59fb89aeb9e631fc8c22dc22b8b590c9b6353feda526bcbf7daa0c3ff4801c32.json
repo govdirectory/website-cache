@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Beersel"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.beersel.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@beersel.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-2-359-17-17"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hugo Vandaele"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Embassy_of_the_United_States,_Abuja"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://ng.usembassy.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+234-209-461-4000"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://ng.usembassy.gov/contact/"
+      }
+    } ]
+  }
+}

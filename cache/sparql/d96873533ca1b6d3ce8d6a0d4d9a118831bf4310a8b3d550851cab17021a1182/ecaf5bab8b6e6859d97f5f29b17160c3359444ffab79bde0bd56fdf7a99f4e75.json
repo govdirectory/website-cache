@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www2.mfa.gov.lv/newyork"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:mission.un-ny@mfa.gov.lv"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-212-838-88-77"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www2.mfa.gov.lv/newyork/kontakti"
+      }
+    } ]
+  }
+}

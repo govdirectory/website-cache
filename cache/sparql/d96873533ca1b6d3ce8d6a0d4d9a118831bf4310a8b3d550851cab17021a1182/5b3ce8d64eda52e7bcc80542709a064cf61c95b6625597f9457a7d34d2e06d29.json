@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "http://malaysia.diplomatie.belgium.be"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:kualalumpur@diplobel.fed.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+60 3 216 200 25"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q137670"
+      }
+    } ]
+  }
+}

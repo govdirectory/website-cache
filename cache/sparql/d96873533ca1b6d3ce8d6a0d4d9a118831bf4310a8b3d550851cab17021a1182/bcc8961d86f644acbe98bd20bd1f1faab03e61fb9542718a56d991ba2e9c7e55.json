@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.ireland.ie/en/kenya/nairobi/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+254-020-513-5300"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.ireland.ie/en/kenya/nairobi/contact/"
+      }
+    } ]
+  }
+}

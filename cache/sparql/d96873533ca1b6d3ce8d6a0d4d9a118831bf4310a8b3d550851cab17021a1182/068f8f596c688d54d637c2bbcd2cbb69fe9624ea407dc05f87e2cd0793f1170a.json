@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ministry_of_Climate_Action_and_Energy_(Austria)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.bmk.gv.at"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:servicebuero@bmk.gv.at"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+43-800-21-53-59"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peter Hanke"
+      }
+    } ]
+  }
+}

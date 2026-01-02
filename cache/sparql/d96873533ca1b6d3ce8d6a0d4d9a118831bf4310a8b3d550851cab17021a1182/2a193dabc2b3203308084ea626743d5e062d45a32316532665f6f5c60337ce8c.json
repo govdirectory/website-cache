@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Sankt_Kanzian_am_Klopeiner_See"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.st.kanzian.at"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:st-kanzian@ktn.gde.at"
+      }
+    } ]
+  }
+}

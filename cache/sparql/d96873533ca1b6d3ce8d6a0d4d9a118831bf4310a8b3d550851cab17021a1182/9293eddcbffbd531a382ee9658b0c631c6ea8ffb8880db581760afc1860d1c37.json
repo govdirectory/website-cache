@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Somme-Leuze"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.somme-leuze.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:administration@sommeleuze.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-86-32-21-22"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Valérie Lecomte"
+      }
+    } ]
+  }
+}

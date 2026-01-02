@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Byst%C5%99ice_pod_Host%C3%BDnem"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.bystriceph.cz/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:posta@mubph.cz"
+      }
+    } ]
+  }
+}

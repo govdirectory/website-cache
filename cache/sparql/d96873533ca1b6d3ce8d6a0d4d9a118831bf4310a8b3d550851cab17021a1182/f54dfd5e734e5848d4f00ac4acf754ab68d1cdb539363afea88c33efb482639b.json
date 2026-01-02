@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://ls.usembassy.gov"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:infoMaseru@state.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+266-2231-2666"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://ls.usembassy.gov/contact/"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://india.diplomatie.belgium.be/en/embassy-and-consulates/consulate-general-mumbai"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:Mumbai@diplobel.fed.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+91 22 265 210 17"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15216557"
+      }
+    } ]
+  }
+}

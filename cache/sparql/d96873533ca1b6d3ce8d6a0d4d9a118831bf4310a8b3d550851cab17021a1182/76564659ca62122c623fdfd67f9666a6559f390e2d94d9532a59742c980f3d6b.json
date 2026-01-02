@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.mzh.government.bg/ODZ-Kustendil/bg/Home.aspx"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:odzg_kyustendil@mzh.government.bg"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4294694"
+      }
+    } ]
+  }
+}

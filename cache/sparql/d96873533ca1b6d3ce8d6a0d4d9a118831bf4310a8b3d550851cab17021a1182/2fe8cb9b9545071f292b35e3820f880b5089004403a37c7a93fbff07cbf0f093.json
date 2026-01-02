@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.hokecounty.net/index.aspx?nid=235"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:elections@hokecounty.org"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-910-875-8751;ext=1550"
+      }
+    } ]
+  }
+}

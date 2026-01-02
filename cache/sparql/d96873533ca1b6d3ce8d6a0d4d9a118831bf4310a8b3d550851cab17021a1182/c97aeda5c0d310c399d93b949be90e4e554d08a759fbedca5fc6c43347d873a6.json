@@ -1,0 +1,17 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://hudsonriverpark.org/about-us/hudson-river-park-trust/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@hrpt.ny.gov"
+      }
+    } ]
+  }
+}

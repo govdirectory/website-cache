@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Chaudfontaine"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.chaudfontaine.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:commune@chaudfontaine.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-4-361-54-11"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Daniel Bacquelaine"
+      }
+    } ]
+  }
+}

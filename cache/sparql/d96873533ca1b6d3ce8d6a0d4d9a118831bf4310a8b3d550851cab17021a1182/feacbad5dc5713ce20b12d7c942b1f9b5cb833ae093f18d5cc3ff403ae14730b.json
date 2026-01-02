@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Sankt_Marienkirchen_bei_Sch%C3%A4rding"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.st-marienkirchen.at/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gemeinde@st-marienkirchen.ooe.gv.at"
+      }
+    } ]
+  }
+}

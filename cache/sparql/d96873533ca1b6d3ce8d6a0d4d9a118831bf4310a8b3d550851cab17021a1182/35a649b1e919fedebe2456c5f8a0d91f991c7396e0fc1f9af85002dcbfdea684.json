@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.tampines.org.sg/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:feedback@ttc.org.sg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+6567812222"
+      }
+    } ]
+  }
+}

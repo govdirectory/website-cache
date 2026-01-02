@@ -1,0 +1,44 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/Επίτροπος-Προστασίας-των-Δικαιωμάτων-του-Παιδιού-Kύπρος-100062091745461"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "Επίτροπος-Προστασίας-των-Δικαιωμάτων-του-Παιδιού-Kύπρος-100062091745461"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCKODo9zHyDMqWO1fs-IOU4A"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCKODo9zHyDMqWO1fs-IOU4A"
+      }
+    } ]
+  }
+}

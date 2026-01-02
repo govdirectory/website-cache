@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://hub.zone-nage.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@zone-nage.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-81-32-52-00"
+      }
+    } ]
+  }
+}

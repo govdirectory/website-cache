@@ -1,0 +1,98 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "WhatsApp"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P12542"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.whatsapp.com/channel/0029Va9iTjwFsn0ir4B4O43y"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "0029Va9iTjwFsn0ir4B4O43y"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/CMOdivelas"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "CMOdivelas"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/cmodivelas/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "cmodivelas"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/cmodivelas"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "cmodivelas"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCCp8aSxq_3xgCXZjayTJrwg"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCCp8aSxq_3xgCXZjayTJrwg"
+      }
+    } ]
+  }
+}

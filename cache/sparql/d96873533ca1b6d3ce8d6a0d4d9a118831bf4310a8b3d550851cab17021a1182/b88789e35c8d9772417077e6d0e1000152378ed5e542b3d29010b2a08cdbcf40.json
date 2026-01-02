@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://accommodation.gov.mt/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+356-2334-6200"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://accommodation.gov.mt/contact/"
+      }
+    } ]
+  }
+}

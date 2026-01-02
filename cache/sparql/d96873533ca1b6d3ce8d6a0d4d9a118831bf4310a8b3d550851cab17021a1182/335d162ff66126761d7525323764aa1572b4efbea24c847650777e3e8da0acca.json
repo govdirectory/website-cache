@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Gro%C3%9F_Gerungs"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.gerungs.at/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:office@gerungs.at"
+      }
+    } ]
+  }
+}

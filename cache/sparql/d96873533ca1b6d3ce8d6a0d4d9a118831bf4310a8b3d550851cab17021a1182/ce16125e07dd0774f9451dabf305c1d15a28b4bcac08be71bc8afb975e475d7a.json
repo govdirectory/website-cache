@@ -1,0 +1,47 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/S%C3%A4vsj%C3%B6_Municipality"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.savsjo.se"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:kommun@savsjo.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-382-15200"
+      },
+      "citizensInitiatives" : {
+        "type" : "uri",
+        "value" : "https://sjalvservice.savsjo.se/oversikt/overview/150"
+      },
+      "foiUrl" : {
+        "type" : "uri",
+        "value" : "https://handlingar.se/en/new/savsjo_municipality"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/kommunallag-2017725_sfs-2017-725"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Kommunallag (2017:725)"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Therese Petersson"
+      }
+    } ]
+  }
+}

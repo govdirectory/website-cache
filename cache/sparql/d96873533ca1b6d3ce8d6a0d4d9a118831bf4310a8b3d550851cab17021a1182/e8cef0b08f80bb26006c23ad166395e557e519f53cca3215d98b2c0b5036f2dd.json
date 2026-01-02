@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.dcovotes.com/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:elections@dconc.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-919-560-0700"
+      }
+    } ]
+  }
+}

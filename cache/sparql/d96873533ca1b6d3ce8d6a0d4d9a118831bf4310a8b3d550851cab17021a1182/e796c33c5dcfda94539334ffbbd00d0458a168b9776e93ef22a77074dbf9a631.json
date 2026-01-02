@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Embassy_of_the_United_States,_Moscow"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://ru.usembassy.gov/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+7-495-728-5000"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://ru.usembassy.gov/contact/"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lynne M. Tracy"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/New_Zealand_Symphony_Orchestra"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.nzso.co.nz/"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.nzso.co.nz/contact-us"
+      }
+    } ]
+  }
+}

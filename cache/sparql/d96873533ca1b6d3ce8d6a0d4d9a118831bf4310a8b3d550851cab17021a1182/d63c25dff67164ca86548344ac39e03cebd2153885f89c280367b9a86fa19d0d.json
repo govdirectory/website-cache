@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://iq.usembassy.gov/erbil/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:ErbilPublicAffairs@State.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+964-066-211-4000"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2841860"
+      }
+    } ]
+  }
+}

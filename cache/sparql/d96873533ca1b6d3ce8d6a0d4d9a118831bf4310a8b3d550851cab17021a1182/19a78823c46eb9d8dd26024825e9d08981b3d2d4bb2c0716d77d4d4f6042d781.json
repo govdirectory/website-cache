@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://jerusalem.diplomatie.belgium.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:jerusalem@diplobel.fed.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+972-2-582-82-63"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q104584533"
+      }
+    } ]
+  }
+}

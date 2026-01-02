@@ -1,0 +1,44 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/Commune-de-Faimes-100064861833023"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "Commune-de-Faimes-100064861833023"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LinkedIn"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P6634"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.linkedin.com/in/commune-faimes-383a1753/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "commune-faimes-383a1753"
+      }
+    } ]
+  }
+}

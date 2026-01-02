@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://kz.usembassy.gov/almaty/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:Almaty@state.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+7-727-250-48-02"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://kz.usembassy.gov/contact/#consulate"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q105608813"
+      }
+    } ]
+  }
+}

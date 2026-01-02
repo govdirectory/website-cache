@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ministry_of_Religious_Affairs_(Indonesia)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.kemenag.go.id/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:bagiantatalaksana2018@gmail.com"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+62-21-3812432"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yaqut Cholil Qoumas"
+      }
+    } ]
+  }
+}

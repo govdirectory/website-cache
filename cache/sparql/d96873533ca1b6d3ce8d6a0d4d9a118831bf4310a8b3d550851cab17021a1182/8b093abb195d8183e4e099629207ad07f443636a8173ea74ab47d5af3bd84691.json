@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Embassy_of_Norway,_London"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.norway.no/uk/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:emb.london@mfa.no"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+44 207 591 5500"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tore Hattrem"
+      }
+    } ]
+  }
+}

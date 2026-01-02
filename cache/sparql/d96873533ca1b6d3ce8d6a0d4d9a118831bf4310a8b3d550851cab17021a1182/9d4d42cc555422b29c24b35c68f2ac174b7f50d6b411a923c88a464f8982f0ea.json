@@ -1,0 +1,39 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.domstol.se/rattshjalpsnamnden"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:rattshjalpsnamnden@dom.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-60-18-68-91"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/_sfs-2007-1079"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Förordning (2007:1079) med instruktion för Rättshjälpsnämnden"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Susanne Hård"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2612011"
+      }
+    } ]
+  }
+}

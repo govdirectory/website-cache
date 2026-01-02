@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Lan%C5%A1kroun"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.lanskroun.eu/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:podatelna@lanskroun.eu"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+420-465-385-111"
+      }
+    } ]
+  }
+}

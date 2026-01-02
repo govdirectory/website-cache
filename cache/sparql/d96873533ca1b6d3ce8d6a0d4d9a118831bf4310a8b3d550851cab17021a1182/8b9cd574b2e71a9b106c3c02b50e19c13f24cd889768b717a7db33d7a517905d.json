@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Embassy_of_Belgium,_Washington,_D.C."
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://unitedstates.diplomatie.belgium.be"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:Washington@diplobel.fed.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1 202-333-69-00"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q137670"
+      }
+    } ]
+  }
+}

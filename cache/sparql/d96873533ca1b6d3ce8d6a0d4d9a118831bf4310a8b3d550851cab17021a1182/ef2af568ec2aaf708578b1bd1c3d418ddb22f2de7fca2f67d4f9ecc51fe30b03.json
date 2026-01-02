@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Laakirchen"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.laakirchen.at"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:stadtamt@laakirchen.ooe.gv.at"
+      }
+    } ]
+  }
+}

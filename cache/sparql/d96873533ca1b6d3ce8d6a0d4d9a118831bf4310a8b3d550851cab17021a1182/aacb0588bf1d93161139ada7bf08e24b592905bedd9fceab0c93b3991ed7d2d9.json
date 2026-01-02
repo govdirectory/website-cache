@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Fexhe-le-Haut-Clocher"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.fexhe-le-haut-clocher.be"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:accueil@fexhe-le-haut-clocher.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-4-250-10-15"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Henri Christophe"
+      }
+    } ]
+  }
+}

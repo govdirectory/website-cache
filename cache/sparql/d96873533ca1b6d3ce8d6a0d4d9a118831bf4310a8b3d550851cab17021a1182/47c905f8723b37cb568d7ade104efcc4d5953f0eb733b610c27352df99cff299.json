@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.ireland.ie/en/turkiye/ankara/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:ankaraembassy@dfa.ie"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+90-312-4591000"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.ireland.ie/en/turkiye/ankara/contact/"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sonya McGuinness"
+      }
+    } ]
+  }
+}

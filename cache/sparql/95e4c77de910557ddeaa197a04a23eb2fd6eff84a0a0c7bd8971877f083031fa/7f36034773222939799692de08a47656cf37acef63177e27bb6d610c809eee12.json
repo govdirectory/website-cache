@@ -1,0 +1,98 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/DepEd_PH"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "DepEd_PH"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/DepartmentOfEducation.PH"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "DepartmentOfEducation.PH"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCvCp0QoMepuYKdJd-Hr_zYA"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCvCp0QoMepuYKdJd-Hr_zYA"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "SlideShare"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P4016"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.slideshare.net/DepEdPhilippines"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "DepEdPhilippines"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LinkedIn"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P4264"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.linkedin.com/company/department-of-education---philippines"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "department-of-education---philippines"
+      }
+    } ]
+  }
+}

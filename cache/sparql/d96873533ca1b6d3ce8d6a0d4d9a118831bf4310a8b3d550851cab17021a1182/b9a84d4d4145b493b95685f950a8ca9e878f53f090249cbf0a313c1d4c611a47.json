@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Lievegem"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.lievegem.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@lievegem.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-9-396-23-00"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kim Martens"
+      }
+    } ]
+  }
+}

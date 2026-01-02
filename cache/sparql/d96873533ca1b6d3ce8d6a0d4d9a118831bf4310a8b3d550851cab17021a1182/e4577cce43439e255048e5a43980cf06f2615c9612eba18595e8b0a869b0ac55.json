@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.ntib.bg/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:IHristov@mtitc.government.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-2-940-9864"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6867606"
+      }
+    } ]
+  }
+}

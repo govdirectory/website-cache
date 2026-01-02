@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ministry_of_Entrepreneur_and_Cooperatives_Development"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.medac.gov.my/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:korporat@medac.gov.my"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ewon Benedick"
+      }
+    } ]
+  }
+}

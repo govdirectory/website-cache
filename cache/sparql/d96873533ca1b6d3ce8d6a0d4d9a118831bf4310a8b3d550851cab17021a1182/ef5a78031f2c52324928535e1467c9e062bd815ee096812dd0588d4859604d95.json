@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.marad.bg/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:bma@marad.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-700-101-45"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6867606"
+      }
+    } ]
+  }
+}

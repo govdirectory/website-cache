@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/Stadtgemeinde-St-Andrä-475665059178031"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "Stadtgemeinde-St-Andrä-475665059178031"
+      }
+    } ]
+  }
+}

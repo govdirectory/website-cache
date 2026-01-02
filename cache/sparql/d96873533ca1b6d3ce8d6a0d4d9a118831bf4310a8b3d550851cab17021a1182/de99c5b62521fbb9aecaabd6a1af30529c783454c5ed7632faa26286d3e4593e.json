@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://bladennc.govoffice3.com/index.asp?SEC=1B08DD3E-D802-4B15-9D99-CCCA341FAD38&Type=B_BASIC"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:elections@bladenco.org"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-910-862-6951"
+      }
+    } ]
+  }
+}

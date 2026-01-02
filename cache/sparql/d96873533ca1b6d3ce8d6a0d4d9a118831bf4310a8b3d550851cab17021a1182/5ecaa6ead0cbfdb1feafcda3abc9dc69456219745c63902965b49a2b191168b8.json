@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://ec.usembassy.gov/consulate/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+593-4-371-7000"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://ec.usembassy.gov/contact/#gyq-emergency"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q105585313"
+      }
+    } ]
+  }
+}

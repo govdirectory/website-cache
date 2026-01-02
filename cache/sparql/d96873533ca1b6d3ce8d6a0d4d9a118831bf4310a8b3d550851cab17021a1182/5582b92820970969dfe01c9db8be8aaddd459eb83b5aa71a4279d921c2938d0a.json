@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Celorico_da_Beira"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.cm-celoricodabeira.pt/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:geral@cm-celoricodabeira.pt"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+351-271-747-400"
+      }
+    } ]
+  }
+}

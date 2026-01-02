@@ -1,0 +1,22 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Department_of_Justice,_Home_Affairs_and_Migration"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gov.ie/en/organisation/department-of-justice/"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jim O'Callaghan"
+      }
+    } ]
+  }
+}

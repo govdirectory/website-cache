@@ -1,0 +1,33 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Federal_Institute_for_Sustainable_Development"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.developpementdurable.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:communicatie@fido.fed.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32 2 501 04 62"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.developpementdurable.be/nl/contact"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2222863"
+      }
+    } ]
+  }
+}

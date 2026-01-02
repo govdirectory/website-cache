@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.ahtc.sg/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:feedback@ahtc.sg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+65 6744-1033"
+      }
+    } ]
+  }
+}

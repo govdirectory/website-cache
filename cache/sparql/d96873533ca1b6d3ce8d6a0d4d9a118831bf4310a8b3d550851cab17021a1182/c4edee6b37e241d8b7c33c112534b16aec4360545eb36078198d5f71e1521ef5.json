@@ -1,0 +1,39 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.vetansvar.se"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:vetansvar@jordbruksverket.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-36-15-58-53"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/_sfs-2009-302"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Lag (2009:302) om verksamhet inom djurens hälso- och sjukvård"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Christer Ganelind"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1780898"
+      }
+    } ]
+  }
+}

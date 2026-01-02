@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Noord-Beveland"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.noord-beveland.nl/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@noord-beveland.nl"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+31 113 377 377"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Loes Meeuwisse"
+      }
+    } ]
+  }
+}

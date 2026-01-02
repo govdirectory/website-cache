@@ -1,0 +1,62 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/ZHesbaye"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "ZHesbaye"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/ZonedesecoursHesbaye"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "ZonedesecoursHesbaye"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LinkedIn"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P6634"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.linkedin.com/in/zone-de-secours-hesbaye-192a35196/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "zone-de-secours-hesbaye-192a35196"
+      }
+    } ]
+  }
+}

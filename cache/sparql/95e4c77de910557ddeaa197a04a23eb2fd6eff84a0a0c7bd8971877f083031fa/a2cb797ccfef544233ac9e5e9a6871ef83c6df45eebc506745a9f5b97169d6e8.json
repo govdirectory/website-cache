@@ -1,0 +1,152 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "WhatsApp"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P12542"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.whatsapp.com/channel/0029VafOc3jCnA7zRe5UmR0C"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "0029VafOc3jCnA7zRe5UmR0C"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/MEAIndia"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "MEAIndia"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/meaindia/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "meaindia"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/MEAINDIA"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "MEAINDIA"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UC-wttYGdvP8Roy8mh8VbzKw"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UC-wttYGdvP8Roy8mh8VbzKw"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "SoundCloud"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P3040"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://soundcloud.com/meaindia"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "meaindia"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Flickr"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P3267"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.flickr.com/people/meaindia"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "meaindia"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LinkedIn"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P4264"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.linkedin.com/company/ministry-of-external-affairs-india"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "ministry-of-external-affairs-india"
+      }
+    } ]
+  }
+}

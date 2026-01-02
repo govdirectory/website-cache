@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://fr.usembassy.gov/u-s-consulate-bordeaux/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:usabordeaux@state.gov"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q894836"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.rowancountync.gov/elections"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:rowan.boe@rowancountync.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-704-216-8140"
+      }
+    } ]
+  }
+}

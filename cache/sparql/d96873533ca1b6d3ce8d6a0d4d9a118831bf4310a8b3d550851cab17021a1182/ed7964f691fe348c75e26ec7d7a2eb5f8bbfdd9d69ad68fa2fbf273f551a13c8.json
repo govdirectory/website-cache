@@ -1,0 +1,13 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.ncdhhs.gov/divisions/social-services/about-dss/social-services-commission#:~:text=The%20Social%20Services%20Commission%20(SSC,established%20by%20G.S.%20143B-153%20."
+      }
+    } ]
+  }
+}

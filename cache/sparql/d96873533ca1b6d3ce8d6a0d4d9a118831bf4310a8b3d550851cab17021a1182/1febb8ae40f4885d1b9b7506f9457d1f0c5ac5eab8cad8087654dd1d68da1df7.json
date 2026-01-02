@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Embassy_of_the_United_States,_Juba"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://ss.usembassy.gov/"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://ss.usembassy.gov/contact/"
+      }
+    } ]
+  }
+}

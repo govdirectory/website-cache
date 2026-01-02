@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Wei%C3%9Fenkirchen_in_der_Wachau"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.weissenkirchen-wachau.at/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@weissenkirchen-wachau.at"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Klein-P%C3%B6chlarn"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.kleinpoechlarn.at"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gemeindeamt@klein-poechlarn.gv.at"
+      }
+    } ]
+  }
+}

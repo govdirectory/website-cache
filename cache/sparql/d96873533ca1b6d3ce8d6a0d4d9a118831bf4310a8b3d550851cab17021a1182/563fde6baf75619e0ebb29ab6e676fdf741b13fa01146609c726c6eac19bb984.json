@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.moi.gov.cy/moi/tph/tph.nsf"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:centraltph@tph.moi.gov.cy"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+357-22-408100"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12885640"
+      }
+    } ]
+  }
+}

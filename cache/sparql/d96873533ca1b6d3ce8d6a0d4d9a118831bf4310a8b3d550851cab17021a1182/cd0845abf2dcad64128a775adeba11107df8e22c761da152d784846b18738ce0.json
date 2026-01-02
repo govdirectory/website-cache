@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.randolphcountync.gov/201/Elections"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:elections@randolphcountync.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-336-318-6900"
+      }
+    } ]
+  }
+}

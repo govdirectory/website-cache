@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://cv.usembassy.gov/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+238-260-8900"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://cv.usembassy.gov/contact/"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "John Melvin Yates"
+      }
+    } ]
+  }
+}

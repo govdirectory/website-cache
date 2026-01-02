@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Dison"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.dison.be"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:acdison@dison.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-87-39-33-40"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Véronique Bonni"
+      }
+    } ]
+  }
+}

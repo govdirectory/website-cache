@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Beesel"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.beesel.nl/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@beesel.nl"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+31774749292"
+      },
+      "leadBy" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Martijn Derks"
+      }
+    } ]
+  }
+}

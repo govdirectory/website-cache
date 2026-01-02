@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "http://ukraine.diplomatie.belgium.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:kiev@diplobel.fed.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+380-44-529-4141"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q137670"
+      }
+    } ]
+  }
+}

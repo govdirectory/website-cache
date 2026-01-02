@@ -1,0 +1,98 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/naturhistoriska"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "naturhistoriska"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/naturhistoriska/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "naturhistoriska"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/naturhistoriskariksmuseet"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "naturhistoriskariksmuseet"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCJ7-0_cR9HiA9iX8n3kugcg"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCJ7-0_cR9HiA9iX8n3kugcg"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Snapchat"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2984"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.snapchat.com/add/nrm_sthlm"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "nrm_sthlm"
+      }
+    } ]
+  }
+}

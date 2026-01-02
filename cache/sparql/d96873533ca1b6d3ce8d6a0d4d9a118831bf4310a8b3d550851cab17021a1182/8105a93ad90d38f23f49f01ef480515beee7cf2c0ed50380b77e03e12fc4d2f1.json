@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.hertfordcountync.gov/departments/county_administration/board_of_elections/index.php"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:elections@hertfordcountync.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-252-358-7812"
+      }
+    } ]
+  }
+}

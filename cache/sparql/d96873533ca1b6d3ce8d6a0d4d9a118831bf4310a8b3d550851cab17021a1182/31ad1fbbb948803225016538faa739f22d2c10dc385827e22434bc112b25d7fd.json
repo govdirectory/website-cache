@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.mfa.gov.lv/en/permanent-representation-oecd-and-unesco"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:delegation.oecd@mfa.gov.lv"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+33-1-536-454-00"
+      }
+    } ]
+  }
+}

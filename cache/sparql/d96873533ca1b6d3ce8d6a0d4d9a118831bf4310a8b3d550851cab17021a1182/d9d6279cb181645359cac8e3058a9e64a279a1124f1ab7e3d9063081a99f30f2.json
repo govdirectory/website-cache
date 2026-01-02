@@ -1,0 +1,34 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Waalre"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.waalre.nl/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gemeente@waalre.nl"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+31402282500"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.waalre.nl/inwoners-en-ondernemers/openingstijden-contact.html"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jan Boelhouwer"
+      }
+    } ]
+  }
+}

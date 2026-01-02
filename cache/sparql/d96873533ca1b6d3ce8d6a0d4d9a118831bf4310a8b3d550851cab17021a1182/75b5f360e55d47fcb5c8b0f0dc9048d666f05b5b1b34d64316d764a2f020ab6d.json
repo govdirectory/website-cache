@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.moh.gov.cy/MOH/cdc/cdc.nsf"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:cdcouncil@dental.org.cy"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14537396"
+      }
+    } ]
+  }
+}

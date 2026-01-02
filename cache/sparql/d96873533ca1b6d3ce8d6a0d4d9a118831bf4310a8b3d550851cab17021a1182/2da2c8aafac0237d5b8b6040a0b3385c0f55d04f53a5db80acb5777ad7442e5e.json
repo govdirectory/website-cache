@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://dec.dmrid.gov.cy/dmrid/dec/ws_dec.nsf"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info.dec@dec.dmrid.gov.cy"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+357-22814854"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q86697835"
+      }
+    } ]
+  }
+}

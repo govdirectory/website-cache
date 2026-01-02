@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.mfa.gov.lv/egypt"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:embassy.egypt@mfa.gov.lv"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+20-2-2738-4188"
+      }
+    } ]
+  }
+}

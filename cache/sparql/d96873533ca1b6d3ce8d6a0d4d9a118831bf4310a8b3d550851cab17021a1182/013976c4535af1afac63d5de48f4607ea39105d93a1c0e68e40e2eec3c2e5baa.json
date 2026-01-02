@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Aksakovo_Municipality"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://aksakovo.bg/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:aksakovo@mail.orbitel.bg"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://aksakovo.bg/section-62-content.html"
+      }
+    } ]
+  }
+}

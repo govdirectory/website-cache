@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Consulate_General_of_the_United_States,_Shanghai"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://china.usembassy-china.org.cn/embassy-consulates/shanghai/"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12057126"
+      }
+    } ]
+  }
+}

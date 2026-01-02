@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Hradec_Kr%C3%A1lov%C3%A9_Region"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.khk.cz"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:posta@kr-kralovehradecky.cz"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+420 495 817 111"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Martin Červíček"
+      }
+    } ]
+  }
+}

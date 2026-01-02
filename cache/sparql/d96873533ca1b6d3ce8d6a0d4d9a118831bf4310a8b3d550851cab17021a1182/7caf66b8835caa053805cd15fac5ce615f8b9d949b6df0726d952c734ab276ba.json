@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.earbd.bg"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:bd_plovdiv@earbd.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-32-60-47-20"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12286834"
+      }
+    } ]
+  }
+}

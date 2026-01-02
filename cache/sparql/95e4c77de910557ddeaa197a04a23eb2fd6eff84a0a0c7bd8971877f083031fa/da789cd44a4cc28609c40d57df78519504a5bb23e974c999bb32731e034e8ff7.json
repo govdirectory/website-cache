@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCZZKp-FM4B0VykLXR6Cd2FA"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCZZKp-FM4B0VykLXR6Cd2FA"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.hydecountync.gov/departments/elections_office.php"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:elections@hydecountync.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-252-926-4194"
+      }
+    } ]
+  }
+}

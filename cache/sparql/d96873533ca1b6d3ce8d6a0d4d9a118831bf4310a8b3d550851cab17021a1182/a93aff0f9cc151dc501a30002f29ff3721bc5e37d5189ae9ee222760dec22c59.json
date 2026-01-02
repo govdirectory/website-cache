@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.stz.riew.egov.bg"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:office@stz.riew.gov.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-42-692-200"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12286834"
+      }
+    } ]
+  }
+}

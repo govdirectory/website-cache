@@ -1,0 +1,22 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.aoc.gov/explore-capitol-campus/visitor-resources/accessibility-services"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.law.cornell.edu/uscode/text/2"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Title 2—THE CONGRESS"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://homeaffairs.gov.mt/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:homeaffairs@gov.mt"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+356-2568-9000"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://homeaffairs.gov.mt/contact/"
+      }
+    } ]
+  }
+}

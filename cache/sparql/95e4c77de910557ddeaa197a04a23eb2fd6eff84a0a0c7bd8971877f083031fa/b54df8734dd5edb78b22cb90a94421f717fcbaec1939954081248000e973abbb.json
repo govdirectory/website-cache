@@ -1,0 +1,80 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/pravitelstvo_rd/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "pravitelstvo_rd"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "VK"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P3185"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://vk.com/respublica_dagestan"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "respublica_dagestan"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Telegram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P3789"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://t.me/s/pravitelstvord"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "pravitelstvord"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Odnoklassniki"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P5163"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://ok.ru/group/56448996540592"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "group/56448996540592"
+      }
+    } ]
+  }
+}

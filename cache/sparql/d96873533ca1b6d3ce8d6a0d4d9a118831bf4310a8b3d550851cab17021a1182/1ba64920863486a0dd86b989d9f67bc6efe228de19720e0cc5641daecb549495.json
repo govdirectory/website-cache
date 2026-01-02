@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Southern_district,_Plovdiv"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://south-plovdiv.bg/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:signal@south-plovdiv.bg"
+      }
+    } ]
+  }
+}

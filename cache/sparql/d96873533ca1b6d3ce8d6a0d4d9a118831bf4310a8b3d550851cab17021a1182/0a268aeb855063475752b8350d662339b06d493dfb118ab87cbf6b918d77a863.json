@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Sankt_Stefan_ob_Leoben"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.st-stefan-leoben.at/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gde@stefan-leoben.at"
+      }
+    } ]
+  }
+}

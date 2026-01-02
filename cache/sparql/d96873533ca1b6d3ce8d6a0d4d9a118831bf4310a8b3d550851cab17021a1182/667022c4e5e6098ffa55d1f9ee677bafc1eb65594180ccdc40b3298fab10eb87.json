@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.seea.government.bg/bg/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:Office@SEEA.government.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-2-915-40-10"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50041098"
+      }
+    } ]
+  }
+}

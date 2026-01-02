@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.chowancounty-nc.gov/index.asp?SEC=%7B164665BE-54CB-497A-B611-433DA2708EA6%7D"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:chowan.boelections@chowan.nc.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-252-482-4010"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.hendersoncountync.gov/elections/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:hcelections@hendersoncountync.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-828-697-4970"
+      }
+    } ]
+  }
+}

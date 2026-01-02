@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Neustift_an_der_Lafnitz"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.neustift-lafnitz.at/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:post@neustift-lafnitz.bgld.gv.at"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.mfa.gov.lv/estonia"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:embassy.estonia@mfa.gov.lv"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kristīne Našeniece"
+      }
+    } ]
+  }
+}

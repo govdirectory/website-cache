@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Trooz"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.trooz.be"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@trooz.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-4-87-37-74-23"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fabien Beltran"
+      }
+    } ]
+  }
+}

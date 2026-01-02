@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www2.aop.bg/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:aop@aop.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-2-9859-71-50"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q104972247"
+      }
+    } ]
+  }
+}

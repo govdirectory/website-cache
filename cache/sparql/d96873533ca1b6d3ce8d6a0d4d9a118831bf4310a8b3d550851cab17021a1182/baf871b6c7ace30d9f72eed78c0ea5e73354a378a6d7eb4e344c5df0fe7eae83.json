@@ -1,0 +1,31 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://podgorica.diplo.de"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+382-20-441000"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.gesetze-im-internet.de/gad/BJNR018420990.html"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Gesetz über den Auswärtigen Dienst"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peter Felten"
+      }
+    } ]
+  }
+}

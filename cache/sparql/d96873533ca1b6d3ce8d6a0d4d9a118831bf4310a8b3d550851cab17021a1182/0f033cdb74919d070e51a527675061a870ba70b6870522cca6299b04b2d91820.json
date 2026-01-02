@@ -1,0 +1,35 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/M%C3%A5s%C3%B8y_Municipality"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.masoy.kommune.no/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:postmottak@masoy.kommune.no"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://lovdata.no/dokument/NL/lov/2018-06-22-83"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "nb",
+        "type" : "literal",
+        "value" : "Lov om kommuner og fylkeskommuner (kommuneloven)"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ingrid Majala"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Topolovgrad_Municipality"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.topolovgrad.net/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:obshtina@topolovgrad.bg"
+      }
+    } ]
+  }
+}

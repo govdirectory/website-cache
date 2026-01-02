@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.votrepolice.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:ZP.NivellesGenappe@police.belgium.eu"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-67-88-92-11"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Embassy_of_Ireland,_Washington,_D.C."
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.ireland.ie/en/usa/washington/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-202-462-3939"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.ireland.ie/en/usa/washington/contact/"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Geraldine Byrne Nason"
+      }
+    } ]
+  }
+}

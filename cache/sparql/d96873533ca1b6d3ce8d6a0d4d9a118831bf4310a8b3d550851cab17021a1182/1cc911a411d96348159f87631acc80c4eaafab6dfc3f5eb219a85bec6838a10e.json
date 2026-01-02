@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Aguiar_da_Beira"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.cm-aguiardabeira.pt/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:geral@cm-aguiardabeira.pt"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+351-232-689-100"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.cm-aguiardabeira.pt/contactosab"
+      }
+    } ]
+  }
+}

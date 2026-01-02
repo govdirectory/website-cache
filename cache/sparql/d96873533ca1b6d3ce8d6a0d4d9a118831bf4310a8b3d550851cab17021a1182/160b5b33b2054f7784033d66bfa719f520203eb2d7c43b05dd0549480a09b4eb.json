@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ministry_of_Environment,_Science,_Technology_and_Innovation"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://mesti.gov.gh/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@mesti.gov.gh"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kwaku Afriyie"
+      }
+    } ]
+  }
+}

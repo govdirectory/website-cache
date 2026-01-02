@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Qu%C3%A9vy"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.quevy.be"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:administration@ac-quevy.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-65-58-64-40"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Florence Lecompte"
+      }
+    } ]
+  }
+}

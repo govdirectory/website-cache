@@ -1,0 +1,80 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/camara_municipal_moura/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "camara_municipal_moura"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/camaramunicipaldemoura"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "camaramunicipaldemoura"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCqU6FcYF93Tsrs4KMb4XXIQ"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCqU6FcYF93Tsrs4KMb4XXIQ"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "SoundCloud"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P3040"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://soundcloud.com/user-9984588"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "user-9984588"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.xrb.govt.nz/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+64 4 550 2030"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.xrb.govt.nz/about-xrb/contact-us"
+      }
+    } ]
+  }
+}

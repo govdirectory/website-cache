@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gov.cy/mlsi/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:administration@mlsi.gov.cy"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+357 22 401600"
+      }
+    } ]
+  }
+}

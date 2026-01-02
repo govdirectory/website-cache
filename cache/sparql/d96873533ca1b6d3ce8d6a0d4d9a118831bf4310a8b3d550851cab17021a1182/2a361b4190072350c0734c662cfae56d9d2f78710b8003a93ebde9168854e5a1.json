@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.zohe.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@zohe.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-71-75-14-14"
+      }
+    } ]
+  }
+}

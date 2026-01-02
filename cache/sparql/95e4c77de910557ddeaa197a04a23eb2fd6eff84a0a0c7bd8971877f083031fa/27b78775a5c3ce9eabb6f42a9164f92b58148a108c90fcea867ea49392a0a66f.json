@@ -1,0 +1,62 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P11245"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/@embassyofjapaninegypt9766"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "embassyofjapaninegypt9766"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/Embassy-of-Japan-in-Egypt-100064347565955"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "Embassy-of-Japan-in-Egypt-100064347565955"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCHsfe2liEe8zNll7RCEGWiA"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCHsfe2liEe8zNll7RCEGWiA"
+      }
+    } ]
+  }
+}

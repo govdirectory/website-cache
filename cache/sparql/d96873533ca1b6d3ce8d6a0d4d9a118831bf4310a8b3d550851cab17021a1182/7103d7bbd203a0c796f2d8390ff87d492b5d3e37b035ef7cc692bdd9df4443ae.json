@@ -1,0 +1,13 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.dncr.nc.gov/explore/field-trips-capital-area-visitor-services-and-raleigh-group-visits"
+      }
+    } ]
+  }
+}

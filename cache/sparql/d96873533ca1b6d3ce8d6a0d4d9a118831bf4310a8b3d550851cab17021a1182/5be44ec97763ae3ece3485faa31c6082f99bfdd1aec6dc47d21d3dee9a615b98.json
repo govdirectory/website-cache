@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://mh.usembassy.gov"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:ConsMajuro@state.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+692-247-4011"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://mh.usembassy.gov/contact/"
+      }
+    } ]
+  }
+}

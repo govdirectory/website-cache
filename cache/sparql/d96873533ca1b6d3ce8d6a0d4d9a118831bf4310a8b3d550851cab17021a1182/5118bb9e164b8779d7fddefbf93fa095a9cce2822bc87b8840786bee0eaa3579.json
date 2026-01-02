@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.cik.bg/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:cik@cik.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-2-939-3719"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q639704"
+      }
+    } ]
+  }
+}

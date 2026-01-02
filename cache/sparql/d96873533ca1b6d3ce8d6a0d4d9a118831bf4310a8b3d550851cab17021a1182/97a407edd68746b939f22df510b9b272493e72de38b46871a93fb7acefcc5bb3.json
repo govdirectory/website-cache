@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ministry_of_Housing_and_Territorial_Planning_of_Uruguay"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gub.uy/ministerio-vivienda-ordenamiento-territorial/"
+      },
+      "leadBy" : {
+        "type" : "literal",
+        "value" : "Q136341557"
+      }
+    } ]
+  }
+}

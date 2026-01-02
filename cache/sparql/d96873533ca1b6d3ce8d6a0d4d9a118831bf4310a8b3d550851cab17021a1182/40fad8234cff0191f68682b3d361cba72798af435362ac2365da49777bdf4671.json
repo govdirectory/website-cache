@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Sch%C3%B6nau_an_der_Triesting"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.schoenautriesting.at"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:office@schoenautriesting.at"
+      }
+    } ]
+  }
+}

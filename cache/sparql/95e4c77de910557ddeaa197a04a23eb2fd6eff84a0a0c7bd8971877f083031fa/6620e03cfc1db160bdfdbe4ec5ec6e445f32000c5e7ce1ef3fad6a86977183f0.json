@@ -1,0 +1,134 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Linktree"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P11079"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://linktree.com/kemenp2mi"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "kemenp2mi"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Linktree"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P11079"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://linktree.com/BP2MI"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "BP2MI"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/kemenp2mi"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "kemenp2mi"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/kemenp2mi/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "kemenp2mi"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/kemenp2mi"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "kemenp2mi"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UC42wXrFJ7-fmsSHw_MqbWaA"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UC42wXrFJ7-fmsSHw_MqbWaA"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "TikTok"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P7085"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.tiktok.com/@kemenp2mi"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "kemenp2mi"
+      }
+    } ]
+  }
+}

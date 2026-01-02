@@ -1,0 +1,47 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Grums_Municipality"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.grums.se/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:kommunstyrelse@grums.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-555-42000"
+      },
+      "citizensInitiatives" : {
+        "type" : "uri",
+        "value" : "https://www.grums.se/kommunpolitik/politikochdemokrati/grumsinitiativ.4258.html"
+      },
+      "foiUrl" : {
+        "type" : "uri",
+        "value" : "https://handlingar.se/en/new/grums_municipality"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/kommunallag-2017725_sfs-2017-725"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Kommunallag (2017:725)"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malin Hagström"
+      }
+    } ]
+  }
+}

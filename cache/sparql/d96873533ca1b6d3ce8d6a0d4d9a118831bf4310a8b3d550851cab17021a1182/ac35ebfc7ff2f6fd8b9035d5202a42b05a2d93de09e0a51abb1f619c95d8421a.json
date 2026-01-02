@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mitterberg-Sankt_Martin"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.mitterberg-sanktmartin.at/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gde@mitterberg-sanktmartin.at"
+      }
+    } ]
+  }
+}

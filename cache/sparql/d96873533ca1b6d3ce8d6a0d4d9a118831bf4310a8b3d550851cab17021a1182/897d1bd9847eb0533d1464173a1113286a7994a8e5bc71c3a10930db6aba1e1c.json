@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Federal_Department_of_Foreign_Affairs"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.eda.admin.ch/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:helpline@eda.admin.ch"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+41-800 24-7-365"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30917"
+      }
+    } ]
+  }
+}

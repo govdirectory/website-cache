@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.haywoodcountync.gov/173/Elections"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:elections@haywoodcountync.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-828-452-6633"
+      }
+    } ]
+  }
+}

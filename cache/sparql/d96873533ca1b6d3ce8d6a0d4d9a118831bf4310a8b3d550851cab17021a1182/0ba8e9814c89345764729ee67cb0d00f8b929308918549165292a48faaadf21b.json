@@ -1,0 +1,17 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://in.diplomatie.ma/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:embassyofmorocco@rediffmail.com"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.mfa.gov.lv/seoul"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:embassy.seoul@mfa.gov.lv"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+82-2-2022-3800"
+      }
+    } ]
+  }
+}

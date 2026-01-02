@@ -1,0 +1,22 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://finlandabroad.fi/web/ukr/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:sanomat.kio@formin.fi"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jaakko Lehtovirta"
+      }
+    } ]
+  }
+}

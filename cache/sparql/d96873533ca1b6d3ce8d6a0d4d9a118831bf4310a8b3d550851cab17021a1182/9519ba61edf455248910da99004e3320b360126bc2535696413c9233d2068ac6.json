@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Wellen"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.wellen.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@wellen.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-12-67-07-00"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Els Robeyns"
+      }
+    } ]
+  }
+}

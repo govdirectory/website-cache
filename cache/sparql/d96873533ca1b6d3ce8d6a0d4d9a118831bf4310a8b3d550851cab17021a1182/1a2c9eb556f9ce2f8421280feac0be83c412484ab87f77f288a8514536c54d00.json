@@ -1,0 +1,17 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.obshtinamizia.com"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:mizia@mizia.egov.bg"
+      }
+    } ]
+  }
+}

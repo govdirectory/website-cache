@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ministry_of_Defense_(Japan)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.mod.go.jp/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+81-3-5366-3111"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gen Nakatani"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q529012"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gov.bm/ministry/youth-culture-and-sport"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+441-294-9146"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.gov.bm/contact/20536/29"
+      }
+    } ]
+  }
+}

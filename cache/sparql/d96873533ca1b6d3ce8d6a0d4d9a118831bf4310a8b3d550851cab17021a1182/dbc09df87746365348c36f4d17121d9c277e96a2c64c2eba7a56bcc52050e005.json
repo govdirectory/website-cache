@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://foreign.gov.mt/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:foreignaffairs@gov.mt"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+356-2124-2191"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://foreign.gov.mt/contact/"
+      }
+    } ]
+  }
+}

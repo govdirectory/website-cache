@@ -1,0 +1,17 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Eppenberg-W%C3%B6schnau"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.eppenberg-woeschnau.ch"
+      }
+    } ]
+  }
+}

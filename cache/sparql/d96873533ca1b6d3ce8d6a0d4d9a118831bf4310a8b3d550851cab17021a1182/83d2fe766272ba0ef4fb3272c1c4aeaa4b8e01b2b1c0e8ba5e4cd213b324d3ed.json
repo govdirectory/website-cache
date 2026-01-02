@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Enkhuizen"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.enkhuizen.nl/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:stadhuis@enkhuizen.nl"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+31228360100"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eduard van Zuijlen"
+      }
+    } ]
+  }
+}

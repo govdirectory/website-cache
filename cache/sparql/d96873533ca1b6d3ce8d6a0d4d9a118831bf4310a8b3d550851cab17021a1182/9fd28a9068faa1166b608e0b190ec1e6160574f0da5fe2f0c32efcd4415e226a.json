@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Qeqertalik"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://qeqertalik.gl"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:qeqertalik@qeqertalik.gl"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+299 70 19 00"
+      }
+    } ]
+  }
+}

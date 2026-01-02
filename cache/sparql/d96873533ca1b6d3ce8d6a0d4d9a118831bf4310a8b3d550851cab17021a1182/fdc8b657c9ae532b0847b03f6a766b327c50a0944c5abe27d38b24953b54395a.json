@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.bergenopzoom.nl"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:registratiediv@bergenopzoom.nl"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+31164277000"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Margo Mulder"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.archives.government.bg/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:daa@archives.government.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-2-940-0101"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2396053"
+      }
+    } ]
+  }
+}

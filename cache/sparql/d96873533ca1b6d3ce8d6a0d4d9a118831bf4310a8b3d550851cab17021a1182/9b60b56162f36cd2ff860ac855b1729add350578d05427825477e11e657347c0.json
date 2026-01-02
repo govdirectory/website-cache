@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Embassy_of_the_United_States,_Niamey"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://ne.usembassy.gov/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+227-20-72-26-61"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://ne.usembassy.gov/contact/"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Barbro Owens-Kirkpatrick"
+      }
+    } ]
+  }
+}

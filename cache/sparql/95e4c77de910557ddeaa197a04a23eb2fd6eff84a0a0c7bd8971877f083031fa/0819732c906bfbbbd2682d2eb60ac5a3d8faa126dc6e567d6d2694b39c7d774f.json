@@ -1,0 +1,44 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/Office-of-the-Premier-North-West-Province-South-Africa-109011622471498"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "Office-of-the-Premier-North-West-Province-South-Africa-109011622471498"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UC8ssmKReKN8-GKlvBtgerJA"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UC8ssmKReKN8-GKlvBtgerJA"
+      }
+    } ]
+  }
+}

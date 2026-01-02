@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.rzi-lovech.bg"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:rzi@rzi-lovech.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-68-621-124"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12286820"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Maghreb_Arabe_Press"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.map.ma/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:com@map.ma"
+      }
+    } ]
+  }
+}

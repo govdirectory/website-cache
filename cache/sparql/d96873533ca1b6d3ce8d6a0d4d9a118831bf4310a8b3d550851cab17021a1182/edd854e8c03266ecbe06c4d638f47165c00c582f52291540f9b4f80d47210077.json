@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ministry_of_Finance_(Bulgaria)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.minfin.bg/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:feedback@minfin.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-2-985-91"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Temenuzhka Petkova"
+      }
+    } ]
+  }
+}

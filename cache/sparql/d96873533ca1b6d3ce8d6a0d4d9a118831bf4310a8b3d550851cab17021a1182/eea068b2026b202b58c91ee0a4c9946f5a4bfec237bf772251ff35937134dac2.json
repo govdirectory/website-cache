@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Minihof-Liebau"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.minihof-liebau.at/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:post@minihof-liebau.bgld.gv.at"
+      }
+    } ]
+  }
+}

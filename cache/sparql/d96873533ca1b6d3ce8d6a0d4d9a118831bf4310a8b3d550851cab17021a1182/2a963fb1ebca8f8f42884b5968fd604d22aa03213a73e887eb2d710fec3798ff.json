@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.heradsdomstolar.is/heradsdomstolar/reykjavik/um-domstolinn/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:heradsdomur.reykjavikur@domstolar.is"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ingibjörg Þorsteinsdóttir"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1413677"
+      }
+    } ]
+  }
+}

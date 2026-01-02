@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://iara-iss.egov.bg/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:office@iara.government.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-56-87-60-60"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4294694"
+      }
+    } ]
+  }
+}

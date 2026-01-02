@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Felgueiras"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://cm-felgueiras.pt/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:geral@cm-felgueiras.pt"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://cm-felgueiras.pt/municipio/concelho-de-felgueiras/contactos-uteis/"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Geological_Survey_of_Sweden"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.sgu.se"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:sgu@sgu.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-18-17-90-00"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/_sfs-2008-1233"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Förordning (2008:1233) med instruktion för Sveriges geologiska undersökning"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1780898"
+      }
+    } ]
+  }
+}

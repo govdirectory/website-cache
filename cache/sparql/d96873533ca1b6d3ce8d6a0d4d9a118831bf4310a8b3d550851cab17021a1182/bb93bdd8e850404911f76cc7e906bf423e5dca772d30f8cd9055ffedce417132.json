@@ -1,0 +1,47 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Knivsta_Municipality"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.knivsta.se"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:knivsta@knivsta.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-18-347000"
+      },
+      "citizensInitiatives" : {
+        "type" : "uri",
+        "value" : "https://knivsta.se/politik-och-organisation/dialog-och-synpunkter/lamna-ett-knivstaforslag/fragor-och-svar-om-knivstaforslaget"
+      },
+      "foiUrl" : {
+        "type" : "uri",
+        "value" : "https://handlingar.se/en/new/knivsta_municipality"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/kommunallag-2017725_sfs-2017-725"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Kommunallag (2017:725)"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Matilda Hübinette"
+      }
+    } ]
+  }
+}

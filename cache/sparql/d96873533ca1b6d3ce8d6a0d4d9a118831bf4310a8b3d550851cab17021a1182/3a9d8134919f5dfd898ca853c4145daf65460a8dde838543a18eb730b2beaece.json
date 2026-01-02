@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Prague"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://praha.eu/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@praha.eu"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+420 800 100 000"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bohuslav Svoboda"
+      }
+    } ]
+  }
+}

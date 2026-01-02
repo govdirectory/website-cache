@@ -1,0 +1,43 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Schleswig-Holstein"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.schleswig-holstein.de/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:landesportal@stk.landsh.de"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+49 431 988-0"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.schleswig-holstein.de/DE/landesportal/servicemeta/kontakt"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.landtag.ltsh.de/export/sites/ltsh/service/downloadgallery/kurzinfos/06_Landesverfassung.pdf"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Verfassung des Landes Schleswig-Holstein"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Daniel Günther"
+      }
+    } ]
+  }
+}

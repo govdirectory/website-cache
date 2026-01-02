@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://veterans.ny.gov/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:DVSInfo@veterans.ny.gov"
+      },
+      "foiUrl" : {
+        "type" : "uri",
+        "value" : "https://veterans.ny.gov/foil"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://veterans.ny.gov/contact-department-veterans-services"
+      }
+    } ]
+  }
+}

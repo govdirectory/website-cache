@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Embassy_of_the_United_States,_Kampala"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://ug.usembassy.gov"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:KampalaUSCitizen@state.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+256-414-259-791"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://ug.usembassy.gov/contact/"
+      }
+    } ]
+  }
+}

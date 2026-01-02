@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/North_Carolina_State_Bureau_of_Investigation"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.ncsbi.gov/"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.ncsbi.gov/Contact-Us"
+      }
+    } ]
+  }
+}

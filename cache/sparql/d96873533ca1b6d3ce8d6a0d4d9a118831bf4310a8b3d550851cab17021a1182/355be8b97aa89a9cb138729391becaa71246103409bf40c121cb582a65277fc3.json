@@ -1,0 +1,17 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Urtenen-Sch%C3%B6nb%C3%BChl"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.urtenen-schoenbuehl.ch"
+      }
+    } ]
+  }
+}

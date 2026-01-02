@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://kzp.bg/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@kzp.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-2-933-0565"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q639704"
+      }
+    } ]
+  }
+}

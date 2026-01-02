@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://pt.usembassy.gov/u-s-consulate-ponta-delgada/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:ConsPontaDelgada@state.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+351-296-308-330"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55610802"
+      }
+    } ]
+  }
+}

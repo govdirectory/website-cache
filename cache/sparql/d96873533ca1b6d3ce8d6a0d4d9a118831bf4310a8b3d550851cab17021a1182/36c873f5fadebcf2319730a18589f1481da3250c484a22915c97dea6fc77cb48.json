@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Steenbergen"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gemeente-steenbergen.nl/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@gemeente-steenbergen.nl"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ruud van den Belt"
+      }
+    } ]
+  }
+}

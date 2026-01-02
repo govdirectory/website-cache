@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://alexandercountync.gov/departments/board-of-elections/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:elections@alexandercountync.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-828-632-2990"
+      }
+    } ]
+  }
+}

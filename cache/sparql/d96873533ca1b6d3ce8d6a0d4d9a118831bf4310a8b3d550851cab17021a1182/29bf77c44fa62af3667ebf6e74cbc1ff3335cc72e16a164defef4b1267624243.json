@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Vy%C5%A1kov"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.vyskov-mesto.cz"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:posta@meuvyskov.cz"
+      }
+    } ]
+  }
+}

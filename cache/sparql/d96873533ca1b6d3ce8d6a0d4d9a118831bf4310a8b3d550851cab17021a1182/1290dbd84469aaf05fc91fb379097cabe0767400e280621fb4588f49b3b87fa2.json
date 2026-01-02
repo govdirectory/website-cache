@@ -1,0 +1,43 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Swedish_Armed_Forces"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.forsvarsmakten.se/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:exp-hkv@mil.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-8-788-75-00"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/_sfs-2007-1266"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Förordning (2007:1266) med instruktion för Försvarsmakten"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Micael Bydén"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2982160"
+      }
+    } ]
+  }
+}

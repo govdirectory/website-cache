@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.darenc.gov/departments/elections/elections"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:elections@darenc.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-252-475-5631"
+      }
+    } ]
+  }
+}

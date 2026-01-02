@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Havelange"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.havelange.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-83-63-31-67"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nathalie Demanet"
+      }
+    } ]
+  }
+}

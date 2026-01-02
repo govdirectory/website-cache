@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.registryagency.bg/bg/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:office@registryagency.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-2-948-61-81"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12286837"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.mitrans.gob.cu/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+53 7 8818513"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.mitrans.gob.cu/es/contact"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eduardo Rodríguez Dávila"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.ncdps.gov/our-organization/juvenile-justice/juvenile-justice-overview/key-initiatives/raise-age/juvenile-jurisdiction-advisory-committee"
+      }
+    } ]
+  }
+}

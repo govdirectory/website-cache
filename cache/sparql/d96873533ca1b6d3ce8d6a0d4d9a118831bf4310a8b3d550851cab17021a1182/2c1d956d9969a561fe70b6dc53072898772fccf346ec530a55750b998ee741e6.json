@@ -1,0 +1,35 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://ndjamena.diplo.de/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@ndjamena.diplo.de"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+235-22-51-56-47"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.gesetze-im-internet.de/gad/BJNR018420990.html"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Gesetz über den Auswärtigen Dienst"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jakob Haselhuber"
+      }
+    } ]
+  }
+}

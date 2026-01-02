@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://washconc.org/board-of-elections/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:elections@washconc.org"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-252-793-6017"
+      }
+    } ]
+  }
+}

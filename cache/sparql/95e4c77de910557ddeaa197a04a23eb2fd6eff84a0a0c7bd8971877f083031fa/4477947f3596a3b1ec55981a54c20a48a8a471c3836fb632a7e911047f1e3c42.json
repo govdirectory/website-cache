@@ -1,0 +1,98 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Viber"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P10230"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://invite.viber.com/?g2=AQAYsuTqRav0MkrjTK09QU3X3NnUXshXw2SrJU5kbuo4XRV3BTWZYGXwQ+z8zn6b"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "AQAYsuTqRav0MkrjTK09QU3X3NnUXshXw2SrJU5kbuo4XRV3BTWZYGXwQ+z8zn6b"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/dof_ph"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "dof_ph"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/dof_ph/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "dof_ph"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/DOFPH"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "DOFPH"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCVI6xxn51j0p6l8O3UXEW3A"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCVI6xxn51j0p6l8O3UXEW3A"
+      }
+    } ]
+  }
+}

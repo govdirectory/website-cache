@@ -1,0 +1,17 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/General_Salipada_K._Pendatun,_Maguindanao_del_Sur"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.genskpendatun.gov.ph/"
+      }
+    } ]
+  }
+}

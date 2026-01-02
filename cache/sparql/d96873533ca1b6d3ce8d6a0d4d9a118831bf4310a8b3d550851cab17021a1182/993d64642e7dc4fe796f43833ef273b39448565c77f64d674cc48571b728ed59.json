@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kleblach-Lind"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.riskommunal.at/kleblach-lind/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:kleblach-lind@ktn.gde.at"
+      }
+    } ]
+  }
+}

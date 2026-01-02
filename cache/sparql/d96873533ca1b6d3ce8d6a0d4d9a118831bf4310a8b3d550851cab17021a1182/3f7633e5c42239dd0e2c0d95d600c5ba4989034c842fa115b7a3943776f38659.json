@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://tourism.gov.mt/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:tourism@gov.mt"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+356-2291-5900"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://tourism.gov.mt/contact-ministry-for-tourism/"
+      }
+    } ]
+  }
+}

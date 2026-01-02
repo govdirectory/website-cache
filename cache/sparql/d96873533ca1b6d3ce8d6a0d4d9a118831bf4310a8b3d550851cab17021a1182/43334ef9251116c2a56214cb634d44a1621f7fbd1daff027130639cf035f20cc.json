@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://it.usembassy.gov/embassy-consulates/naples/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:NaplesPA@state.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+39-081-583-8111"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5369967"
+      }
+    } ]
+  }
+}

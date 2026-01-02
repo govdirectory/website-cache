@@ -1,0 +1,62 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/MinagCuba"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "MinagCuba"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/Ministerio-de-la-Agricultura-de-Cuba-100083225714052"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "Ministerio-de-la-Agricultura-de-Cuba-100083225714052"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCe5-Jlly085CTkPXSbyZ4Yw"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCe5-Jlly085CTkPXSbyZ4Yw"
+      }
+    } ]
+  }
+}

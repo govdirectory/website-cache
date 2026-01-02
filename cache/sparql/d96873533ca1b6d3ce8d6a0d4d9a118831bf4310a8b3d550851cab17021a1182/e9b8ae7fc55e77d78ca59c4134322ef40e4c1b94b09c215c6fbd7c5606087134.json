@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ministry_of_Transportation_(Indonesia)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.dephub.go.id/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info151@dephub.go.id"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+62-21-3811308"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Budi Karya Sumadi"
+      }
+    } ]
+  }
+}

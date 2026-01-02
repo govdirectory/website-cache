@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://unitedstates.diplomatie.belgium.be/en/embassy-and-consulates/consulate-general-atlanta"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:atlanta@diplobel.fed.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-404-659-21-50"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5369570"
+      }
+    } ]
+  }
+}

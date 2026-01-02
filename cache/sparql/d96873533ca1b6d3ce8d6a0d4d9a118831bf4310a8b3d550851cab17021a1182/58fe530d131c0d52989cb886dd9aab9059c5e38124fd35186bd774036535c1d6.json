@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Penacova"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.cm-penacova.pt/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:geral@cm-penacova.pt"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+351-239-470-300"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "http://www.cm-penacova.pt/pt/pages/contactos"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://aref.government.bg/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:sar@saref.government.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-889-929-716"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://aref.government.bg/%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B8"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2396053"
+      }
+    } ]
+  }
+}

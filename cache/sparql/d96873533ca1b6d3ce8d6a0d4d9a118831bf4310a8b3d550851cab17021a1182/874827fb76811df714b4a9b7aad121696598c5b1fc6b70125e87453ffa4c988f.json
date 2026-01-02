@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.nab-bas.bg/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:office@nab-bas.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-2-976-64-01"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q128473504"
+      }
+    } ]
+  }
+}

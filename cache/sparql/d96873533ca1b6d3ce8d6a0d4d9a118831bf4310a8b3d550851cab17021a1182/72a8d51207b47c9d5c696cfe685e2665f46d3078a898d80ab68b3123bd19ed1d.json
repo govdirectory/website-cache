@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://sn.usembassy.gov/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+221-33-879-4000"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://sn.usembassy.gov/contact/"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Michael A. Raynor"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/tribalaffairsin"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "tribalaffairsin"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/Ministry-of-Tribal-Affairs-Government-of-India-657864217596334"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "Ministry-of-Tribal-Affairs-Government-of-India-657864217596334"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCR5HZvQvMX83ZQRbD-oyGHw"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCR5HZvQvMX83ZQRbD-oyGHw"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.richmondnc.com/178/Board-of-Elections/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:richmond.boe@richmondnc.com"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-910-997-8253"
+      }
+    } ]
+  }
+}

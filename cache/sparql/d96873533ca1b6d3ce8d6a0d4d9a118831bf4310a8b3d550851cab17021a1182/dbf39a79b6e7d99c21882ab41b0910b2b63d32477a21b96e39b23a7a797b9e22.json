@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/De_Fryske_Marren"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.defryskemarren.nl/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@defryskemarren.nl"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+310514"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Klaas Agricola"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.cdfn.se"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@cdfn.se"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.legislation.gov.uk/id/eudr/2010/63"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Directive 2010/63/EU of the European Parliament and of the Council of 22 September 2010 on the protection of animals used for scientific purposes (Text with EEA relevance)"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mattias Almqvist"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1780898"
+      }
+    } ]
+  }
+}

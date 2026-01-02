@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Dordrecht"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://cms.dordrecht.nl/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+31078"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nanning Mol"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Lax%C3%A5_Municipality"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.laxa.se"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:kommun@laxa.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-584-473100"
+      },
+      "citizensInitiatives" : {
+        "type" : "uri",
+        "value" : "https://www.laxa.se/Kommun-och-politik/Demokrati-och-insyn/Medborgarforslag---Ditt-inflytande.html"
+      },
+      "foiUrl" : {
+        "type" : "uri",
+        "value" : "https://handlingar.se/en/new/laxa_municipality"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/kommunallag-2017725_sfs-2017-725"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Kommunallag (2017:725)"
+      },
+      "leadBy" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Ankie Johanzon"
+      }
+    } ]
+  }
+}

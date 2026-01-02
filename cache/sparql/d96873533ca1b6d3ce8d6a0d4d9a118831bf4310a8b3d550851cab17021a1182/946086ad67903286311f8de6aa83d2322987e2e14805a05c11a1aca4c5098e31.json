@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.ireland.ie/en/switzerland/berne/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:berne@dfa.ie"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+41-31-350-03-80"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.ireland.ie/en/switzerland/berne/contact/"
+      }
+    } ]
+  }
+}

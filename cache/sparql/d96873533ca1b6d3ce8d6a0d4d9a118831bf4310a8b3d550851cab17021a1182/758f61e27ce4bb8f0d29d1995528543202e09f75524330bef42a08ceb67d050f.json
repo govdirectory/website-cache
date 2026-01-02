@@ -1,0 +1,17 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "http://maconnc.org/board-of-elections.html"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-828-349-2034;ext=2035"
+      }
+    } ]
+  }
+}

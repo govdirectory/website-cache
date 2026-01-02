@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Skive_Municipality"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://skive.dk/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:sk@skivekommune.dk"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peder Christian Kirkegaard"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://tg.usembassy.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+228-2261-5470"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://tg.usembassy.gov/contact/"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brenda Schoonover"
+      }
+    } ]
+  }
+}

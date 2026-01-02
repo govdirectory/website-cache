@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Federal_Department_of_Justice_and_Police"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.ejpd.admin.ch/ejpd/en/home.html"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@gs-ejpd.admin.ch"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+41-58 462 21 11"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30917"
+      }
+    } ]
+  }
+}

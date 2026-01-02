@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Herbeumont"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.herbeumont.be"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:communeherbeumont@herbeumont.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-61-21-03-30"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Catherine Mathelin"
+      }
+    } ]
+  }
+}

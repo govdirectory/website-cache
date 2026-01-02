@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "http://rzi-targovishte.bg"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:rzi-targovishte@mh.government.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-601-6-41-42"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12286820"
+      }
+    } ]
+  }
+}

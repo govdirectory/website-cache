@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Broumov"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.broumov-mesto.cz/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:broumov@broumov-mesto.cz"
+      }
+    } ]
+  }
+}

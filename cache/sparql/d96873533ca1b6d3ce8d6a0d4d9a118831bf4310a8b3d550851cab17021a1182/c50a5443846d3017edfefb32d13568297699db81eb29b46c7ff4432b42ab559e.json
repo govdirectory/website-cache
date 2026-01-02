@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Beaumont,_Belgium"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://beaumont.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@beaumont.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-71-65-42-80"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bruno Lambert"
+      }
+    } ]
+  }
+}

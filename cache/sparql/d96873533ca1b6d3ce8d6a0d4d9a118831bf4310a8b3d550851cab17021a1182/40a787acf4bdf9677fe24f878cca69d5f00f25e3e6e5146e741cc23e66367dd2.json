@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Rosenau_am_Hengstpa%C3%9F"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.rosenau.ooe.gv.at/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@rosenau.at"
+      }
+    } ]
+  }
+}

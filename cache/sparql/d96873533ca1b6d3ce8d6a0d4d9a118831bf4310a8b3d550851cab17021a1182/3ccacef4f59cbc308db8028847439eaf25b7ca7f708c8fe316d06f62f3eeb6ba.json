@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ministry_of_Investment_and_Downstream_Industry"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.bkpm.go.id/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@bkpm.go.id"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+62-21-5252008"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bahlil Lahadalia"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ru%C3%9Fbach_am_Pa%C3%9F_Gsch%C3%BCtt"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.russbach.salzburg.at"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@russbach.at"
+      }
+    } ]
+  }
+}

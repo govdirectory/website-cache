@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Raab,_Austria"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.raab.eu/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gemeinde@raab.ooe.gv.at"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://alleghanyelections.com/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:elections@alleghanycounty-nc.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-336-372-4557"
+      }
+    } ]
+  }
+}

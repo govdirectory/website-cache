@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LinkedIn"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P4264"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.linkedin.com/company/chancellerie-du-premier-ministre-fod-kanselarij-van-de-eerste-minister"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "chancellerie-du-premier-ministre-fod-kanselarij-van-de-eerste-minister"
+      }
+    } ]
+  }
+}

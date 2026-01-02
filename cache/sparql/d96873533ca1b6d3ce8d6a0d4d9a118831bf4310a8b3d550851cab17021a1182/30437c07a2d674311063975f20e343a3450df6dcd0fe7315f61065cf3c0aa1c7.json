@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Empire_State_Development_Corporation"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://esd.ny.gov/"
+      },
+      "foiUrl" : {
+        "type" : "uri",
+        "value" : "https://esd.ny.gov/freedom-information-law-foil"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://esd.ny.gov/about-us/contact-us"
+      }
+    } ]
+  }
+}

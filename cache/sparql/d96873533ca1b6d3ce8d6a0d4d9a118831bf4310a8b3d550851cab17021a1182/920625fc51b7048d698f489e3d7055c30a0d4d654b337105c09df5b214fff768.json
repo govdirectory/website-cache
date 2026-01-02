@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Coordinating_Ministry_for_Maritime_and_Investment_Affairs"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://maritim.go.id/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:Humas@maritim.go.id"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+62-21-3929347"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luhut Binsar Panjaitan"
+      }
+    } ]
+  }
+}

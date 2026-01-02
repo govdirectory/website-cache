@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Gr%C3%A2ndola"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.cm-grandola.pt/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:geral@cm-grandola.pt"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+351-269-450-000"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.cm-grandola.pt/contactos"
+      }
+    } ]
+  }
+}

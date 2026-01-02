@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.dhses.ny.gov/ofpc"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:ofpc.fire@dhses.ny.gov"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.dhses.ny.gov/contact-office-fire-prevention-and-control"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q136600185"
+      }
+    } ]
+  }
+}

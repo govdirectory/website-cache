@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://qa.usembassy.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+974-4496-6000"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://qa.usembassy.gov/contact/"
+      }
+    } ]
+  }
+}

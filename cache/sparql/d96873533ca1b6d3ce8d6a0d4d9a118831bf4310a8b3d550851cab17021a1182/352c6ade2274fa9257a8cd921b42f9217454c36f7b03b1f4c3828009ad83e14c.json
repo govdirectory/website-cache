@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Zwijndrecht,_Netherlands"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.zwijndrecht.nl/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gemeente@zwijndrecht.nl"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+31-78-77-08-301"
+      }
+    } ]
+  }
+}

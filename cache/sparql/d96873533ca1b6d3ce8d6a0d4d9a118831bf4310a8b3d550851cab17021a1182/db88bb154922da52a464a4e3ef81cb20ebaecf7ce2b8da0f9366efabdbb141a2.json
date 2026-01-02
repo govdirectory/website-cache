@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Haacht"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.haacht.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:onthaal@haacht.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-16-26-94-00"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Steven Swiggers"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://aeuf.minfin.bg/bg/2"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:aeuf@minfin.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-2-9859-5203"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q104972247"
+      }
+    } ]
+  }
+}

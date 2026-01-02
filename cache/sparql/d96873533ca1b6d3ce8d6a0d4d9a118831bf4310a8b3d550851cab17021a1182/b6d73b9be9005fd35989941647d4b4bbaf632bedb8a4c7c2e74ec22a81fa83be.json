@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ogre_Municipality"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.ogresnovads.lv/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:ogredome@ogresnovads.lv"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+371-65071160"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.ogresnovads.lv/lv/iestades-kontakti-un-rekviziti"
+      }
+    } ]
+  }
+}

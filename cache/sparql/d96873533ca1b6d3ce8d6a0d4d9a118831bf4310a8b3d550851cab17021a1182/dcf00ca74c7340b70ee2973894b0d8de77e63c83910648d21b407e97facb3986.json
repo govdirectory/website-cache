@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Vesilahti"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.vesilahti.fi/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:vesilahdenkunta@vesilahti.fi"
+      },
+      "citizensInitiatives" : {
+        "type" : "uri",
+        "value" : "https://www.kuntalaisaloite.fi/fi/hae?municipalities=922"
+      }
+    } ]
+  }
+}

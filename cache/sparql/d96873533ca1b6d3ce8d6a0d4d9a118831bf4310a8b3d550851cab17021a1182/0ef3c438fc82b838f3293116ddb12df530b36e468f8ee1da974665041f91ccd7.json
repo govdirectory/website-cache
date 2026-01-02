@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://japan.diplo.de/ja-ja/vertretungen/gk"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+81-6-64-405070"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.gesetze-im-internet.de/gad/BJNR018420990.html"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Gesetz über den Auswärtigen Dienst"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16061535"
+      }
+    } ]
+  }
+}

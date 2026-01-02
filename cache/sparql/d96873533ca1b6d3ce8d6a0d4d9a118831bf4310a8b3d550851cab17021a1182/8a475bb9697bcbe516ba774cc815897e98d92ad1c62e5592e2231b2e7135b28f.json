@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ministry_of_Health_(Singapore)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.moh.gov.sg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+65 63259220"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.moh.gov.sg/contact-us"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ong Ye Kung"
+      }
+    } ]
+  }
+}

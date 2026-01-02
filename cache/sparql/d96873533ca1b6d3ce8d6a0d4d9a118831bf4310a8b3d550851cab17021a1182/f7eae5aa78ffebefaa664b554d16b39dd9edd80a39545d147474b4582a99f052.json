@@ -1,0 +1,17 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.wilson-co.com/departments/board-of-elections"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-252-399-2836"
+      }
+    } ]
+  }
+}

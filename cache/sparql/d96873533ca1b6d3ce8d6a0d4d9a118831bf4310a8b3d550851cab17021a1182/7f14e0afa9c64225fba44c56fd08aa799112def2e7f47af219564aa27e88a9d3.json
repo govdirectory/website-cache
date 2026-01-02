@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Moravsk%C3%BD_Krumlov"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.mkrumlov.cz/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:eposta@mkrumlov.cz"
+      }
+    } ]
+  }
+}

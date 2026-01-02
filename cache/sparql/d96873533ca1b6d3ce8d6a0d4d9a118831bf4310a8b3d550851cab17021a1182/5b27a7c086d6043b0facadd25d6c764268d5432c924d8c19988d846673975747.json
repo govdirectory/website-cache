@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Embassy_of_the_United_States,_Manila"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://ph.usembassy.gov/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+63-2-5301-2000"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://ph.usembassy.gov/contact/"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "MaryKay Carlson"
+      }
+    } ]
+  }
+}

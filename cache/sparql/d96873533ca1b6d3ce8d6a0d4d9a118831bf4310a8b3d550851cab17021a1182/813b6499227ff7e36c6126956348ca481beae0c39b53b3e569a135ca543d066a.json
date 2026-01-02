@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Stetteldorf_am_Wagram"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.stetteldorf-wagram.gv.at"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gemeinde@stetteldorf-wagram.gv.at"
+      }
+    } ]
+  }
+}

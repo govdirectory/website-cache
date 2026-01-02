@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Valka_Municipality"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.valka.lv/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:novads@valka.lv"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+371-64722238"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.valka.lv/lv/pasvaldibas-kontakti"
+      }
+    } ]
+  }
+}

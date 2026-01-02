@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Oisterwijk"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.oisterwijk.nl/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gemeente@oisterwijk.nl"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+31-13-529-13-11"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hans Janssen"
+      }
+    } ]
+  }
+}

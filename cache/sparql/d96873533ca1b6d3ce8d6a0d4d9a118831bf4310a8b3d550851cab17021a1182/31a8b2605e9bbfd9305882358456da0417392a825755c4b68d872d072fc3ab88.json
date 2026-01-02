@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://cdd.ny.gov/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:information@cdd.ny.gov"
+      },
+      "foiUrl" : {
+        "type" : "uri",
+        "value" : "https://cdd.ny.gov/request-council-developmental-disabilities-records-through-new-york-state-freedom-information-law"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://cdd.ny.gov/contact-us"
+      }
+    } ]
+  }
+}

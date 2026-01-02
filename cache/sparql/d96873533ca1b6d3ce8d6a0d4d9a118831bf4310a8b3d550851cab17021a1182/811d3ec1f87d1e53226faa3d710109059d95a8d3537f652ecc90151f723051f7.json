@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://mx.usembassy.gov/visas/u-s-embassy-mexico-city/u-s-consulate-general-ciudad-juarez/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+52-656-227-3000"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21010281"
+      }
+    } ]
+  }
+}

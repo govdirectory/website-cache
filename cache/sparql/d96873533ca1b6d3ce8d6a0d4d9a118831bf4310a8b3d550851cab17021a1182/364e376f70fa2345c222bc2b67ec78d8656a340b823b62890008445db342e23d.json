@@ -1,0 +1,35 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Embassy_of_Germany,_Chi%C8%99in%C4%83u"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://chisinau.diplo.de/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+373-22-200600"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.gesetze-im-internet.de/gad/BJNR018420990.html"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Gesetz über den Auswärtigen Dienst"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Margret Uebber"
+      }
+    } ]
+  }
+}

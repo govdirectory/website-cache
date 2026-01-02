@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Bad_Gleichenberg"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.bad-gleichenberg.gv.at/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:webmaster@bad-gleichenberg.gv.at"
+      }
+    } ]
+  }
+}

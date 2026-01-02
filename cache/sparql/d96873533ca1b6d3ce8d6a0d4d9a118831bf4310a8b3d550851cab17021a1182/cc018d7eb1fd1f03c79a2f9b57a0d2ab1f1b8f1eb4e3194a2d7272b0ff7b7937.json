@@ -1,0 +1,34 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Embassy_of_the_United_States,_Athens"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://gr.usembassy.gov/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:usembassy@usembassy.gr"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+30-210-721-2951"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://gr.usembassy.gov/contact/"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Charles P. Ries"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Pa%C3%A7os_de_Ferreira"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.cm-pacosdeferreira.pt/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:geral@cm-pacosdeferreira.pt"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+351-255-860-700"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.cm-pacosdeferreira.pt/2096/diretorio-de-servicos"
+      }
+    } ]
+  }
+}

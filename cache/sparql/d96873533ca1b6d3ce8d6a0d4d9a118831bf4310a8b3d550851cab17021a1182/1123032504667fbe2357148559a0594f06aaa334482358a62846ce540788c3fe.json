@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://armenia.diplomatie.belgium.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:yerevan@diplobel.fed.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+374-10-599911"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://armenia.diplomatie.belgium.be/en/embassy-yerevan/contact-our-embassy-yerevan"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q137670"
+      }
+    } ]
+  }
+}

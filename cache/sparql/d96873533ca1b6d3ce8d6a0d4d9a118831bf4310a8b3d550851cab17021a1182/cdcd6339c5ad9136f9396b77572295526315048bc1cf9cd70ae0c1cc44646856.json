@@ -1,0 +1,38 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Public_Health_Agency_of_Sweden"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.folkhalsomyndigheten.se"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@folkhalsomyndigheten.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-10-205-20-00"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/_sfs-2013-1020"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Förordning (2013:1020) med instruktion för Folkhälsomyndigheten"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2611987"
+      }
+    } ]
+  }
+}

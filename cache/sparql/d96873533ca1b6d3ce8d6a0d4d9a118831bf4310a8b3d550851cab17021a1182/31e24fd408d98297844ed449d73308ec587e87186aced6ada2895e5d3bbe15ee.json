@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Federal_Department_of_Economic_Affairs,_Education_and_Research"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.wbf.admin.ch/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@gs-wbf.admin.ch"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+41-584622007"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30917"
+      }
+    } ]
+  }
+}

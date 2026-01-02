@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Embassy_of_Sweden,_Beijing"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.swedenabroad.com/Peking/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:ambassaden.peking@gov.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+86-10-8531-1800"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Per Augustsson"
+      }
+    } ]
+  }
+}

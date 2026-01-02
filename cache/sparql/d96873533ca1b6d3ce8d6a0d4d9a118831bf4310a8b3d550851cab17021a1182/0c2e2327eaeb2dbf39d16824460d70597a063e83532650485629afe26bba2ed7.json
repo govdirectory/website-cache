@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Valongo"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.cm-valongo.pt/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gabmunicipe@cm-valongo.pt"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.cm-valongo.pt/municipio/contactos-uteis"
+      }
+    } ]
+  }
+}

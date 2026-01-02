@@ -1,0 +1,34 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Bavaria"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.bayern.de/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:direkt@bayern.de"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+49-89-21650"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.bayern.de/buergerservice/kontakt/"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Markus Söder"
+      }
+    } ]
+  }
+}

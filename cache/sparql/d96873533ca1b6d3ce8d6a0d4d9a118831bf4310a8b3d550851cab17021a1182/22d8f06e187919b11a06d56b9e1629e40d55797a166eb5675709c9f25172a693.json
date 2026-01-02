@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://usau.usmission.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+251-11-130-7001"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://usau.usmission.gov/contact"
+      }
+    } ]
+  }
+}

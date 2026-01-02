@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P4003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/pages/Embassy-of-the-Kingdom-of-Morocco-in-Malaysia/100064912741693"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "Embassy-of-the-Kingdom-of-Morocco-in-Malaysia/100064912741693"
+      }
+    } ]
+  }
+}

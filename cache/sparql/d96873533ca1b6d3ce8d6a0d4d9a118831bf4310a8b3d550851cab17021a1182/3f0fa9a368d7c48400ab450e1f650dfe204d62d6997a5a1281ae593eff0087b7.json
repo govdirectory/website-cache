@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Pukkila"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.pukkila.fi/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:palvelupiste@pukkila.fi"
+      },
+      "citizensInitiatives" : {
+        "type" : "uri",
+        "value" : "https://www.kuntalaisaloite.fi/fi/hae?municipalities=616"
+      }
+    } ]
+  }
+}

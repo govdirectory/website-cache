@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Dormitory_Authority_of_the_State_of_New_York"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.dasny.org/"
+      },
+      "foiUrl" : {
+        "type" : "uri",
+        "value" : "https://www.dasny.org/foil"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.dasny.org/contact-us"
+      }
+    } ]
+  }
+}

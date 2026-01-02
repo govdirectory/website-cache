@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.moh.gov.cy/moh/phs/phs.nsf"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:phscentral@phs.moh.gov.cy"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+357-22-608620"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14537396"
+      }
+    } ]
+  }
+}

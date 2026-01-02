@@ -1,0 +1,44 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/japanembassyestonia/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "japanembassyestonia"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/Jaapani-Suursaatkond-Eestis-在エストニア日本国大使館-Embassy-of-Japan-in-Estonia-100064453670106"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "Jaapani-Suursaatkond-Eestis-在エストニア日本国大使館-Embassy-of-Japan-in-Estonia-100064453670106"
+      }
+    } ]
+  }
+}

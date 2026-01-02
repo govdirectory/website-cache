@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Olomouc"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.olomouc.eu/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:infocentrum@olomouc.eu"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+420-585-513-111"
+      }
+    } ]
+  }
+}

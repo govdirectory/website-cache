@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://mfa.gov.gh/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@mfa.gov.gh"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+233-240793072"
+      }
+    } ]
+  }
+}

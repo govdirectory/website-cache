@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.burkenc.org/2414/Elections"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:BURKE.boe@burkenc.org"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-828-764-9010"
+      }
+    } ]
+  }
+}

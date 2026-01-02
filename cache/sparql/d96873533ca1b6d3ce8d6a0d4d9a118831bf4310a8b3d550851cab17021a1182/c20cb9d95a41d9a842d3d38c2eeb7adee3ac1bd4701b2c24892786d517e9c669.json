@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://brazil.diplomatie.belgium.be/fr/ambassade-et-consulats/consulat-general-sao-paulo"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:saopaulo@diplobel.fed.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+55-11-3145-7500"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q104528572"
+      }
+    } ]
+  }
+}

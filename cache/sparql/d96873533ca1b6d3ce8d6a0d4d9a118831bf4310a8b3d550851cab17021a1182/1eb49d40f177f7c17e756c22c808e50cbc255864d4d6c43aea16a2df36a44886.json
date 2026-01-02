@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Gerpinnes"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gerpinnes.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@gerpinnes.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-71-50-90-00"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Philippe Busine"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ma%C3%A7%C3%A3o"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.cm-macao.pt/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:geral@cm.macao.pt"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+351-241-577-200"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.cm-macao.pt/index.php/contacto"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kop%C5%99ivnice"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.koprivnice.cz"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:posta@koprivnice.cz"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+420-556-879-411"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.koprivnice.cz/kontakt/os-10/p1=7539"
+      }
+    } ]
+  }
+}

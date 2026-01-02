@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.pittcountync.gov/Elections"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:pittelections@pittcountync.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-252-902-3300"
+      }
+    } ]
+  }
+}

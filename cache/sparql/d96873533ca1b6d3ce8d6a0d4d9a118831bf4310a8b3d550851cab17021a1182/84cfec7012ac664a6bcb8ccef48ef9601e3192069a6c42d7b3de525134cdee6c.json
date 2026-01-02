@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kolari"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.kolari.fi/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:kirjaamo@kolari.fi"
+      },
+      "citizensInitiatives" : {
+        "type" : "uri",
+        "value" : "https://www.kuntalaisaloite.fi/fi/hae?municipalities=273"
+      }
+    } ]
+  }
+}

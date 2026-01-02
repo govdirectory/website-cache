@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.cpc.bg/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:delovodstvo@cpc.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-2-935-61-13"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.cpc.bg/contact-us"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2396053"
+      }
+    } ]
+  }
+}

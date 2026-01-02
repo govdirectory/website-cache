@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Lede,_Belgium"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.lede.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@lede.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-53-60-68-00"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Geertrui Van de Velde"
+      }
+    } ]
+  }
+}

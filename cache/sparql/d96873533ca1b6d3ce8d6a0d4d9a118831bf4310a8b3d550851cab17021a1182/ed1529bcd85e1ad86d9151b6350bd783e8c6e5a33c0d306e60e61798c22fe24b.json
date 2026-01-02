@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://fr.usembassy.gov/u-s-consulate-rennes/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:usarennes@state.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+33 143124870"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q894836"
+      }
+    } ]
+  }
+}

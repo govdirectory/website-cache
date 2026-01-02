@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Consulate_General_of_the_United_States,_Hyderabad"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://in.usembassy.gov/embassy-consulates/hyderabad/"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24947370"
+      }
+    } ]
+  }
+}

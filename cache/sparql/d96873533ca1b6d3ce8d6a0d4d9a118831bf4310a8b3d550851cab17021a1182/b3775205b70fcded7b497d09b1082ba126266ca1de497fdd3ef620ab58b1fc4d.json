@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Embassy_of_the_United_States,_Helsinki"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://fi.usembassy.gov/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+358-9-616-250"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://fi.usembassy.gov/contact/"
+      }
+    } ]
+  }
+}

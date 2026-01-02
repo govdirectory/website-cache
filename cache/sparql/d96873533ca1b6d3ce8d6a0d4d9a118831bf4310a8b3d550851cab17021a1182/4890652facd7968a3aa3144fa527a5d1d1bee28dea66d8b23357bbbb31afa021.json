@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Su%C3%B0urnesjab%C3%A6r"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.sudurnesjabaer.is"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:afgreidsla@sudurnesjabaer.is"
+      }
+    } ]
+  }
+}

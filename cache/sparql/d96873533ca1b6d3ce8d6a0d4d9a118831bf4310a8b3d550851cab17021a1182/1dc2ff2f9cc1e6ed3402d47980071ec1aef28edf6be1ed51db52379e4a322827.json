@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "http://orangecountync.gov/1720/Elections"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:vote@orangecountync.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-919-245-2350"
+      }
+    } ]
+  }
+}

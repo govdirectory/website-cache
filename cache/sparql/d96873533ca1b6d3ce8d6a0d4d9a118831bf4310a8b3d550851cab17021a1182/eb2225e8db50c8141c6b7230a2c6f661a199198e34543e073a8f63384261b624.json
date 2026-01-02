@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://usoecd.usmission.gov/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:USOECDPAO@state.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+33-1-43-12-74-26"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://usoecd.usmission.gov/contact/"
+      }
+    } ]
+  }
+}

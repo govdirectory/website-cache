@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kirchschlag_in_der_Buckligen_Welt"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.kirchschlag.at"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@kirchschlag.at"
+      }
+    } ]
+  }
+}

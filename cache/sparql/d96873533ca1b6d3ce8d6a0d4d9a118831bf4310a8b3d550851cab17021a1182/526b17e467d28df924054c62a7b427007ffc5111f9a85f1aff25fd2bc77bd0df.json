@@ -1,0 +1,43 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Swedish_Research_Council"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.vr.se/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:registrator@vr.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-8-546-440-00"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/_sfs-2009-975"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Förordning (2009:975) med instruktion för Vetenskapsrådet"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Katarina Bjelke"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4294535"
+      }
+    } ]
+  }
+}

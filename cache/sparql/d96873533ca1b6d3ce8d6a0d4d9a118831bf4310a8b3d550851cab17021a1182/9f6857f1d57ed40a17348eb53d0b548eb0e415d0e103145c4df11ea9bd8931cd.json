@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://yanceycountync.gov/178/Board-of-Elections"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:boe@yanceycountync.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-828-682-3950"
+      }
+    } ]
+  }
+}

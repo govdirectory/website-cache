@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ministry_of_Energy,_Mines_and_Environment_(Morocco)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.mtedd.gov.ma/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:contact@mem.gov.ma"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Leïla Benali"
+      }
+    } ]
+  }
+}

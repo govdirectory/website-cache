@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Sankt_Andr%C3%A4-W%C3%B6rdern"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.staw.at/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:post@staw.at"
+      }
+    } ]
+  }
+}

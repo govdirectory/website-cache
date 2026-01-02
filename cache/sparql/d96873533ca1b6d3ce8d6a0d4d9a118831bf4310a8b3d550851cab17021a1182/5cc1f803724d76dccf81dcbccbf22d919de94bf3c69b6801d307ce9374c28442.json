@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://greenecountync.gov/departments/vote/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:vote@greenecountync.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-252-747-5921"
+      }
+    } ]
+  }
+}

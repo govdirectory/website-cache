@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.norskdekommisjonering.no/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:post@nnd.no"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+47-47-75-44-00"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.norskdekommisjonering.no/kontakt-oss"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18177740"
+      }
+    } ]
+  }
+}

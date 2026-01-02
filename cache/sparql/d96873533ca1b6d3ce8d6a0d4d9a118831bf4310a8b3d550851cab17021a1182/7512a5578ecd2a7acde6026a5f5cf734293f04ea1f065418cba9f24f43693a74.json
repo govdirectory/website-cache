@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Bad_Traunstein"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.traunstein.gv.at/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:office@bad-traunstein.at"
+      }
+    } ]
+  }
+}

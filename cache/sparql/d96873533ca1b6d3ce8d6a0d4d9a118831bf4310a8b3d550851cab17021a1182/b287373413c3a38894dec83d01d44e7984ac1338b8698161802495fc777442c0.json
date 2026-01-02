@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.cem.bg/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:office@cem.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-2-970-88-10"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q639704"
+      }
+    } ]
+  }
+}

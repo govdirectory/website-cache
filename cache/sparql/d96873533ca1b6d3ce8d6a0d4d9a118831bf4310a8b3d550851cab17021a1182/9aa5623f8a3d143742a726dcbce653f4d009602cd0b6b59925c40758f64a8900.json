@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.mzh.government.bg/odz-pazardzhik/bg/Home.aspx"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:ODZG_Pazardzhik@mzh.government.bg"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4294694"
+      }
+    } ]
+  }
+}

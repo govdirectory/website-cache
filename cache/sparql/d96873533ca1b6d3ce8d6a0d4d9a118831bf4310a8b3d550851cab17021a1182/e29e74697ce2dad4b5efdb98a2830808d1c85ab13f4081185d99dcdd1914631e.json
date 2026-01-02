@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.politie.be/5440/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:pz.aalst@police.belgium.eu"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-53-73-27-27"
+      }
+    } ]
+  }
+}

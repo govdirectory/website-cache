@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Gols_(town)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gols.at/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:post@gols.bgld.gv.at"
+      }
+    } ]
+  }
+}

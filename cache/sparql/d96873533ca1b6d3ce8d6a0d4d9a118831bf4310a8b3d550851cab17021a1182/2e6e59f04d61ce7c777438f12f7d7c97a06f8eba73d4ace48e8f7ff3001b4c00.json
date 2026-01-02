@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ministry_of_Justice_(Bulgaria)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.justice.government.bg/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:priemna@justice.government.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-2-923-75-55"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pencho Penev"
+      }
+    } ]
+  }
+}

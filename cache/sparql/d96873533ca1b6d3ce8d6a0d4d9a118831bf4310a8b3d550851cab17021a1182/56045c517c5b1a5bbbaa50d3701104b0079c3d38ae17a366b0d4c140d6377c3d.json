@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.mfa.gov.lv/israel"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:embassy.israel@mfa.gov.lv"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+972-3-777-58-00"
+      }
+    } ]
+  }
+}

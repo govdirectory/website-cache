@@ -1,0 +1,62 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P11245"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/@eskolabauma"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "eskolabauma"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/Minist%C3%A9rio-da-Educa%C3%A7%C3%A3o-Juventude-e-Desporto-101191771669461"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "Minist%C3%A9rio-da-Educa%C3%A7%C3%A3o-Juventude-e-Desporto-101191771669461"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCwI-HkNXDt7i-ZwuSdeNsBQ"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCwI-HkNXDt7i-ZwuSdeNsBQ"
+      }
+    } ]
+  }
+}

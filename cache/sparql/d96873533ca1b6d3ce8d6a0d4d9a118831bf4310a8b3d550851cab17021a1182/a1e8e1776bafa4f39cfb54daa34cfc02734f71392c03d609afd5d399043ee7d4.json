@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://turkiye.diplomatie.belgium.be/en/embassy-and-consulates/consulate-general-istanbul"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:Istanbul@diplobel.fed.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+90 212 243 20 68"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q104587742"
+      }
+    } ]
+  }
+}

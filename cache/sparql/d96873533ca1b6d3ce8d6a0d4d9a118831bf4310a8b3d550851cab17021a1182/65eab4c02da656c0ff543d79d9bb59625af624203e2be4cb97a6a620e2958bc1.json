@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Jind%C5%99ich%C5%AFv_Hradec"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.jh.cz/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:meu@jh.cz"
+      }
+    } ]
+  }
+}

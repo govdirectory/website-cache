@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Quaregnon"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.quaregnon.be"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:commune@quaregnon.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-65-46-86-11"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Damien Jenart"
+      }
+    } ]
+  }
+}

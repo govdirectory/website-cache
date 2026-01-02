@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://lt.usembassy.gov/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:WebEmailVilnius@state.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+370-5-266-5600"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://lt.usembassy.gov/contact/"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Herk-de-Stad"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.herk-de-stad.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@herk-de-stad.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-13-38-03-10"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bert Moyaers"
+      }
+    } ]
+  }
+}

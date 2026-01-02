@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Federal_Ministry_of_the_Interior_(Germany)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.bmi.bund.de/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:presse@bmi.bund.de"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+49-30-18681-11089"
+      }
+    } ]
+  }
+}

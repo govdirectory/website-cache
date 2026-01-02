@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.yadkincountync.gov/index.aspx?nid=88"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:YCBOE@yadkincountync.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-336-849-7907"
+      }
+    } ]
+  }
+}

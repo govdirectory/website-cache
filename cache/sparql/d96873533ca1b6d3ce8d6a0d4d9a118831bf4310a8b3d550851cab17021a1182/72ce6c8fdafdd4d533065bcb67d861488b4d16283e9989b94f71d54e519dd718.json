@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Hustope%C4%8De"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.hustopece.cz/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:posta@hustopece.cz"
+      }
+    } ]
+  }
+}

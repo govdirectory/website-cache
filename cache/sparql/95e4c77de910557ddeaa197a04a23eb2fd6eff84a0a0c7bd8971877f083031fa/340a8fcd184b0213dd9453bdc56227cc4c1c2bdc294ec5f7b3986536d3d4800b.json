@@ -1,0 +1,62 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/Japan_Emb_inCN"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "Japan_Emb_inCN"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Weibo"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P3579"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://weibo.com/japanembassy"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "japanembassy"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bilibili"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P6455"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://space.bilibili.com/105491279"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "105491279"
+      }
+    } ]
+  }
+}

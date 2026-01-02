@@ -1,0 +1,44 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UC-MYo4QafnsuN4sBRRIPKhw"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UC-MYo4QafnsuN4sBRRIPKhw"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCfaGG-DJp8VdDqXelz9Kluw"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCfaGG-DJp8VdDqXelz9Kluw"
+      }
+    } ]
+  }
+}

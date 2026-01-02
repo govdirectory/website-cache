@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://moi.gov.gh/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info.moi@moi.gov.gh"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+233-302-909-609"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://moi.gov.gh/contact-us/"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Guled Hussein Kasim"
+      }
+    } ]
+  }
+}

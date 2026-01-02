@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Korsn%C3%A4s"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.korsnas.fi/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@korsnas.fi"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+358-6-3479-111"
+      }
+    } ]
+  }
+}

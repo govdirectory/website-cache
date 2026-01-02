@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://er.usembassy.gov"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:ConsularAsmara@state.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+291-1-12-00-04"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://er.usembassy.gov/contact/"
+      }
+    } ]
+  }
+}

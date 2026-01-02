@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Embassy_of_the_United_States,_Lima"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://pe.usembassy.gov"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:lima_webmaster@state.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+51-1-618-2000"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://pe.usembassy.gov/contact/"
+      }
+    } ]
+  }
+}

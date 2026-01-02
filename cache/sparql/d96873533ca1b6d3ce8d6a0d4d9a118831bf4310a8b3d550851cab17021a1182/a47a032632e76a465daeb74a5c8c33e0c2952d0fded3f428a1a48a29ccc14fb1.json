@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://ng.usembassy.gov/consulate-lagos/"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+234-201-460-3400"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://ng.usembassy.gov/contact/#lagos"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q105622505"
+      }
+    } ]
+  }
+}

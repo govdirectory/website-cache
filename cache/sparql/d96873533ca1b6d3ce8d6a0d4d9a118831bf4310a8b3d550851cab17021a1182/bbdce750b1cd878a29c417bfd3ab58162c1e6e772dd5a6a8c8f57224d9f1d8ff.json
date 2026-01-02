@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Stichtse_Vecht"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://stichtsevecht.nl/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@stichtsevecht.nl"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+310346"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ap Reinders"
+      }
+    } ]
+  }
+}

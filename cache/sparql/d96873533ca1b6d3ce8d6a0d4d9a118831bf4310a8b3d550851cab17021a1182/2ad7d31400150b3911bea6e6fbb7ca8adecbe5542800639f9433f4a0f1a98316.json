@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Apeldoorn"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.apeldoorn.nl/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gemeente@apeldoorn.nl"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+31-55-580-15-55"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ton Heerts"
+      }
+    } ]
+  }
+}

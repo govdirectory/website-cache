@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://fr.usembassy.gov/u-s-consulate-lyon/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:usalyon@state.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+33-1-43-12-48-60"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q894836"
+      }
+    } ]
+  }
+}

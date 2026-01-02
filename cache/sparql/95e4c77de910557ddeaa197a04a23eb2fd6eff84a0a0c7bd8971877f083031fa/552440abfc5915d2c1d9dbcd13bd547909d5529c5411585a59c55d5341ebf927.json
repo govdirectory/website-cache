@@ -1,0 +1,170 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rutube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P10152"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://rutube.ru/channel/23644112/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "23644112"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P11245"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/@минздравроссии-э8к"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "минздравроссии-э8к"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/MINZDRAV_RF"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "MINZDRAV_RF"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/rosminzdrav.ru/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "rosminzdrav.ru"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/MinzdravRu"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "MinzdravRu"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UC89vvPtPH1AG50IMSWLD61g"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UC89vvPtPH1AG50IMSWLD61g"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "VK"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P3185"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://vk.com/minzdravru"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "minzdravru"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Telegram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P3789"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://t.me/s/minzdrav_ru"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "minzdrav_ru"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Odnoklassniki"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P5163"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://ok.ru/minzdravru"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "minzdravru"
+      }
+    } ]
+  }
+}

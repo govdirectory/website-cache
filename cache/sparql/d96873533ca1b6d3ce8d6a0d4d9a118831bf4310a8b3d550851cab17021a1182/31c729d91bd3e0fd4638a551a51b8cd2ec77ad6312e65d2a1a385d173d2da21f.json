@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ludza_Municipality"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.ludzasnovads.lv/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:pasts@ludzasnovads.lv"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+371-65707400"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.ludzasnovads.lv/lv/pasvaldibas-kontakti"
+      }
+    } ]
+  }
+}

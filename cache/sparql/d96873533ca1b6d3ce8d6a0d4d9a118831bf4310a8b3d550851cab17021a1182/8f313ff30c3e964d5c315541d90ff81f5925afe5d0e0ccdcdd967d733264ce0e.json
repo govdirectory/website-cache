@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Castanheira_de_Pera"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.cm-castanheiradepera.pt/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:camara@cm-castanheiradepera.pt"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.cm-castanheiradepera.pt/PT/contactos"
+      }
+    } ]
+  }
+}

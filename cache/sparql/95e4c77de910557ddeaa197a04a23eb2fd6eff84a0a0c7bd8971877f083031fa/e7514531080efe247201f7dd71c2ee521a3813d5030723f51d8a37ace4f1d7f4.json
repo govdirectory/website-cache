@@ -1,0 +1,62 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/MoroccoInTurkey"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "MoroccoInTurkey"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Instagram"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2003"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.instagram.com/morocco_in_turkey/"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "morocco_in_turkey"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/Morocco-in-Türkiye-Embassy-of-The-Kingdom-of-Morocco-in-Ankara/100065115605440"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "Morocco-in-Türkiye-Embassy-of-The-Kingdom-of-Morocco-in-Ankara/100065115605440"
+      }
+    } ]
+  }
+}

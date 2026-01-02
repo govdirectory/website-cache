@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gastongov.com/242/elections"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:elections@gastongov.com"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-704-852-6005"
+      }
+    } ]
+  }
+}

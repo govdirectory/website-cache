@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://brandweer.brussels/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@firebru.brussels"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-2-208-81-11"
+      }
+    } ]
+  }
+}

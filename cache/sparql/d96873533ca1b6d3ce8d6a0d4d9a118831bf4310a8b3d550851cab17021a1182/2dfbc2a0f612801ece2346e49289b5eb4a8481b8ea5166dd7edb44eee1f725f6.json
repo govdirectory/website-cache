@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ministry_of_Women_Empowerment_and_Children_Protection"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.kemenpppa.go.id/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:persuratan@kemenpppa.go.id"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+62-21-3805563"
+      }
+    } ]
+  }
+}

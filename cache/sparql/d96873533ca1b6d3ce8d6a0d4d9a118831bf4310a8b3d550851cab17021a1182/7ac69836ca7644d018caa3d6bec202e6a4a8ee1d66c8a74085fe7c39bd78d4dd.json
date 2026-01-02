@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/H%C3%BCttenberg,_Austria"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.huettenberg.at"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:huettenberg@ktn.gde.at"
+      }
+    } ]
+  }
+}

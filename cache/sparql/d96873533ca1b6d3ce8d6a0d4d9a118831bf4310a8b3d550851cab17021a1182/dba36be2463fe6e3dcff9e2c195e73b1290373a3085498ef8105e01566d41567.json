@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Stede_Broec"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.stedebroec.nl/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gemeente@stedebroec.nl"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+31228510111"
+      }
+    } ]
+  }
+}

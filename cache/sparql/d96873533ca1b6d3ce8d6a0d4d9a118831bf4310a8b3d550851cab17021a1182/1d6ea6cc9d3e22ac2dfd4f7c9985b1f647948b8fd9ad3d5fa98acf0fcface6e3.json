@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Appenzell_Ausserrhoden"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://ar.ch/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:kommunikation@ar.ch"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://ar.ch/kontakt/"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Vis%C3%A9"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.vise.be"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:vise@vise.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-4-374-84-10"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Viviane Dessart"
+      }
+    } ]
+  }
+}

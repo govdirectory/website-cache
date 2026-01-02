@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Westervoort"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.westervoort.nl/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gemeente@westervoort.nl"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+31-26-317-99-11"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pieter Lodewijk Ebeling"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.chathamcountync.gov/government/departments-programs-a-h/elections"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:elections@chathamcountync.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-919-545-8500"
+      }
+    } ]
+  }
+}

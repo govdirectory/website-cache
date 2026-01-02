@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Torres_Novas"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.cm-torresnovas.pt/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:geral@cm-torresnovas.pt"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+351-249-839-430"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://cm-torresnovas.pt/index.php/contactos/câmara-municipal-contactos"
+      }
+    } ]
+  }
+}

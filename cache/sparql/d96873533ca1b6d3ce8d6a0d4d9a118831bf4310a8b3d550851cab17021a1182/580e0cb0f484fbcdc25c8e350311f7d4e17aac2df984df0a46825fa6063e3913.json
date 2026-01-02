@@ -1,0 +1,30 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Manage,_Belgium"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.manage-commune.be/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@manage-commune.be"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+32-64-51-82-11"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bruno Pozzoni"
+      }
+    } ]
+  }
+}

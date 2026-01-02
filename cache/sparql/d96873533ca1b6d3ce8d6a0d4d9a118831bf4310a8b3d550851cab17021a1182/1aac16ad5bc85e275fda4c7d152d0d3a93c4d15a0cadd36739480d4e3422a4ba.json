@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.iag.bg/lang/2/index"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:iag@iag.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-2-9851-1512"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4294694"
+      }
+    } ]
+  }
+}

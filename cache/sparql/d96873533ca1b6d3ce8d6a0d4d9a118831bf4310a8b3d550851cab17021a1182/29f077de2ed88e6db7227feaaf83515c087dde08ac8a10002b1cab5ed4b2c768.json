@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Hohenau_an_der_March"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.hohenau-march.at"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:gemeindeamt@hohenau.at"
+      }
+    } ]
+  }
+}

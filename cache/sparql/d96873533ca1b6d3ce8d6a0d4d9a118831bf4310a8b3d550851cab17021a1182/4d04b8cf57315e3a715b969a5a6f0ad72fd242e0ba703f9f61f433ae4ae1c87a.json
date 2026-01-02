@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.heradsdomstolar.is/heradsdomstolar/vestfirdir/yfirlit/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:heradsdomur.vestfjarda@domstolar.is"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Halldór Björnsson"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1413677"
+      }
+    } ]
+  }
+}

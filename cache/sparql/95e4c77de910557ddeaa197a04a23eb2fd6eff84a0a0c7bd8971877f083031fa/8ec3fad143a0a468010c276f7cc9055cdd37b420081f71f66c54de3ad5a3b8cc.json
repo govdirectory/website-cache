@@ -1,0 +1,62 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "X"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2002"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://x.com/LVembUzbekistan"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "LVembUzbekistan"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/Latvijas-vēstniecība-UzbekistānāEmbassy-of-Latvia-in-Uzbekistan-100086118087069"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "Latvijas-vēstniecība-UzbekistānāEmbassy-of-Latvia-in-Uzbekistan-100086118087069"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Flickr"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P3267"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.flickr.com/people/170226663@N04"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "170226663@N04"
+      }
+    } ]
+  }
+}

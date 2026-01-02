@@ -1,0 +1,47 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Hudiksvall_Municipality"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.hudiksvall.se"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:kommun@hudiksvall.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-650-19000"
+      },
+      "citizensInitiatives" : {
+        "type" : "uri",
+        "value" : "https://hudiksvall.se/Sidor/Kommun--politik/Delta-och-paverka/Elektroniskt-medborgarforslag.html"
+      },
+      "foiUrl" : {
+        "type" : "uri",
+        "value" : "https://handlingar.se/en/new/hudiksvall_municipality"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/kommunallag-2017725_sfs-2017-725"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Kommunallag (2017:725)"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mikael Löthstam"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.mzh.government.bg/ODZ-Pleven/bg/Home.aspx"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:odzpleven@gmail.com"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-64-802-320"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4294694"
+      }
+    } ]
+  }
+}

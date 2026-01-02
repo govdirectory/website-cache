@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Slatina,_Sofia"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://so-slatina.org"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@so-slatina.org"
+      }
+    } ]
+  }
+}

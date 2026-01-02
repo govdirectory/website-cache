@@ -1,0 +1,29 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Municipality_Goes"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.goes.nl/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:stadskantoor@goes.nl"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+310113"
+      },
+      "contactPage" : {
+        "type" : "uri",
+        "value" : "https://www.goes.nl/afspraak-maken-en-contact"
+      }
+    } ]
+  }
+}

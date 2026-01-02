@@ -1,0 +1,47 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kiruna_Municipality"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://kiruna.se"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:kommun@kiruna.se"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+46-980-700-00"
+      },
+      "citizensInitiatives" : {
+        "type" : "uri",
+        "value" : "https://kiruna.se/download/18.5d3963d5176d7b368b5d0715/1611299819439/Formul%C3%A4r%20f%C3%B6r%20kommunkontakten.pdf"
+      },
+      "foiUrl" : {
+        "type" : "uri",
+        "value" : "https://handlingar.se/en/new/kiruna_municipality"
+      },
+      "regulatoryText" : {
+        "type" : "uri",
+        "value" : "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/kommunallag-2017725_sfs-2017-725"
+      },
+      "regulatoryTextTitle" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Kommunallag (2017:725)"
+      },
+      "leadBy" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mats Taaveniku"
+      }
+    } ]
+  }
+}

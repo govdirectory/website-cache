@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Sankt_Michael_im_Burgenland"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.gde-st-michael-b.nwy.at/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:post@st-michael.bgld.gv.at"
+      }
+    } ]
+  }
+}

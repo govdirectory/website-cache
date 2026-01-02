@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.ccktc.org.sg/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:info@ccktc.org.sg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+6565690388"
+      }
+    } ]
+  }
+}

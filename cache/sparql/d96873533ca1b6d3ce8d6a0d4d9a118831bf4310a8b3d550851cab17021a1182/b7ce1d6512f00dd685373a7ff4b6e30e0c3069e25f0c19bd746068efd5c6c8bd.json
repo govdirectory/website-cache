@@ -1,0 +1,21 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.madisoncountync.gov/board-of-elections.html"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:Madison.boe@madisoncountync.gov"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+1-828-649-0731"
+      }
+    } ]
+  }
+}

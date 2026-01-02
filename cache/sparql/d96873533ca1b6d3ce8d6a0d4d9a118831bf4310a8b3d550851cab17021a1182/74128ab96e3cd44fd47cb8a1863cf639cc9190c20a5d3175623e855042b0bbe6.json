@@ -1,0 +1,25 @@
+{
+  "head" : {
+    "vars" : [ "website", "email", "phone", "citizensInitiatives", "foiUrl", "contactPage", "regulatoryText", "regulatoryTextTitle", "leadBy", "parent", "wikipedia" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "website" : {
+        "type" : "uri",
+        "value" : "https://investbg.government.bg/"
+      },
+      "email" : {
+        "type" : "uri",
+        "value" : "mailto:iba@investbg.government.bg"
+      },
+      "phone" : {
+        "type" : "literal",
+        "value" : "+359-2-985-55-00"
+      },
+      "parent" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q121886841"
+      }
+    } ]
+  }
+}

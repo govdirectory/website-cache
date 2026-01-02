@@ -1,0 +1,44 @@
+{
+  "head" : {
+    "vars" : [ "platformLabel", "property", "url", "account" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Facebook"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2013"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.facebook.com/Commune-et-CPAS-de-Rebecq-100063498101175"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "Commune-et-CPAS-de-Rebecq-100063498101175"
+      }
+    }, {
+      "platformLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "YouTube"
+      },
+      "property" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P2397"
+      },
+      "url" : {
+        "type" : "uri",
+        "value" : "https://www.youtube.com/channel/UCM6K-sMsbmNX9ZzIhmTMg_w"
+      },
+      "account" : {
+        "type" : "literal",
+        "value" : "UCM6K-sMsbmNX9ZzIhmTMg_w"
+      }
+    } ]
+  }
+}
