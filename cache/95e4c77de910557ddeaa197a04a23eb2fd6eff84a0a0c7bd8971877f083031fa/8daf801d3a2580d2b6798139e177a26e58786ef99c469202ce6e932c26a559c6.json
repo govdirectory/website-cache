@@ -1,8 +1,0 @@
-{
-  "head" : {
-    "vars" : [ "platformLabel", "property", "url", "verified", "account" ]
-  },
-  "results" : {
-    "bindings" : [ ]
-  }
-}
